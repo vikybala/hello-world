@@ -1,112 +1,3617 @@
 
-<!DOCTYPE html><html lang="en" class=fonts-loaded><head>  <link rel="preconnect" href="https://res.cloudinary.com" crossorigin="anonymous">  <link rel="preconnect" href="https://analytics.swiggy.com" crossorigin="anonymous">   <link rel="dns-prefetch" href="https://res.cloudinary.com">  <link rel="dns-prefetch" href="https://analytics.swiggy.com">  <link rel="dns-prefetch" href="https://www.googletagmanager.com">  <link rel="dns-prefetch" href="https://www.gstatic.com">  <link rel="dns-prefetch" href="https://www.google-analytics.com">  <link rel="dns-prefetch" href="https://q.quora.com">  <link rel="dns-prefetch" href="https://www.google.co.in">  <link rel="dns-prefetch" href="https://www.facebook.com">  <link rel="dns-prefetch" href="https://www.googleadservices.com">  <link rel="dns-prefetch" href="https://bat.bing.com">  <meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta charset="utf-8">  <link rel="stylesheet" href="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/css/styles.7b0a50a07ed3f488dbea0bbe880bcf46.css" crossorigin="anonymous">   <link rel="preload" as="script" href="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/js/manifest.251e7d48cf50bec.js" crossorigin="anonymous">  <link rel="preload" as="script" href="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/js/vendor.251e7d48cf50bec.js" crossorigin="anonymous">  <link rel="preload" as="script" href="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/js/app.251e7d48cf50bec.js" crossorigin="anonymous">    <link rel="preload" as="script" href="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/js/home.251e7d48cf50bec.js" crossorigin="anonymous">      <link rel="preload" as="image" href="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch1_vlksgq" crossorigin="anonymous">  <title>Order food online from India&#39;s best food delivery service. Order from restaurants near you</title><meta name="description" content="Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad, Delhi, Gurgaon, Nagpur, Jaipur, Coimbatore, Chandigarh, Ahemdabad, Visakhapatnam, Lucknow, Noida, Mumbai, Pune, Indore, Kochi, Kolkata and Chennai. Order Pizzas, Burgers, Biryanis, Desserts or order from Subway, Pizza Hut, Dominos, KFC, McDonalds."><meta name="keywords" content="restaurants, order food, order online, order food online, food, delivery, food delivery, home delivery, fast, hungry, quickly, offer, discount, takeaway, cuisine, pizza, burger, biryani, dessert, juice, dosa, bangalore, visakhapatnam, nagpur, bengaluru, delhi, gurgaon, ncr, noida, lucknow, hyderabad, mumbai, jaipur, bombay, chennai, pune, kolkata, ahemdabad, kochi, coimbatore, pizza hut, mcd, mcdonalds, dominos, haagen dazs, baskin robbins, papa johns, kfc, haldiram, breakfast, lunch, dinner, snacks, restaurants near me"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">  <meta name="robots" content="index, follow">   <link rel="canonical" href="https://www.swiggy.com">     <meta name="og_site_name" property="og:site_name" content="Swiggy.com"><meta name="og_title" property="og:title" content="Order food online from India&#39;s best food delivery service. Order from restaurants near you"><meta property="og:type" content="website"><meta property="og:description" content="Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad, Delhi, Gurgaon, Nagpur, Jaipur, Coimbatore, Chandigarh, Ahemdabad, Visakhapatnam, Lucknow, Noida, Mumbai, Pune, Indore, Kochi, Kolkata and Chennai. Order Pizzas, Burgers, Biryanis, Desserts or order from Subway, Pizza Hut, Dominos, KFC, McDonalds.">  <meta name="og_url" property="og:url" content="https://www.swiggy.com/">   <meta property="og:image" content="https://res.cloudinary.com/swiggy/image/upload/c_scale,w_715/v1513594444/swiggy_host_ytmrnn">  <link rel="icon" sizes="192x192" href="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_192,h_192/portal/c/logo_2022.png"><link rel="apple-touch-icon" sizes="192x192" href="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_192,h_192/portal/c/logo_2022.png"><meta name="msapplication-TileColor" content="#e46d47"><meta name="msapplication-TileImage" content="https://res.cloudinary.com/swiggy/image/upload/portal/c/mstile-150x150.png"><link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_16,h_16/portal/c/logo_2022.ico"><link rel="shortcut icon" type="image/x-icon" href="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_32,h_32/portal/c/logo_2022.ico"><link rel="icon" type="image/png" href="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_96,h_96/portal/c/logo_2022.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_72,h_72/portal/c/logo_2022.png"><script>"undefined"==typeof Promise&&document.write("<script src=\"https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/libs/es6-promise.js\" defer><\/script>")</script> <script>!function(e,t,a,g,n){e[g]=e[g]||[],e[g].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-MJV7Q8Q",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer")</script>   </head><body><div id="root" style="height: 100%;"><style swgy-inline-style>@keyframes _1P7SL{0%{width:0}to{width:90%}}._3arMG{position:relative;padding-top:80px;min-height:100%;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;min-width:1240px}.nDVxx{-ms-flex-positive:1;flex-grow:1} @font-face{font-family:icomoon;src:url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.5badf5.eot);src:url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.5badf5.eot#iefix) format("embedded-opentype"),url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.7c7523.ttf) format("truetype"),url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.a62ccf.woff) format("woff"),url(https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/fonts/icomoon.e6b71b.svg#icomoon) format("svg");font-weight:400;font-style:normal}[class*=" icon-"],[class^=icon-]{font-family:icomoon;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-meat:before{content:"\E91F"}.icon-leaf:before{content:"\E920"}.icon-percentage:before{content:"\E922"}.icon-downArrow:before{content:"\E923"}.icon-back:before{content:"\E924"}.icon-cartInverse:before{content:"\E925"}.icon-clock:before{content:"\E926"}.icon-close:before{content:"\E927"}.icon-downArrow2:before{content:"\E928"}.icon-downArrowSmall:before{content:"\E929"}.icon-explore:before{content:"\E910"}.icon-heart:before{content:"\E92A"}.icon-heartInverse:before{content:"\E92B"}.icon-filter:before{content:"\E92C"}.icon-home:before{content:"\E92D"}.icon-info:before{content:"\E92E"}.icon-longDistance:before{content:"\E930"}.icon-menu:before{content:"\E931"}.icon-rightArrow:before{content:"\E932"}.icon-moreVertical:before{content:"\E933"}.icon-orderConfirmed:before{content:"\E915"}.icon-orderReceived:before{content:"\E917"}.icon-order-confirmed-inverse:before{content:"\E934"}.icon-order-received-inverse:before{content:"\E92F"}.icon-orderPickedup:before{content:"\E918"}.icon-phone:before{content:"\E937"}.icon-star:before{content:"\E938"}.icon-recent:before{content:"\E939"}.icon-refer:before{content:"\E93A"}.icon-restaurant:before{content:"\E93B"}.icon-magnifier:before{content:"\E910"}.icon-starInverse:before{content:"\E93C"}.icon-lightning:before{content:"\E93D"}.icon-longDistanceSurge:before{content:"\E93E"}.icon-swgy:before{content:"\E93F"}.icon-swgyInverse:before{content:"\E940"}.icon-tickSharp:before{content:"\E941"}.icon-tickRound:before{content:"\E942"}.icon-foodSymbol:before{content:"\E944"}.icon-Veg:before{content:"\E997"}.icon-NonVeg:before{content:"\E998"}.icon-verified:before{content:"\E945"}.icon-work:before{content:"\E946"}.icon-offer-filled:before,.icon-offer:before{content:"\E921"}.icon-downCircle:before{content:"\E936"}.icon-upCircle:before{content:"\E943"}.icon-badge:before{content:"\E94D"}.icon-clockDark:before{content:"\E94E"}.icon-orderCancel:before{content:"\E947"}.icon-orderDelivered:before{content:"\E916"}.icon-delete:before{content:"\E949"}.icon-snacks:before{content:"\E94F"}.icon-homeDark:before{content:"\E94A"}.icon-markerDark:before{content:"\E94B"}.icon-workDark:before{content:"\E94C"}.icon-beverage:before{content:"\E91B"}.icon-beverage-2:before{content:"\E91C"}.icon-close-thin:before{content:"\E913"}.icon-location:before{content:"\E911"}.icon-location-crosshair:before{content:"\E914"}.icon-alert:before{content:"\E956"}.icon-help:before{content:"\E90F"}.icon-netbanking:before{content:"\E907"}.icon-paybycash:before{content:"\E908"}.icon-preferred:before{content:"\E909"}.icon-saved-card:before{content:"\E90A"}.icon-wallet-filled:before{content:"\E90B"}.icon-wallet-checkout:before{content:"\E90C"}.icon-marker-checkout:before{content:"\E90D"}.icon-user-checkout:before{content:"\E90E"}.icon-payments:before{content:"\E912"}.icon-orders:before{content:"\E919"}.icon-offers:before{content:"\E91A"}.icon-manage-addresses:before{content:"\E91D"}.icon-favourites:before{content:"\E91E"}.icon-overdue:before{content:"\E906"}.icon-assured-shield:before{content:"\E935"}.icon-add-new-card:before{content:"\E905"}.icon-offer-active:before{content:"\E955"}.icon-offers-coupon:before{content:"\E948"}.icon-paylater:before{content:"\E950"}.icon-super-outline:before{content:"\E951"}.icon-super-filled:before{content:"\E952"}.icon-super-account:before{content:"\E953"}.icon-multi-offer:before{content:"\E904"}.icon-chat:before{content:"\E954"}.icon-upi:before{content:"\E902"}.icon-check-round:before{content:"\E903"}.icon-feedback:before{content:"\E901"}.icon-quotes-rounded:before{content:"\E900"}.icon-down-bold:before{content:"\E957"}.icon-swiggy-payment:before{content:"\E958"}.icon-spice-icon:before{content:"\E959"}.icon-settings:before{content:"\E95A"}.icon-Veg-4:before{content:"\E973"}.icon-Non-Veg-4:before{content:"\E972"}.icon-Search_close:before{content:"\E95B"} ._3FHXl{animation:_3FHXl .3s .4s ease-out forwards;opacity:0}.C1hvG{animation:C1hvG .3s ease-out forwards}@keyframes _3FHXl{0%{opacity:0;transform:translate3d(0,5px,0)}to{opacity:1;transform:translateZ(0)}}@keyframes C1hvG{0%{opacity:0;transform:translate3d(0,-3px,0)}30%{opacity:1}to{opacity:1;transform:translateZ(0)}}@keyframes KwkSz{0%{opacity:1}to{opacity:.8}} @keyframes _1j7wS{0%{width:0}to{width:90%}}.overlay-enabled{position:relative;overflow:hidden}.overlay-enabled,.overlay-enabled .fixed-nav,.overlay-enabled .global-nav{margin-right:15px}.overlay-no-margin,.overlay-no-margin .fixed-nav,.overlay-no-margin .global-nav{margin-right:0!important}.overlay{z-index:10000;position:fixed;top:0;left:0;right:0;bottom:0;background:#282c3f;opacity:.7;overflow:hidden}.rupee:before{content:"\20B9";margin-right:.1rem}html{box-sizing:border-box;font-family:arial,Helvetica Neue,sans-serif;font-size:14px;line-height:1.2;letter-spacing:-.5px;-moz-font-smoothing:antialiased;-webkit-font-smoothing:antialiased}body,html{margin:0;padding:0;height:100%;font-weight:300;color:#282c3f}@font-face{font-family:ProximaNova;font-weight:700;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.ttf") format("truetype")}@font-face{font-family:ProximaNova;font-weight:600;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.ttf") format("truetype")}@font-face{font-family:ProximaNova;font-weight:500;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.ttf") format("truetype")}@font-face{font-family:ProximaNova;font-weight:400;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.ttf") format("truetype")}@font-face{font-family:ProximaNova;font-weight:300;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.ttf") format("truetype")}@font-face{font-family:ProximaNovaBold;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.eot");src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.eot?#iefix") format("embedded-opentype"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.ttf") format("truetype")}@font-face{font-family:AsapCondensedSemiBold;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.eot");src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.eot?#iefix") format("embedded-opentype"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.ttf") format("truetype"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.svg#AsapCondensedSemiBold") format("svg");font-style:normal;font-weight:400}@font-face{font-family:ProximaNovaCondensedBold;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.eot");src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.eot?#iefix") format("embedded-opentype"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.ttf") format("truetype");font-style:normal}@font-face{font-family:ProximaNovaBlack;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.ttf") format("truetype");font-style:normal}@font-face{font-family:ProximaNovaCondensedBlack;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.ttf") format("truetype");font-style:normal}@font-face{font-family:ProximaNovaCondensedRegular;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.ttf") format("truetype");font-style:normal}@font-face{font-family:ProximaNovaExtraBold;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaExtraBold.ttf") format("truetype");font-style:normal}@font-face{font-family:ProximaNovaLight;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.ttf") format("truetype");font-style:normal}@font-face{font-family:ProximaNovaSemiBold;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.ttf") format("truetype");font-style:normal}@font-face{font-family:ProximaNovaCondensedExtraBold;src:url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.woff2") format("woff2"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.woff") format("woff"),url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.ttf") format("truetype");font-style:normal}.fonts-loaded{font-family:ProximaNova,arial,Helvetica Neue,sans-serif;letter-spacing:0}*,:after,:before{box-sizing:inherit}ul{margin:0;padding:0;list-style-type:none}input{line-height:normal}a,a:focus,a:hover,a:visited{text-decoration:none}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0;-webkit-appearance:none;-moz-appearance:none;appearance:none}button{padding:0;background:transparent;border:none;cursor:pointer;outline:none;text-align:left}::-moz-focus-inner{border:none;outline:none}input::-ms-clear{display:none}</style><div class="_3arMG"><div class="nDVxx"><div class="_1MdYR"><div class="_1TWur"><div class="_2COmU"><div class="m3-34"><div class="_2TYHu"><svg width="200" class="_1envo" viewBox="0 0 200 200"><path d="M19.9253444,58.766315 C19.8876048,58.7384908 19.8458927,58.7037105 19.8021942,58.6654521 C19.094081,57.7879944 14.7152991,52.3026415 10.2535896,45.2670801 C8.91532497,43.0252402 8.046322,41.2767839 8.21317057,40.8246398 C8.64965835,39.6490651 16.4279798,39.0056292 18.8234486,40.0713975 C19.5519214,40.3948545 19.5335482,40.8231492 19.5335482,41.0725738 C19.5335482,42.1487762 19.4804148,45.0365363 19.4804148,45.0365363 C19.4809114,45.6332671 19.9660634,46.1172104 20.5634408,46.1162167 C21.1618115,46.1162167 21.6449771,45.630286 21.6429908,45.0320645 L21.6305765,37.8365137 L21.6285902,37.8365137 C21.6285902,37.2119586 20.9467953,37.055944 20.8186794,37.0315978 C19.5683083,37.0256354 17.0293299,37.0171888 14.3031434,37.0171888 C8.28765654,37.0171888 6.94343308,37.264129 5.92148558,36.5958501 C3.707266,35.1479951 0.0867513255,25.3896318 0.0023338937,19.8993102 C-0.117836803,12.1537335 4.47149205,5.44808831 10.9338947,2.12557426 C13.6337628,0.766160708 16.6832184,0 19.9039917,0 C30.132405,0 38.555775,7.72023676 39.6765405,17.6529986 C39.6775337,17.6614452 39.6775337,17.6708856 39.67952,17.6793322 C39.8851013,20.0806647 26.6504342,20.5909417 24.0325007,19.8923542 C23.6312696,19.785032 23.528479,19.3741274 23.528479,19.1972447 C23.5254995,17.371278 23.5130852,12.2327345 23.5130852,12.2327345 C23.5110989,11.6355068 23.025947,11.1510667 22.4285695,11.1525572 L22.4275764,11.1525572 C21.831192,11.153551 21.3470332,11.6389848 21.3470332,12.2372063 L21.3683859,21.7029181 C21.3867591,22.2991521 21.8873048,22.4601353 22.024359,22.4869659 C23.5130852,22.4874627 26.9945594,22.4839847 30.2371819,22.4839847 C34.6199364,22.4839847 36.460733,22.9917773 37.6857789,23.9243867 C38.5001588,24.5454638 38.8154827,25.7344538 38.5398847,27.2796936 C36.0823442,41.0258688 20.5103075,58.0562997 19.9253444,58.766315 Z M62.158293,26.6840558 C66.0871796,28.3679201 68.5213811,30.23612 68.5213811,34.3367194 C68.5213811,38.5257602 65.3482788,41.2316689 60.4386603,41.2316689 C56.4601164,41.2316689 53.2666546,39.4295516 51.6761309,36.2864046 L51.418906,35.7796057 L56.0966249,33.0692253 L56.4030105,33.5700618 C57.4562421,35.2916875 58.633617,36.0255522 60.3418285,36.0255522 C61.8141679,36.0255522 62.8033415,35.3731729 62.8033415,34.4013114 C62.8033415,33.3246122 62.0872831,32.9211605 59.8740566,31.9522802 L58.7493185,31.4698275 C55.7475339,30.1904087 52.9667244,28.4126376 52.9667244,24.1068343 C52.9667244,20.2372755 55.9327557,17.5348449 60.1799457,17.5348449 C63.3977396,17.5348449 65.6030208,18.7804771 67.1210449,21.4535929 L67.4026018,21.9499577 L62.8703789,24.8625609 L62.5580344,24.3035915 C61.8002638,22.9481529 61.0866882,22.6763695 60.1799457,22.6763695 C59.2319876,22.6763695 58.6212026,23.199068 58.6212026,24.0099463 C58.6212026,24.9415619 59.0710979,25.3504791 61.0320652,26.2001125 L62.158293,26.6840558 Z M95.2686968,27.476898 L98.5709081,18.2690574 L104.238794,18.2690574 L95.8387627,41.611619 L94.5799498,41.611619 L89.484613,30.6796684 C89.2477476,30.1788318 89.0034336,29.556761 88.7928866,28.9868606 C88.5773739,29.5577547 88.327101,30.1813161 88.089739,30.6821527 L82.7952763,41.611619 L81.5449052,41.611619 L73.0103029,18.2690574 L79.065019,18.2690574 L82.4034802,27.476898 C82.61651,28.0641885 82.8350022,28.7801662 83.0261829,29.4444702 C83.2531168,28.7588011 83.5257354,28.0184772 83.8107684,27.4217464 L88.1955091,18.0767719 L89.4086373,18.0767719 L93.8614085,27.4227401 C94.1454483,28.0189741 94.4190601,28.7597949 94.6450009,29.445464 C94.8371747,28.7801662 95.0571566,28.0641885 95.2686968,27.476898 Z M110.84853,40.9414023 L110.84853,17.7921198 L116.569052,17.7921198 L116.569052,40.9414023 L110.84853,40.9414023 Z M135.325265,33.163629 L135.325265,27.9903052 L145.94746,27.9903052 L145.94746,38.3652739 L145.727975,38.5461315 C144.512861,39.5438298 141.291094,41.2316689 136.926713,41.2316689 C129.564023,41.2316689 124.423995,36.3529841 124.423995,29.3676057 C124.423995,22.5114114 129.383767,17.5348449 136.217607,17.5348449 C139.975672,17.5348449 142.730163,18.594154 144.637004,20.7738862 L145.009434,21.1996966 L141.110342,25.059815 L140.686765,24.6235704 C139.59778,23.500663 138.469566,22.8050567 136.217607,22.8050567 C132.717263,22.8050567 130.272137,25.5035125 130.272137,29.3676057 C130.272137,33.3926822 132.883118,35.99425 136.926713,35.99425 C138.267957,35.99425 139.664321,35.7632093 140.614762,35.394041 L140.614762,33.163629 L135.325265,33.163629 Z M164.314658,33.163629 L164.314658,27.9903052 L174.936853,27.9903052 L174.936853,38.3652739 L174.717368,38.5461315 C173.501261,39.5438298 170.280487,41.2316689 165.917099,41.2316689 C158.554409,41.2316689 153.413388,36.3529841 153.413388,29.3676057 C153.413388,22.5114114 158.374153,17.5348449 165.206006,17.5348449 C168.966058,17.5348449 171.720549,18.594154 173.626397,20.7738862 L173.99982,21.1996966 L170.101721,25.059815 L169.677151,24.6235704 C168.587669,23.500663 167.458959,22.8050567 165.206006,22.8050567 C161.706656,22.8050567 159.26153,25.5035125 159.26153,29.3676057 C159.26153,33.3926822 161.873504,35.99425 165.917099,35.99425 C167.258343,35.99425 168.653714,35.7632093 169.604155,35.394041 L169.604155,33.163629 L164.314658,33.163629 Z M195.897503,17.7922192 L201.87674,17.7922192 L193.669876,33.1964218 L193.669876,40.9415017 L187.918566,40.9415017 L187.918566,33.5253443 L179.1759,17.7922192 L185.555871,17.7922192 L189.596487,25.1730995 C190.030988,25.9760279 190.484856,27.0373245 190.827988,27.8988826 C191.155726,27.0442805 191.589235,25.9924244 192.020757,25.1800555 L195.897503,17.7922192 Z"></path></svg><div class="_2fX4J"><a class="x4bK8">Login</a><a class="r2iyh">Sign up</a></div></div><h1 class="sZsUd">Hungry?</h1><h2 class="_1E3AJ">Order food from favourite restaurants near you.</h2><div class="_3mZgT"><div class="Al5GE"><div class="_3Um38 _2oQ4_ b6m73"><input type="text" class="_381fS _1oTLG _3BIgv" value="" name="location" id="location" autoComplete="off" tabindex="1" placeholder="Enter your delivery location" maxLength="30"/><div class="_2EeI1 _26LFr"></div><label class="_1Cvlf _2tL9P" for="location"></label></div><div class="_1fiQt"><span class="icon-location-crosshair _25lQg"></span><span class="LukWG">Locate Me</span></div></div><a class="_3iFC5"><span>FIND FOOD</span></a></div><h3 class="_1nQLS">Popular cities in India</h3><ul class="_3TE0x"><li class="_1jdR4"><a href="/ahmedabad" class="_3zoZ8">Ahmedabad</a></li><li class="_1jdR4"><a href="/bangalore" class="_3zoZ8">Bangalore</a></li><li class="_1jdR4"><a href="/chennai" class="_3zoZ8">Chennai</a></li><li class="_1jdR4"><a href="/delhi" class="_3zoZ8">Delhi</a></li><li class="_1jdR4"><a href="/gurgaon" class="_3zoZ8">Gurgaon</a></li><li class="_1jdR4"><a href="/hyderabad" class="_3zoZ8">Hyderabad</a></li><li class="_1jdR4"><a href="/kolkata" class="_3zoZ8">Kolkata</a></li><li class="_1jdR4"><a href="/mumbai" class="_3zoZ8">Mumbai</a></li><li class="_1jdR4"><a href="/pune" class="_3zoZ8">Pune</a></li><li class="_1jdR4"><a href="#city-links" class="_3zoZ8"> <!-- -->&amp; more.</a></li></ul></div></div><div class="_2h2bu" style="background-image:url(&#x27;https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Lunch1_vlksgq&#x27;)"></div></div><div class="_2tnu-"><div class="_2RZDN"><div class="_2Zn3W"><div class="_1Vw_y"><img class="_2dYjq" width="105" height="199" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_210,h_398/4x_-_No_min_order_x0bxuf"/></div><div class="_3fted">No Minimum Order</div><div class="_12i5X">Order in for yourself or for the group, with no restrictions on order value</div></div><div class="_2Zn3W"><div class="_1Vw_y"><img class="_2dYjq" width="112" height="206" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_224,h_412/4x_Live_order_zzotwy"/></div><div class="_3fted">Live Order Tracking</div><div class="_12i5X">Know where your order is at all times, from the restaurant to your doorstep</div></div><div class="_2Zn3W"><div class="_1Vw_y"><img class="_2dYjq" width="124" height="188" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_248,h_376/4x_-_Super_fast_delivery_awv7sn"/></div><div class="_3fted">Lightning-Fast Delivery</div><div class="_12i5X">Experience Swiggy&#x27;s superfast delivery for food delivered fresh &amp; on time</div></div></div></div><div class="_3tAmb"><div class="_2ZpEk"><div class="_221uw">Restaurants in your pocket</div><div class="_1C4_O">Order from your favorite restaurants &amp; track on the go, with the all-new Swiggy app.</div><div><a href="https://play.google.com/store/apps/details?id=in.swiggy.android" target="_blank" rel="noopener noreferrer"><img class="_12dJy" height="54" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/play_ip0jfp"/></a><a href="https://itunes.apple.com/in/app/swiggy-food-order-delivery/id989540920" target="_blank" rel="noopener noreferrer"><img class="_37Cft" height="54" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_108/iOS_ajgrty"/></a></div><img class="_3QGpR" width="384" height="489" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_768,h_978/pixel_wbdy4n"/><img class="_2SJnz" width="384" height="489" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_768,h_978/iPhone_wgconp_j0d1fn"/></div></div></div></div><div class="d_rQj"><div class="_25jJQ"><div class="_3ipKA"><div class="_2Im4A"><div class="T_dbb">Company</div><ul class="_2gbMt"><li class="b-Hy9"><a class="_3TjLz" href="/about" alt="" target="_blank">About us</a></li><li class="b-Hy9"><a class="_3TjLz" href="/team" alt="" target="_blank">Team</a></li><li class="b-Hy9"><a class="_3TjLz" href="/careers" alt="" target="_blank">Careers</a></li><li class="b-Hy9"><a class="_3TjLz" href="https://blog.swiggy.com" rel="nofollow noopener" alt="" target="_blank">Swiggy Blog</a></li><li class="b-Hy9"><a class="_3TjLz" href="/bug-bounty" rel="nofollow noopener" alt="" target="_blank">Bug Bounty</a></li><li class="b-Hy9"><a class="_3TjLz" href="/swiggy-super" rel="nofollow noopener" alt="" target="_blank">Swiggy One</a></li><li class="b-Hy9"><a class="_3TjLz" href="https://corporate.swiggy.com" rel="nofollow noopener" alt="" target="_blank">Swiggy Corporate</a></li><li class="b-Hy9"><a class="_3TjLz" href="/swiggy-instamart" rel="nofollow noopener" alt="" target="_blank">Swiggy Instamart</a></li></ul></div><div class="_2Im4A"><div class="T_dbb">Contact</div><ul class="_2gbMt"><li class="b-Hy9"><a class="_3TjLz" href="/support" alt="Help &amp; Support">Help &amp; Support</a></li><li class="b-Hy9"><a class="_3TjLz" href="https://partner-with-us.swiggy.com/onboard#/swiggy" rel="nofollow noopener noreferrer" alt="" target="_blank">Partner with us</a></li><li class="b-Hy9"><a class="_3TjLz" href="https://ride.swiggy.com/" rel="nofollow noopener" alt="" target="_blank">Ride with us</a></li></ul></div><div class="_2Im4A"><div class="T_dbb">Legal</div><ul class="_2gbMt"><li class="b-Hy9"><a class="_3TjLz" href="/terms-and-conditions" alt="" target="_blank">Terms &amp; Conditions</a></li><li class="b-Hy9"><a class="_3TjLz" href="/refund-policy" alt="" target="_blank">Refund &amp; Cancellation</a></li><li class="b-Hy9"><a class="_3TjLz" href="/privacy-policy" alt="" target="_blank">Privacy Policy</a></li><li class="b-Hy9"><a class="_3TjLz" href="/cookie-policy" alt="" target="_blank">Cookie Policy</a></li><li class="b-Hy9"><a class="_3TjLz" href="/offer-terms" alt="" target="_blank">Offer Terms</a></li><li class="b-Hy9"><a class="_3TjLz" href="/beware-of-phishing-and-fraud" alt="" target="_blank">Phishing &amp; Fraud</a></li><li class="b-Hy9"><a class="_3TjLz" href="/tnc-corporate-sm" alt="" target="_blank">Corporate – Swiggy Money Codes Terms and Conditions</a></li><li class="b-Hy9"><a class="_3TjLz" href="/tnc-corporate-discount" alt="" target="_blank">Corporate - Swiggy Discount Voucher Terms and Conditions</a></li></ul></div><div class="_1Jvc1"><a href="https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage" rel="nofollow noopener" alt="" target="_blank" class="AppDownloadLinks_appLink__3lQqz" data-testid="ios-appstore"><img alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-AppStore_lg30tv"/></a><a href="https://play.google.com/store/apps/details?id=in.swiggy.android&amp;referrer=utm_source%3Dswiggy%26utm_medium%3Dheader" rel="nofollow noopener" alt="" target="_blank" class="AppDownloadLinks_appLink__3lQqz" data-testid="android-playstore"><img alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_200,h_65/icon-GooglePlay_1_zixjxl"/></a></div></div><div id="city-links" class="RB8ET"><h4 class="T_dbb">WE DELIVER TO</h4><div class="_1_sSy"><ul class="_1w9D3"><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/abohar">abohar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/adilabad">adilabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/adityapur">adityapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/adoni">adoni</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/agartala">agartala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/agra">agra</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ahmedabad">ahmedabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ahmednagar">ahmednagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/aizawl">aizawl</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ajmer">ajmer</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/akola">akola</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/alappuzha">alappuzha</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/aligarh">aligarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/alipurduar">alipurduar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/allahabad">allahabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/almora">almora</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/alwar">alwar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/amalapuram">amalapuram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ambala">ambala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ambikapur">ambikapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ambur">ambur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/amravati">amravati</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/amreli">amreli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/amritsar">amritsar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/amroha_perm_closed_8june22">amroha_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/anand">anand</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/anantapur">anantapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/angul">angul</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ankleshwar">ankleshwar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/arakkonam">arakkonam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/arambagh">arambagh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/arrah">arrah</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/aruppukottai">aruppukottai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/asansol">asansol</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/aurangabad">aurangabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/aurangabad_bihar">aurangabad_bihar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/azamgarh">azamgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/baddi">baddi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bagalkot">bagalkot</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bagdogra">bagdogra</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bagula">bagula</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bahadurgarh">bahadurgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bahraich">bahraich</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bajpe_perm_closed_8june22">bajpe_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/balaghat">balaghat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/balangir">balangir</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/balasore">balasore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ballari">ballari</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/balrampur">balrampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/balurghat">balurghat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/banda">banda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bangalore">bangalore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bankabihar">bankabihar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bankura">bankura</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bantwal">bantwal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bapatlachirala">bapatlachirala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/baramati">baramati</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/baran">baran</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/baraut">baraut</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bardhaman">bardhaman</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bardoli">bardoli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bareilly">bareilly</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/baripada">baripada</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/barmer">barmer</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/barnala">barnala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/barshi">barshi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/barwani">barwani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/basirhat">basirhat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/basti">basti</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/batala">batala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bathinda">bathinda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/beawar">beawar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/beed">beed</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/begusarai">begusarai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bela-pratapgarh">bela-pratapgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/belgaum">belgaum</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/berhampore">berhampore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/berhampur">berhampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bettiah">bettiah</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/betul">betul</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhadohi">bhadohi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhadrachalam">bhadrachalam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhadrak">bhadrak</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhadravati">bhadravati</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhagalpur">bhagalpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhandara">bhandara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bharabanki">bharabanki</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bharatpur">bharatpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bharuch">bharuch</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhatkal">bhatkal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhavnagar">bhavnagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhawanipatna">bhawanipatna</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhilai">bhilai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhilwara">bhilwara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhimavaram">bhimavaram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhind">bhind</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhiwadi">bhiwadi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhiwani">bhiwani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhopal">bhopal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhubaneswar">bhubaneswar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhuj">bhuj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bhusawal">bhusawal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bidar">bidar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/biharsharif">biharsharif</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bijapur">bijapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bijnor">bijnor</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bikaner">bikaner</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bilaspur">bilaspur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bilaspur-hp">bilaspur-hp</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bilimora">bilimora</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bina_perm_closed_8june22">bina_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/biswanath-chariali">biswanath-chariali</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bodhan-rural">bodhan-rural</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bodinayakanur">bodinayakanur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/boisar">boisar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bokaro">bokaro</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bolpur">bolpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bongaigaon">bongaigaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bongaon">bongaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/botad_perm_closed_8june22">botad_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/budaun">budaun</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/budhwal">budhwal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bulandshahr">bulandshahr</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/buldana">buldana</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/bundi">bundi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/burhanpur">burhanpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/buxar">buxar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/central-goa">central-goa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chakdaha">chakdaha</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chalakkudy">chalakkudy</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chalisgaon">chalisgaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chandausi">chandausi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chandigarh">chandigarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chandrapur">chandrapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/changanassery">changanassery</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chengannur">chengannur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chennai">chennai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/cherthala">cherthala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chhapra">chhapra</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chhatarpur">chhatarpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chhindwara">chhindwara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chidambaram">chidambaram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chikhli">chikhli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chikkaballapur">chikkaballapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chikmagalur">chikmagalur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chilakaluripet_perm_closed_8june22">chilakaluripet_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chiplun">chiplun</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chitradurga">chitradurga</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chittoor">chittoor</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chittorgarh">chittorgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/chopda">chopda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/churu">churu</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/coimbatore">coimbatore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/cooch-behar">cooch-behar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/cuddalore">cuddalore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/cuttack">cuttack</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dabra_perm_closed_8june22">dabra_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dahanu">dahanu</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dahod">dahod</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/daltonganj">daltonganj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/daman">daman</a></li></ul><ul class="_1w9D3"><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/darbhanga">darbhanga</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/darjeeling">darjeeling</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/daund">daund</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dausa">dausa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/davanagere">davanagere</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dehradun">dehradun</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dehri">dehri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/delhi">delhi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/deoghar">deoghar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dewas">dewas</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dhamtari_perm_closed_8june22">dhamtari_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dhanbad">dhanbad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dhar">dhar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dharamshala">dharamshala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dharapuram">dharapuram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dharmapuri">dharmapuri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dharmavaram_perm_closed_8june22">dharmavaram_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dharwad">dharwad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dhoraji">dhoraji</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dhule">dhule</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dibrugarh">dibrugarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/digboi">digboi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dimapur">dimapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dindigul">dindigul</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/diu">diu</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/doddaballapura">doddaballapura</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/duliajan">duliajan</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/dumka">dumka</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/durgapur">durgapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/eluru">eluru</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/erode">erode</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/etah">etah</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/etawah">etawah</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/faizabad">faizabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/faridabad">faridabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/faridkot">faridkot</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/farrukhabad">farrukhabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/fatehabad">fatehabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/fatehgarh-sahib">fatehgarh-sahib</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/fatehpur">fatehpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/fazilka">fazilka</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/firozabad">firozabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/firozpur">firozpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/freelancer">freelancer</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gadag-betigeri">gadag-betigeri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gadwal">gadwal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gandhidham">gandhidham</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gangapur-city">gangapur-city</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gangarampur">gangarampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gangawati_perm_closed_8june22">gangawati_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gangtok">gangtok</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gauriganj">gauriganj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gaya">gaya</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gharaunda_perm_closed_8june22">gharaunda_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/giridih">giridih</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/godhra">godhra</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gohana_perm_closed_8june22">gohana_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gokak">gokak</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gokarna_perm_closed_8june22">gokarna_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/golaghat">golaghat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gonda">gonda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gondal">gondal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gondia">gondia</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gopalganj">gopalganj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gorakhpur">gorakhpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gudivada">gudivada</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/guna">guna</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/guntakal">guntakal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/guntur">guntur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gurdaspur">gurdaspur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gurgaon">gurgaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/guwahati">guwahati</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/gwalior">gwalior</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/habra">habra</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hajipur">hajipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/haldia">haldia</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/haldwani">haldwani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/halol">halol</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hampi">hampi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hansi">hansi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hanumangarh">hanumangarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hapur">hapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hardoi">hardoi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/haridwar">haridwar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hassan">hassan</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hathras">hathras</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/himmatnagar">himmatnagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hindaun">hindaun</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hindupur_perm_closed_8june22">hindupur_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hinganghat">hinganghat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hisar">hisar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hoshangabad">hoshangabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hoshiarpur">hoshiarpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hospet">hospet</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hosur">hosur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hubli">hubli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/hyderabad">hyderabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ichalkaranji">ichalkaranji</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/idukki">idukki</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/imphal">imphal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/indore">indore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/irinjalakuda">irinjalakuda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/itanagar">itanagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/itarsi">itarsi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jabalpur">jabalpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jagdalpur">jagdalpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jagraon">jagraon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jagtial">jagtial</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jahanabad">jahanabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jaigaon">jaigaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jaipur">jaipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jalandhar">jalandhar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jalaun">jalaun</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jalgaon">jalgaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jalpaiguri">jalpaiguri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jammu">jammu</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jamnagar">jamnagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jamshedpur">jamshedpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jaunpur">jaunpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jhalawar">jhalawar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jhansi">jhansi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jhargram">jhargram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jhunjhunu">jhunjhunu</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jind">jind</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jodhpur">jodhpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/jorhat">jorhat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/junagadh">junagadh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kadapa">kadapa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kadayanallur">kadayanallur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kadiri">kadiri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kaithal">kaithal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kakinada">kakinada</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kalaburagi">kalaburagi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kalady">kalady</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kalna">kalna</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kamareddy">kamareddy</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kanchrapara">kanchrapara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kannauj">kannauj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kannur">kannur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kanpur">kanpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kanyakumari">kanyakumari</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kapurthala">kapurthala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/karad">karad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/karaikkudi">karaikkudi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/karimnagar">karimnagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/karnal">karnal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/karunagappaly">karunagappaly</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/karur">karur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/karwar">karwar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kasaragod">kasaragod</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kashipur">kashipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/katihar">katihar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/katni">katni</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kavali">kavali</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kayamkulam">kayamkulam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kendrapada">kendrapada</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kendujhar">kendujhar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/khalilabad">khalilabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/khamgaon">khamgaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/khammam">khammam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/khandwa">khandwa</a></li></ul><ul class="_1w9D3"><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/khanna">khanna</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kharagpur">kharagpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/khargone_perm_closed_8june22">khargone_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/khopoli">khopoli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kishanganj">kishanganj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kishangarh">kishangarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kochi">kochi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kodaikanal">kodaikanal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kohima">kohima</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kolar">kolar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kolhapur">kolhapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kolkata">kolkata</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kollam">kollam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kopargaon">kopargaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/koppal">koppal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/korba">korba</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kota">kota</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kotdwar">kotdwar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kothagudem">kothagudem</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kothamanagalam">kothamanagalam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kottakkal">kottakkal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kottarakkara">kottarakkara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kottayam">kottayam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kovilpatti">kovilpatti</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kozhikode">kozhikode</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/krishnagiri">krishnagiri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/krishnanagar">krishnanagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kumarakom">kumarakom</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kumbakonam">kumbakonam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kumta">kumta</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kundapura">kundapura</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kunnamkullam">kunnamkullam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kurnool">kurnool</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/kurukshetra">kurukshetra</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/lakhimpur">lakhimpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/lalitpur">lalitpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/latur">latur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/lonavala">lonavala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/lonavla">lonavla</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/lucknow">lucknow</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ludhiana">ludhiana</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/machilipatnam">machilipatnam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/madanapalle">madanapalle</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/madhubani">madhubani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/madikeri">madikeri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/madurai">madurai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mahabaleshwar">mahabaleshwar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mahbubnagar">mahbubnagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mahoba">mahoba</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/malappuram">malappuram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/malda">malda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/malegaon">malegaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/malout">malout</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/manali">manali</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mancherial">mancherial</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mandi-dabwali">mandi-dabwali</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mandi-gobindgarh">mandi-gobindgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mandi-hp">mandi-hp</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mandsaur">mandsaur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mandya">mandya</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mangaluru">mangaluru</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/manipal">manipal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/manjeri">manjeri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mannargudi">mannargudi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mansa">mansa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/markapur">markapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mathura">mathura</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/maunath-bhanjan">maunath-bhanjan</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mayiladuthurai">mayiladuthurai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/medinipur">medinipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/meerut">meerut</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mehsana">mehsana</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mettupalayam">mettupalayam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/miryalaguda">miryalaguda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mirzapur">mirzapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/modinagar">modinagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/moga">moga</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/moodbidri">moodbidri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/moradabad">moradabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/morbi">morbi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/morena">morena</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/motihari">motihari</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mount-abu">mount-abu</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mughalsarai">mughalsarai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mukerian">mukerian</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/muktsar">muktsar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mumbai">mumbai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/munger">munger</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/murdeshwar_perm_closed_8june22">murdeshwar_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/murshidabad">murshidabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mussoorie">mussoorie</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/muvattupuzha">muvattupuzha</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/muzaffarnagar">muzaffarnagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/muzaffarpur">muzaffarpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/mysore">mysore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nabadwip">nabadwip</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nadiad">nadiad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nagaon">nagaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nagapattinam">nagapattinam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nagda">nagda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nagercoil">nagercoil</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nagpur">nagpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nagur">nagur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/naharlagun">naharlagun</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nainital">nainital</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nalbari">nalbari</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nalgonda">nalgonda</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/namakkal">namakkal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nanded">nanded</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nandurbar">nandurbar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nandyal">nandyal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nangal">nangal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/naraingarh">naraingarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/narasaraopet">narasaraopet</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/narnaul">narnaul</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/narsinghpur">narsinghpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/narsipatnam">narsipatnam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nashik">nashik</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/navsari">navsari</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/neemuch">neemuch</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nellore">nellore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/neyveli">neyveli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nipani">nipani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nirmal">nirmal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/nizamabad">nizamabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/noida">noida</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/noida-1">noida-1</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/north-goa">north-goa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ongole">ongole</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ooty">ooty</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/orai">orai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/osmanabad">osmanabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pala">pala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/palakkad">palakkad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/palakollu">palakollu</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/palampur">palampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/palani">palani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/palanpur">palanpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/palasa_perm_closed_8june22">palasa_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pali">pali</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/palwal">palwal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/panchgani">panchgani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/panipat">panipat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/paramakudi">paramakudi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/parbhani">parbhani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pathankot">pathankot</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/patiala">patiala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/patna">patna</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pattukkottai">pattukkottai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/payyannur">payyannur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/perambalur">perambalur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/perinthalmanna">perinthalmanna</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/phagwara">phagwara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/phaltan_perm_closed_8june22">phaltan_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/phusro">phusro</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pilani">pilani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pilibhit">pilibhit</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pinjore-city">pinjore-city</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pondicherry">pondicherry</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/porbandar">porbandar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/port-blair">port-blair</a></li></ul><ul class="_1w9D3"><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pratapgarh">pratapgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/proddatur">proddatur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pudukkottai">pudukkottai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pune">pune</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/puri">puri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/purnea">purnea</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/purulia">purulia</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/pusad">pusad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/puttur">puttur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/puttur-karnataka">puttur-karnataka</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rae-bareli">rae-bareli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/raghunathpur">raghunathpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/raichur">raichur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/raiganj">raiganj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/raigarh">raigarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/raipur">raipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rajahmundry">rajahmundry</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rajapalayam">rajapalayam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rajgarh">rajgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rajkot">rajkot</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rajnandgaon">rajnandgaon</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rajsamand">rajsamand</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ramagundam">ramagundam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ramanagara">ramanagara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ramanathapuram">ramanathapuram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ramgarh">ramgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rampur">rampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ranaghat">ranaghat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ranaghat-wb">ranaghat-wb</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ranchi">ranchi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rangpo">rangpo</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ranibennur">ranibennur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/raniganj">raniganj</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ratlam">ratlam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ratnagiri">ratnagiri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ravulapalem">ravulapalem</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rayachoty">rayachoty</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rewa">rewa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rewari">rewari</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rishikesh">rishikesh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rohtak">rohtak</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/roorkee">roorkee</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ropar">ropar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rourkela">rourkela</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/rudrapur">rudrapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sagar">sagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/saharanpur">saharanpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/saharsa">saharsa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/salem">salem</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/samastipur">samastipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sambalpur">sambalpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sambhal_perm_closed_8june22">sambhal_perm_closed_8june22</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sangamner">sangamner</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sangli">sangli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sangrur">sangrur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/santipur">santipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sasaram">sasaram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/satara">satara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/satna">satna</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sawai-madhopur">sawai-madhopur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sawantwadi">sawantwadi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sehore">sehore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shahjahanpur">shahjahanpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shamli">shamli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shikohabad">shikohabad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shillong">shillong</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shimla">shimla</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shirdi-city">shirdi-city</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shivamogga">shivamogga</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shivpuri">shivpuri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shravasti">shravasti</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/shrirampur">shrirampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/siddipet">siddipet</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sikar">sikar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/silchar">silchar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/siliguri">siliguri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/silvassa">silvassa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sindhanur">sindhanur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/singrauli">singrauli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sirkali">sirkali</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sirsa">sirsa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sirsi">sirsi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sitamarhi">sitamarhi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sitapur">sitapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sivakasi">sivakasi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sivasagar">sivasagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/siwan">siwan</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/solan">solan</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/solapur">solapur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sonipat">sonipat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/south-goa">south-goa</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sri-ganganagar">sri-ganganagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/srikakulam">srikakulam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/srivilliputhur">srivilliputhur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/sultanpur">sultanpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/surat">surat</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/suratgarh">suratgarh</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/surendranagar-dudhrej">surendranagar-dudhrej</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/suri">suri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/suryapet">suryapet</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tadepalligudem">tadepalligudem</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tadpatri">tadpatri</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tanuku">tanuku</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tarn-taran-sahib">tarn-taran-sahib</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tenkasi">tenkasi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tezpur">tezpur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thalassery">thalassery</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thanjavur">thanjavur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/theni">theni</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thiruvalla">thiruvalla</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thiruvallur">thiruvallur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thiruvananthapuram">thiruvananthapuram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thiruvarur">thiruvarur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thodupuzha">thodupuzha</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thoothukudi">thoothukudi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thoubal">thoubal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/thrissur">thrissur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tindivanam">tindivanam</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tinsukia">tinsukia</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tiptur">tiptur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tirunelveli">tirunelveli</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tirupati">tirupati</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tirupur">tirupur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tiruttani">tiruttani</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tiruvannamalai">tiruvannamalai</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tohana">tohana</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/trichy">trichy</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tumakuru">tumakuru</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/tuni">tuni</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/udaipur">udaipur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/udgir">udgir</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/udhampur">udhampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/ujjain">ujjain</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/uluberia">uluberia</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/unnao">unnao</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/uran-islampur">uran-islampur</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vadodara">vadodara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/valsad">valsad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vapi">vapi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/varanasi">varanasi</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/varkala">varkala</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vellore">vellore</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/veraval">veraval</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vidisha">vidisha</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vijayawada">vijayawada</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/viluppuram">viluppuram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/virudhunagar">virudhunagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/visnagar">visnagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vizag">vizag</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vizianagaram">vizianagaram</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/vyara">vyara</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/waidhan">waidhan</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/warangal">warangal</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/wardha">wardha</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/washim">washim</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/wayanad">wayanad</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/yamuna-nagar">yamuna-nagar</a></li><li class="_2JILy"><a class="_3TjLz b-Hy9" href="/city/yavatmal">yavatmal</a></li></ul></div></div><div class="_3zqGM"><div class="_26WmF"><a href="/"><img class="" width="142" alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_284/Logo_f5xzza"/></a></div><div class="_2BWW_">© 2022 Swiggy</div><div class="_2-f1I"><a class="_1Az3W" href="https://www.facebook.com/swiggy.in" rel="nofollow noopener" alt="facebook" target="_blank"><img class="" width="24" height="24" alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-facebook_tfqsuc"/></a><a class="_1Az3W" href="https://pinterest.com/swiggyindia" rel="nofollow noopener" alt="pintrest" target="_blank"><img class="" width="24" height="24" alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-pinterest_kmz2wd"/></a><a class="_1Az3W" href="https://instagram.com/swiggyindia/" rel="nofollow noopener" alt="instagram" target="_blank"><img class="" width="24" height="24" alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-instagram_b7nubh"/></a><a class="_1Az3W" href="https://twitter.com/swiggy" rel="nofollow noopener" alt="twitter" target="_blank"><img class="" width="24" height="24" alt="" src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_48,h_48/icon-twitter_gtq8dv"/></a></div></div></div></div></div><div class="_2b6Ch"><div class="_3WqGq"><div class="_1vd_H"><div class="_2VSxh"></div></div></div></div></div><script>  window._csrfToken = "ZiSOGHymEhs4-0K70gwnW2BuKbC0KadM-4nyPwpY";   window.___INITIAL_STATE__ = {"location":null,"loading":false,"cityList":[{"slug":"abohar","cityId":10011,"enabled":true},{"slug":"adilabad","cityId":10211,"enabled":true},{"slug":"adityapur","cityId":209,"enabled":true},{"slug":"adoni","cityId":10012,"enabled":true},{"slug":"agartala","cityId":111,"enabled":true},{"slug":"agra","cityId":45,"enabled":true},{"slug":"ahmedabad","cityId":10,"enabled":true},{"slug":"ahmednagar","cityId":124,"enabled":true},{"slug":"aizawl","cityId":10568,"enabled":true},{"slug":"ajmer","cityId":113,"enabled":true},{"slug":"akola","cityId":178,"enabled":true},{"slug":"alappuzha","cityId":164,"enabled":true},{"slug":"aligarh","cityId":109,"enabled":true},{"slug":"alipurduar","cityId":10599,"enabled":true},{"slug":"allahabad","cityId":50,"enabled":true},{"slug":"almora","cityId":10600,"enabled":true},{"slug":"alwar","cityId":10154,"enabled":true},{"slug":"amalapuram","cityId":10671,"enabled":true},{"slug":"ambala","cityId":129,"enabled":true},{"slug":"ambikapur","cityId":10084,"enabled":true},{"slug":"ambur","cityId":10018,"enabled":true},{"slug":"amravati","cityId":144,"enabled":true},{"slug":"amreli","cityId":10144,"enabled":true},{"slug":"amritsar","cityId":52,"enabled":true},{"slug":"amroha_perm_closed_8june22","cityId":10107,"enabled":true},{"slug":"anand","cityId":93,"enabled":true},{"slug":"anantapur","cityId":122,"enabled":true},{"slug":"angul","cityId":10514,"enabled":true},{"slug":"ankleshwar","cityId":10418,"enabled":true},{"slug":"arakkonam","cityId":10659,"enabled":true},{"slug":"arambagh","cityId":10606,"enabled":true},{"slug":"arrah","cityId":10293,"enabled":true},{"slug":"aruppukottai","cityId":10661,"enabled":true},{"slug":"asansol","cityId":237,"enabled":true},{"slug":"aurangabad","cityId":46,"enabled":true},{"slug":"aurangabad_bihar","cityId":10499,"enabled":true},{"slug":"azamgarh","cityId":10195,"enabled":true},{"slug":"baddi","cityId":10486,"enabled":true},{"slug":"bagalkot","cityId":10264,"enabled":true},{"slug":"bagdogra","cityId":10512,"enabled":true},{"slug":"bagula","cityId":10654,"enabled":true},{"slug":"bahadurgarh","cityId":10196,"enabled":true},{"slug":"bahraich","cityId":10194,"enabled":true},{"slug":"bajpe_perm_closed_8june22","cityId":10348,"enabled":true},{"slug":"balaghat","cityId":10436,"enabled":true},{"slug":"balangir","cityId":10494,"enabled":true},{"slug":"balasore","cityId":10560,"enabled":true},{"slug":"ballari","cityId":130,"enabled":true},{"slug":"balrampur","cityId":10359,"enabled":true},{"slug":"balurghat","cityId":10070,"enabled":true},{"slug":"banda","cityId":10206,"enabled":true},{"slug":"bangalore","cityId":1,"enabled":true},{"slug":"bankabihar","cityId":10675,"enabled":true},{"slug":"bankura","cityId":10182,"enabled":true},{"slug":"bantwal","cityId":10344,"enabled":true},{"slug":"bapatlachirala","cityId":10531,"enabled":true},{"slug":"baramati","cityId":10429,"enabled":true},{"slug":"baran","cityId":10587,"enabled":true},{"slug":"baraut","cityId":10087,"enabled":true},{"slug":"bardhaman","cityId":10163,"enabled":true},{"slug":"bardoli","cityId":10421,"enabled":true},{"slug":"bareilly","cityId":53,"enabled":true},{"slug":"baripada","cityId":10050,"enabled":true},{"slug":"barmer","cityId":10406,"enabled":true},{"slug":"barnala","cityId":10056,"enabled":true},{"slug":"barshi","cityId":10121,"enabled":true},{"slug":"barwani","cityId":10632,"enabled":true},{"slug":"basirhat","cityId":10251,"enabled":true},{"slug":"basti","cityId":10099,"enabled":true},{"slug":"batala","cityId":10054,"enabled":true},{"slug":"bathinda","cityId":133,"enabled":true},{"slug":"beawar","cityId":238,"enabled":true},{"slug":"beed","cityId":235,"enabled":true},{"slug":"begusarai","cityId":10295,"enabled":true},{"slug":"bela-pratapgarh","cityId":10643,"enabled":true},{"slug":"belgaum","cityId":103,"enabled":true},{"slug":"berhampore","cityId":10243,"enabled":true},{"slug":"berhampur","cityId":10382,"enabled":true},{"slug":"bettiah","cityId":10283,"enabled":true},{"slug":"betul","cityId":10432,"enabled":true},{"slug":"bhadohi","cityId":10609,"enabled":true},{"slug":"bhadrachalam","cityId":10356,"enabled":true},{"slug":"bhadrak","cityId":10052,"enabled":true},{"slug":"bhadravati","cityId":10094,"enabled":true},{"slug":"bhagalpur","cityId":190,"enabled":true},{"slug":"bhandara","cityId":10319,"enabled":true},{"slug":"bharabanki","cityId":10361,"enabled":true},{"slug":"bharatpur","cityId":10156,"enabled":true},{"slug":"bharuch","cityId":10140,"enabled":true},{"slug":"bhatkal","cityId":10306,"enabled":true},{"slug":"bhavnagar","cityId":94,"enabled":true},{"slug":"bhawanipatna","cityId":10586,"enabled":true},{"slug":"bhilai","cityId":90,"enabled":true},{"slug":"bhilwara","cityId":10149,"enabled":true},{"slug":"bhimavaram","cityId":10126,"enabled":true},{"slug":"bhind","cityId":10262,"enabled":true},{"slug":"bhiwadi","cityId":10155,"enabled":true},{"slug":"bhiwani","cityId":10041,"enabled":true},{"slug":"bhopal","cityId":55,"enabled":true},{"slug":"bhubaneswar","cityId":57,"enabled":true},{"slug":"bhuj","cityId":10137,"enabled":true},{"slug":"bhusawal","cityId":10192,"enabled":true},{"slug":"bidar","cityId":221,"enabled":true},{"slug":"biharsharif","cityId":10276,"enabled":true},{"slug":"bijapur","cityId":10191,"enabled":true},{"slug":"bijnor","cityId":10423,"enabled":true},{"slug":"bikaner","cityId":59,"enabled":true},{"slug":"bilaspur","cityId":89,"enabled":true},{"slug":"bilaspur-hp","cityId":10642,"enabled":true},{"slug":"bilimora","cityId":10575,"enabled":true},{"slug":"bina_perm_closed_8june22","cityId":10311,"enabled":true},{"slug":"biswanath-chariali","cityId":10665,"enabled":true},{"slug":"bodhan-rural","cityId":10323,"enabled":true},{"slug":"bodinayakanur","cityId":10585,"enabled":true},{"slug":"boisar","cityId":10577,"enabled":true},{"slug":"bokaro","cityId":100,"enabled":true},{"slug":"bolpur","cityId":10551,"enabled":true},{"slug":"bongaigaon","cityId":10538,"enabled":true},{"slug":"bongaon","cityId":10176,"enabled":true},{"slug":"botad_perm_closed_8june22","cityId":10135,"enabled":true},{"slug":"budaun","cityId":10104,"enabled":true},{"slug":"budhwal","cityId":10000,"enabled":true},{"slug":"bulandshahr","cityId":10031,"enabled":true},{"slug":"buldana","cityId":10349,"enabled":true},{"slug":"bundi","cityId":10159,"enabled":true},{"slug":"burhanpur","cityId":10093,"enabled":true},{"slug":"buxar","cityId":10280,"enabled":true},{"slug":"central-goa","cityId":63,"enabled":true},{"slug":"chakdaha","cityId":10649,"enabled":true},{"slug":"chalakkudy","cityId":10455,"enabled":true},{"slug":"chalisgaon","cityId":10315,"enabled":true},{"slug":"chandausi","cityId":10260,"enabled":true},{"slug":"chandigarh","cityId":11,"enabled":true},{"slug":"chandrapur","cityId":10190,"enabled":true},{"slug":"changanassery","cityId":10535,"enabled":true},{"slug":"chengannur","cityId":10559,"enabled":true},{"slug":"chennai","cityId":8,"enabled":true},{"slug":"cherthala","cityId":10477,"enabled":true},{"slug":"chhapra","cityId":160,"enabled":true},{"slug":"chhatarpur","cityId":10433,"enabled":true},{"slug":"chhindwara","cityId":207,"enabled":true},{"slug":"chidambaram","cityId":10612,"enabled":true},{"slug":"chikhli","cityId":10564,"enabled":true},{"slug":"chikkaballapur","cityId":10305,"enabled":true},{"slug":"chikmagalur","cityId":10259,"enabled":true},{"slug":"chilakaluripet_perm_closed_8june22","cityId":10226,"enabled":true},{"slug":"chiplun","cityId":10529,"enabled":true},{"slug":"chitradurga","cityId":10266,"enabled":true},{"slug":"chittoor","cityId":10095,"enabled":true},{"slug":"chittorgarh","cityId":10168,"enabled":true},{"slug":"chopda","cityId":10630,"enabled":true},{"slug":"churu","cityId":10153,"enabled":true},{"slug":"coimbatore","cityId":14,"enabled":true},{"slug":"cooch-behar","cityId":10572,"enabled":true},{"slug":"cuddalore","cityId":10042,"enabled":true},{"slug":"cuttack","cityId":108,"enabled":true},{"slug":"dabra_perm_closed_8june22","cityId":10312,"enabled":true},{"slug":"dahanu","cityId":10565,"enabled":true},{"slug":"dahod","cityId":10404,"enabled":true},{"slug":"daltonganj","cityId":10488,"enabled":true},{"slug":"daman","cityId":10528,"enabled":true},{"slug":"darbhanga","cityId":10026,"enabled":true},{"slug":"darjeeling","cityId":10166,"enabled":true},{"slug":"daund","cityId":10622,"enabled":true},{"slug":"dausa","cityId":10374,"enabled":true},{"slug":"davanagere","cityId":151,"enabled":true},{"slug":"dehradun","cityId":22,"enabled":true},{"slug":"dehri","cityId":10282,"enabled":true},{"slug":"delhi","cityId":4,"enabled":true},{"slug":"deoghar","cityId":219,"enabled":true},{"slug":"dewas","cityId":184,"enabled":true},{"slug":"dhamtari_perm_closed_8june22","cityId":10062,"enabled":true},{"slug":"dhanbad","cityId":99,"enabled":true},{"slug":"dhar","cityId":10313,"enabled":true},{"slug":"dharamshala","cityId":161,"enabled":true},{"slug":"dharapuram","cityId":10658,"enabled":true},{"slug":"dharmapuri","cityId":10318,"enabled":true},{"slug":"dharmavaram_perm_closed_8june22","cityId":10075,"enabled":true},{"slug":"dharwad","cityId":171,"enabled":true},{"slug":"dhoraji","cityId":10620,"enabled":true},{"slug":"dhule","cityId":170,"enabled":true},{"slug":"dibrugarh","cityId":217,"enabled":true},{"slug":"digboi","cityId":10664,"enabled":true},{"slug":"dimapur","cityId":10079,"enabled":true},{"slug":"dindigul","cityId":233,"enabled":true},{"slug":"diu","cityId":10596,"enabled":true},{"slug":"doddaballapura","cityId":10346,"enabled":true},{"slug":"duliajan","cityId":10548,"enabled":true},{"slug":"dumka","cityId":10582,"enabled":true},{"slug":"durgapur","cityId":10032,"enabled":true},{"slug":"eluru","cityId":215,"enabled":true},{"slug":"erode","cityId":119,"enabled":true},{"slug":"etah","cityId":10242,"enabled":true},{"slug":"etawah","cityId":202,"enabled":true},{"slug":"faizabad","cityId":10215,"enabled":true},{"slug":"faridabad","cityId":81,"enabled":true},{"slug":"faridkot","cityId":10208,"enabled":true},{"slug":"farrukhabad","cityId":228,"enabled":true},{"slug":"fatehabad","cityId":10480,"enabled":true},{"slug":"fatehgarh-sahib","cityId":10363,"enabled":true},{"slug":"fatehpur","cityId":10132,"enabled":true},{"slug":"fazilka","cityId":10484,"enabled":true},{"slug":"firozabad","cityId":10185,"enabled":true},{"slug":"firozpur","cityId":10055,"enabled":true},{"slug":"freelancer","cityId":10674,"enabled":true},{"slug":"gadag-betigeri","cityId":10269,"enabled":true},{"slug":"gadwal","cityId":10322,"enabled":true},{"slug":"gandhidham","cityId":10138,"enabled":true},{"slug":"gangapur-city","cityId":10408,"enabled":true},{"slug":"gangarampur","cityId":10655,"enabled":true},{"slug":"gangawati_perm_closed_8june22","cityId":10073,"enabled":true},{"slug":"gangtok","cityId":10569,"enabled":true},{"slug":"gauriganj","cityId":10584,"enabled":true},{"slug":"gaya","cityId":181,"enabled":true},{"slug":"gharaunda_perm_closed_8june22","cityId":10370,"enabled":true},{"slug":"giridih","cityId":10074,"enabled":true},{"slug":"godhra","cityId":197,"enabled":true},{"slug":"gohana_perm_closed_8june22","cityId":10369,"enabled":true},{"slug":"gokak","cityId":10307,"enabled":true},{"slug":"gokarna_perm_closed_8june22","cityId":10308,"enabled":true},{"slug":"golaghat","cityId":10539,"enabled":true},{"slug":"gonda","cityId":10221,"enabled":true},{"slug":"gondal","cityId":10498,"enabled":true},{"slug":"gondia","cityId":10003,"enabled":true},{"slug":"gopalganj","cityId":10501,"enabled":true},{"slug":"gorakhpur","cityId":117,"enabled":true},{"slug":"gudivada","cityId":10247,"enabled":true},{"slug":"guna","cityId":10046,"enabled":true},{"slug":"guntakal","cityId":10239,"enabled":true},{"slug":"guntur","cityId":83,"enabled":true},{"slug":"gurdaspur","cityId":10337,"enabled":true},{"slug":"gurgaon","cityId":2,"enabled":true},{"slug":"guwahati","cityId":19,"enabled":true},{"slug":"gwalior","cityId":65,"enabled":true},{"slug":"habra","cityId":10183,"enabled":true},{"slug":"hajipur","cityId":10287,"enabled":true},{"slug":"haldia","cityId":10248,"enabled":true},{"slug":"haldwani","cityId":225,"enabled":true},{"slug":"halol","cityId":10422,"enabled":true},{"slug":"hampi","cityId":175,"enabled":true},{"slug":"hansi","cityId":10497,"enabled":true},{"slug":"hanumangarh","cityId":10128,"enabled":true},{"slug":"hapur","cityId":192,"enabled":true},{"slug":"hardoi","cityId":10098,"enabled":true},{"slug":"haridwar","cityId":135,"enabled":true},{"slug":"hassan","cityId":195,"enabled":true},{"slug":"hathras","cityId":10203,"enabled":true},{"slug":"himmatnagar","cityId":10372,"enabled":true},{"slug":"hindaun","cityId":10614,"enabled":true},{"slug":"hindupur_perm_closed_8june22","cityId":10229,"enabled":true},{"slug":"hinganghat","cityId":10122,"enabled":true},{"slug":"hisar","cityId":196,"enabled":true},{"slug":"hoshangabad","cityId":10270,"enabled":true},{"slug":"hoshiarpur","cityId":10207,"enabled":true},{"slug":"hospet","cityId":10103,"enabled":true},{"slug":"hosur","cityId":10669,"enabled":true},{"slug":"hubli","cityId":102,"enabled":true},{"slug":"hyderabad","cityId":3,"enabled":true},{"slug":"ichalkaranji","cityId":10004,"enabled":true},{"slug":"idukki","cityId":10636,"enabled":true},{"slug":"imphal","cityId":10081,"enabled":true},{"slug":"indore","cityId":18,"enabled":true},{"slug":"irinjalakuda","cityId":10536,"enabled":true},{"slug":"itanagar","cityId":10566,"enabled":true},{"slug":"itarsi","cityId":10310,"enabled":true},{"slug":"jabalpur","cityId":104,"enabled":true},{"slug":"jagdalpur","cityId":10077,"enabled":true},{"slug":"jagraon","cityId":10481,"enabled":true},{"slug":"jagtial","cityId":10044,"enabled":true},{"slug":"jahanabad","cityId":10377,"enabled":true},{"slug":"jaigaon","cityId":10573,"enabled":true},{"slug":"jaipur","cityId":12,"enabled":true},{"slug":"jalandhar","cityId":47,"enabled":true},{"slug":"jalaun","cityId":10626,"enabled":true},{"slug":"jalgaon","cityId":188,"enabled":true},{"slug":"jalpaiguri","cityId":10167,"enabled":true},{"slug":"jammu","cityId":95,"enabled":true},{"slug":"jamnagar","cityId":10136,"enabled":true},{"slug":"jamshedpur","cityId":98,"enabled":true},{"slug":"jaunpur","cityId":10271,"enabled":true},{"slug":"jhalawar","cityId":10504,"enabled":true},{"slug":"jhansi","cityId":115,"enabled":true},{"slug":"jhargram","cityId":10605,"enabled":true},{"slug":"jhunjhunu","cityId":10328,"enabled":true},{"slug":"jind","cityId":10197,"enabled":true},{"slug":"jodhpur","cityId":112,"enabled":true},{"slug":"jorhat","cityId":10274,"enabled":true},{"slug":"junagadh","cityId":236,"enabled":true},{"slug":"kadapa","cityId":148,"enabled":true},{"slug":"kadayanallur","cityId":10627,"enabled":true},{"slug":"kadiri","cityId":10472,"enabled":true},{"slug":"kaithal","cityId":10043,"enabled":true},{"slug":"kakinada","cityId":87,"enabled":true},{"slug":"kalaburagi","cityId":180,"enabled":true},{"slug":"kalady","cityId":10355,"enabled":true},{"slug":"kalna","cityId":10656,"enabled":true},{"slug":"kamareddy","cityId":10327,"enabled":true},{"slug":"kanchrapara","cityId":10181,"enabled":true},{"slug":"kannauj","cityId":10571,"enabled":true},{"slug":"kannur","cityId":10458,"enabled":true},{"slug":"kanpur","cityId":39,"enabled":true},{"slug":"kanyakumari","cityId":147,"enabled":true},{"slug":"kapurthala","cityId":10335,"enabled":true},{"slug":"karad","cityId":10350,"enabled":true},{"slug":"karaikkudi","cityId":10100,"enabled":true},{"slug":"karimnagar","cityId":10020,"enabled":true},{"slug":"karnal","cityId":86,"enabled":true},{"slug":"karunagappaly","cityId":10460,"enabled":true},{"slug":"karur","cityId":10445,"enabled":true},{"slug":"karwar","cityId":10448,"enabled":true},{"slug":"kasaragod","cityId":10592,"enabled":true},{"slug":"kashipur","cityId":10091,"enabled":true},{"slug":"katihar","cityId":10291,"enabled":true},{"slug":"katni","cityId":212,"enabled":true},{"slug":"kavali","cityId":10473,"enabled":true},{"slug":"kayamkulam","cityId":10475,"enabled":true},{"slug":"kendrapada","cityId":10520,"enabled":true},{"slug":"kendujhar","cityId":10594,"enabled":true},{"slug":"khalilabad","cityId":10650,"enabled":true},{"slug":"khamgaon","cityId":10597,"enabled":true},{"slug":"khammam","cityId":174,"enabled":true},{"slug":"khandwa","cityId":213,"enabled":true},{"slug":"khanna","cityId":220,"enabled":true},{"slug":"kharagpur","cityId":68,"enabled":true},{"slug":"khargone_perm_closed_8june22","cityId":10258,"enabled":true},{"slug":"khopoli","cityId":10641,"enabled":true},{"slug":"kishanganj","cityId":10284,"enabled":true},{"slug":"kishangarh","cityId":239,"enabled":true},{"slug":"kochi","cityId":13,"enabled":true},{"slug":"kodaikanal","cityId":10443,"enabled":true},{"slug":"kohima","cityId":10578,"enabled":true},{"slug":"kolar","cityId":198,"enabled":true},{"slug":"kolhapur","cityId":105,"enabled":true},{"slug":"kolkata","cityId":7,"enabled":true},{"slug":"kollam","cityId":162,"enabled":true},{"slug":"kopargaon","cityId":10618,"enabled":true},{"slug":"koppal","cityId":10563,"enabled":true},{"slug":"korba","cityId":185,"enabled":true},{"slug":"kota","cityId":48,"enabled":true},{"slug":"kotdwar","cityId":10562,"enabled":true},{"slug":"kothagudem","cityId":10496,"enabled":true},{"slug":"kothamanagalam","cityId":10534,"enabled":true},{"slug":"kottakkal","cityId":10556,"enabled":true},{"slug":"kottarakkara","cityId":10476,"enabled":true},{"slug":"kottayam","cityId":10025,"enabled":true},{"slug":"kovilpatti","cityId":10591,"enabled":true},{"slug":"kozhikode","cityId":61,"enabled":true},{"slug":"krishnagiri","cityId":10353,"enabled":true},{"slug":"krishnanagar","cityId":10235,"enabled":true},{"slug":"kumarakom","cityId":10602,"enabled":true},{"slug":"kumbakonam","cityId":10047,"enabled":true},{"slug":"kumta","cityId":10352,"enabled":true},{"slug":"kundapura","cityId":10450,"enabled":true},{"slug":"kunnamkullam","cityId":10604,"enabled":true},{"slug":"kurnool","cityId":123,"enabled":true},{"slug":"kurukshetra","cityId":10027,"enabled":true},{"slug":"lakhimpur","cityId":10082,"enabled":true},{"slug":"lalitpur","cityId":10102,"enabled":true},{"slug":"latur","cityId":172,"enabled":true},{"slug":"lonavala","cityId":70,"enabled":true},{"slug":"lonavla","cityId":10533,"enabled":true},{"slug":"lucknow","cityId":15,"enabled":true},{"slug":"ludhiana","cityId":35,"enabled":true},{"slug":"machilipatnam","cityId":10023,"enabled":true},{"slug":"madanapalle","cityId":10013,"enabled":true},{"slug":"madhubani","cityId":10552,"enabled":true},{"slug":"madikeri","cityId":223,"enabled":true},{"slug":"madurai","cityId":49,"enabled":true},{"slug":"mahabaleshwar","cityId":10580,"enabled":true},{"slug":"mahbubnagar","cityId":10039,"enabled":true},{"slug":"mahoba","cityId":10645,"enabled":true},{"slug":"malappuram","cityId":216,"enabled":true},{"slug":"malda","cityId":10384,"enabled":true},{"slug":"malegaon","cityId":231,"enabled":true},{"slug":"mallapuram-do-not-use","cityId":10521,"enabled":true},{"slug":"malout","cityId":10362,"enabled":true},{"slug":"manali","cityId":10595,"enabled":true},{"slug":"mancherial","cityId":10357,"enabled":true},{"slug":"mandi-dabwali","cityId":10479,"enabled":true},{"slug":"mandi-gobindgarh","cityId":10410,"enabled":true},{"slug":"mandi-hp","cityId":10621,"enabled":true},{"slug":"mandsaur","cityId":10209,"enabled":true},{"slug":"mandya","cityId":10263,"enabled":true},{"slug":"mangaluru","cityId":78,"enabled":true},{"slug":"manipal","cityId":51,"enabled":true},{"slug":"manjeri","cityId":10463,"enabled":true},{"slug":"mannargudi","cityId":10613,"enabled":true},{"slug":"mansa","cityId":10482,"enabled":true},{"slug":"markapur","cityId":10302,"enabled":true},{"slug":"mathura","cityId":134,"enabled":true},{"slug":"maunath-bhanjan","cityId":10048,"enabled":true},{"slug":"mayiladuthurai","cityId":10570,"enabled":true},{"slug":"medinipur","cityId":10223,"enabled":true},{"slug":"meerut","cityId":54,"enabled":true},{"slug":"mehsana","cityId":168,"enabled":true},{"slug":"mettupalayam","cityId":10662,"enabled":true},{"slug":"miryalaguda","cityId":10240,"enabled":true},{"slug":"mirzapur","cityId":10400,"enabled":true},{"slug":"modinagar","cityId":10268,"enabled":true},{"slug":"moga","cityId":10009,"enabled":true},{"slug":"moodbidri","cityId":10449,"enabled":true},{"slug":"moradabad","cityId":10022,"enabled":true},{"slug":"morbi","cityId":206,"enabled":true},{"slug":"morena","cityId":193,"enabled":true},{"slug":"motihari","cityId":10288,"enabled":true},{"slug":"mount-abu","cityId":10157,"enabled":true},{"slug":"mughalsarai","cityId":10222,"enabled":true},{"slug":"mukerian","cityId":10668,"enabled":true},{"slug":"muktsar","cityId":96,"enabled":true},{"slug":"mumbai","cityId":5,"enabled":true},{"slug":"munger","cityId":10290,"enabled":true},{"slug":"murdeshwar_perm_closed_8june22","cityId":10309,"enabled":true},{"slug":"murshidabad","cityId":10607,"enabled":true},{"slug":"mussoorie","cityId":187,"enabled":true},{"slug":"muvattupuzha","cityId":10464,"enabled":true},{"slug":"muzaffarnagar","cityId":183,"enabled":true},{"slug":"muzaffarpur","cityId":157,"enabled":true},{"slug":"mysore","cityId":40,"enabled":true},{"slug":"nabadwip","cityId":10173,"enabled":true},{"slug":"nadiad","cityId":204,"enabled":true},{"slug":"nagaon","cityId":10058,"enabled":true},{"slug":"nagapattinam","cityId":10257,"enabled":true},{"slug":"nagda","cityId":10224,"enabled":true},{"slug":"nagercoil","cityId":146,"enabled":true},{"slug":"nagpur","cityId":16,"enabled":true},{"slug":"nagur","cityId":10358,"enabled":true},{"slug":"naharlagun","cityId":10579,"enabled":true},{"slug":"nainital","cityId":176,"enabled":true},{"slug":"nalbari","cityId":10666,"enabled":true},{"slug":"nalgonda","cityId":10188,"enabled":true},{"slug":"namakkal","cityId":10317,"enabled":true},{"slug":"nanded","cityId":153,"enabled":true},{"slug":"nandurbar","cityId":10265,"enabled":true},{"slug":"nandyal","cityId":10275,"enabled":true},{"slug":"nangal","cityId":10366,"enabled":true},{"slug":"naraingarh","cityId":10368,"enabled":true},{"slug":"narasaraopet","cityId":10213,"enabled":true},{"slug":"narnaul","cityId":10367,"enabled":true},{"slug":"narsinghpur","cityId":10589,"enabled":true},{"slug":"narsipatnam","cityId":10673,"enabled":true},{"slug":"nashik","cityId":41,"enabled":true},{"slug":"navsari","cityId":10141,"enabled":true},{"slug":"neemuch","cityId":10105,"enabled":true},{"slug":"nellore","cityId":120,"enabled":true},{"slug":"neyveli","cityId":10296,"enabled":true},{"slug":"nipani","cityId":10351,"enabled":true},{"slug":"nirmal","cityId":10399,"enabled":true},{"slug":"nizamabad","cityId":149,"enabled":true},{"slug":"noida","cityId":24,"enabled":true},{"slug":"noida-1","cityId":10459,"enabled":true},{"slug":"north-goa","cityId":138,"enabled":true},{"slug":"ongole","cityId":10024,"enabled":true},{"slug":"ooty","cityId":56,"enabled":true},{"slug":"orai","cityId":10051,"enabled":true},{"slug":"osmanabad","cityId":10267,"enabled":true},{"slug":"pala","cityId":10558,"enabled":true},{"slug":"palakkad","cityId":10045,"enabled":true},{"slug":"palakollu","cityId":10670,"enabled":true},{"slug":"palampur","cityId":10561,"enabled":true},{"slug":"palani","cityId":10574,"enabled":true},{"slug":"palanpur","cityId":10146,"enabled":true},{"slug":"palasa_perm_closed_8june22","cityId":10324,"enabled":true},{"slug":"pali","cityId":10034,"enabled":true},{"slug":"palwal","cityId":10199,"enabled":true},{"slug":"panchgani","cityId":10617,"enabled":true},{"slug":"panipat","cityId":97,"enabled":true},{"slug":"paramakudi","cityId":10640,"enabled":true},{"slug":"parbhani","cityId":10002,"enabled":true},{"slug":"pathankot","cityId":10129,"enabled":true},{"slug":"patiala","cityId":85,"enabled":true},{"slug":"patna","cityId":79,"enabled":true},{"slug":"pattukkottai","cityId":10651,"enabled":true},{"slug":"payyannur","cityId":10648,"enabled":true},{"slug":"perambalur","cityId":10639,"enabled":true},{"slug":"perinthalmanna","cityId":10557,"enabled":true},{"slug":"phagwara","cityId":128,"enabled":true},{"slug":"phaltan_perm_closed_8june22","cityId":10342,"enabled":true},{"slug":"phusro","cityId":10644,"enabled":true},{"slug":"pilani","cityId":142,"enabled":true},{"slug":"pilibhit","cityId":10106,"enabled":true},{"slug":"pinjore-city","cityId":10483,"enabled":true},{"slug":"pondicherry","cityId":43,"enabled":true},{"slug":"porbandar","cityId":203,"enabled":true},{"slug":"port-blair","cityId":10273,"enabled":true},{"slug":"pratapgarh","cityId":10616,"enabled":true},{"slug":"proddatur","cityId":10256,"enabled":true},{"slug":"pudukkottai","cityId":10096,"enabled":true},{"slug":"pune","cityId":6,"enabled":true},{"slug":"puri","cityId":10131,"enabled":true},{"slug":"purnea","cityId":10380,"enabled":true},{"slug":"purulia","cityId":10162,"enabled":true},{"slug":"pusad","cityId":10593,"enabled":true},{"slug":"puttur","cityId":10395,"enabled":true},{"slug":"puttur-karnataka","cityId":10601,"enabled":true},{"slug":"rae-bareli","cityId":10086,"enabled":true},{"slug":"raghunathpur","cityId":10624,"enabled":true},{"slug":"raichur","cityId":10193,"enabled":true},{"slug":"raiganj","cityId":10231,"enabled":true},{"slug":"raigarh","cityId":10057,"enabled":true},{"slug":"raipur","cityId":58,"enabled":true},{"slug":"rajahmundry","cityId":88,"enabled":true},{"slug":"rajapalayam","cityId":10089,"enabled":true},{"slug":"rajgarh","cityId":10615,"enabled":true},{"slug":"rajkot","cityId":60,"enabled":true},{"slug":"rajnandgaon","cityId":10090,"enabled":true},{"slug":"rajsamand","cityId":10583,"enabled":true},{"slug":"ramagundam","cityId":10038,"enabled":true},{"slug":"ramanagara","cityId":10598,"enabled":true},{"slug":"ramanathapuram","cityId":10440,"enabled":true},{"slug":"ramgarh","cityId":10343,"enabled":true},{"slug":"rampur","cityId":199,"enabled":true},{"slug":"ranaghat","cityId":10623,"enabled":true},{"slug":"ranaghat-wb","cityId":10631,"enabled":true},{"slug":"ranchi","cityId":80,"enabled":true},{"slug":"rangpo","cityId":10567,"enabled":true},{"slug":"ranibennur","cityId":10092,"enabled":true},{"slug":"raniganj","cityId":10164,"enabled":true},{"slug":"ratlam","cityId":10021,"enabled":true},{"slug":"ratnagiri","cityId":137,"enabled":true},{"slug":"ravulapalem","cityId":10672,"enabled":true},{"slug":"rayachoty","cityId":10396,"enabled":true},{"slug":"rewa","cityId":154,"enabled":true},{"slug":"rewari","cityId":10198,"enabled":true},{"slug":"rishikesh","cityId":145,"enabled":true},{"slug":"rohtak","cityId":166,"enabled":true},{"slug":"roorkee","cityId":152,"enabled":true},{"slug":"ropar","cityId":10365,"enabled":true},{"slug":"rourkela","cityId":121,"enabled":true},{"slug":"rudrapur","cityId":10083,"enabled":true},{"slug":"sagar","cityId":205,"enabled":true},{"slug":"saharanpur","cityId":131,"enabled":true},{"slug":"saharsa","cityId":10285,"enabled":true},{"slug":"salem","cityId":110,"enabled":true},{"slug":"samastipur","cityId":10378,"enabled":true},{"slug":"sambalpur","cityId":10204,"enabled":true},{"slug":"sambhal_perm_closed_8june22","cityId":10255,"enabled":true},{"slug":"sangamner","cityId":10428,"enabled":true},{"slug":"sangli","cityId":143,"enabled":true},{"slug":"sangrur","cityId":10336,"enabled":true},{"slug":"santipur","cityId":10250,"enabled":true},{"slug":"sasaram","cityId":10289,"enabled":true},{"slug":"satara","cityId":10016,"enabled":true},{"slug":"satna","cityId":155,"enabled":true},{"slug":"sawai-madhopur","cityId":10160,"enabled":true},{"slug":"sawantwadi","cityId":10425,"enabled":true},{"slug":"sehore","cityId":10125,"enabled":true},{"slug":"shahjahanpur","cityId":234,"enabled":true},{"slug":"shamli","cityId":10234,"enabled":true},{"slug":"shikohabad","cityId":10080,"enabled":true},{"slug":"shillong","cityId":107,"enabled":true},{"slug":"shimla","cityId":156,"enabled":true},{"slug":"shirdi-city","cityId":10667,"enabled":true},{"slug":"shivamogga","cityId":150,"enabled":true},{"slug":"shivpuri","cityId":10008,"enabled":true},{"slug":"shravasti","cityId":10608,"enabled":true},{"slug":"shrirampur","cityId":10427,"enabled":true},{"slug":"siddipet","cityId":10321,"enabled":true},{"slug":"sikar","cityId":10152,"enabled":true},{"slug":"silchar","cityId":163,"enabled":true},{"slug":"siliguri","cityId":10033,"enabled":true},{"slug":"silvassa","cityId":10530,"enabled":true},{"slug":"sindhanur","cityId":10453,"enabled":true},{"slug":"singrauli","cityId":210,"enabled":true},{"slug":"sirkali","cityId":10660,"enabled":true},{"slug":"sirsa","cityId":64,"enabled":true},{"slug":"sirsi","cityId":10441,"enabled":true},{"slug":"sitamarhi","cityId":10647,"enabled":true},{"slug":"sitapur","cityId":200,"enabled":true},{"slug":"sivakasi","cityId":10438,"enabled":true},{"slug":"sivasagar","cityId":10511,"enabled":true},{"slug":"siwan","cityId":10281,"enabled":true},{"slug":"solan","cityId":10487,"enabled":true},{"slug":"solapur","cityId":106,"enabled":true},{"slug":"sonipat","cityId":165,"enabled":true},{"slug":"south-goa","cityId":139,"enabled":true},{"slug":"sri-ganganagar","cityId":10123,"enabled":true},{"slug":"srikakulam","cityId":10294,"enabled":true},{"slug":"srivilliputhur","cityId":10611,"enabled":true},{"slug":"sultanpur","cityId":10233,"enabled":true},{"slug":"surat","cityId":21,"enabled":true},{"slug":"suratgarh","cityId":10150,"enabled":true},{"slug":"surendranagar-dudhrej","cityId":10134,"enabled":true},{"slug":"suri","cityId":10625,"enabled":true},{"slug":"suryapet","cityId":10210,"enabled":true},{"slug":"tadepalligudem","cityId":10037,"enabled":true},{"slug":"tadpatri","cityId":10217,"enabled":true},{"slug":"tanuku","cityId":10401,"enabled":true},{"slug":"tarn-taran-sahib","cityId":10413,"enabled":true},{"slug":"tenkasi","cityId":10610,"enabled":true},{"slug":"tezpur","cityId":10474,"enabled":true},{"slug":"thalassery","cityId":10467,"enabled":true},{"slug":"thanjavur","cityId":118,"enabled":true},{"slug":"theni","cityId":10444,"enabled":true},{"slug":"thiruvalla","cityId":10468,"enabled":true},{"slug":"thiruvallur","cityId":10316,"enabled":true},{"slug":"thiruvananthapuram","cityId":74,"enabled":true},{"slug":"thiruvarur","cityId":10629,"enabled":true},{"slug":"thodupuzha","cityId":10469,"enabled":true},{"slug":"thoothukudi","cityId":211,"enabled":true},{"slug":"thoubal","cityId":10638,"enabled":true},{"slug":"thrissur","cityId":66,"enabled":true},{"slug":"tindivanam","cityId":10652,"enabled":true},{"slug":"tinsukia","cityId":10088,"enabled":true},{"slug":"tiptur","cityId":10354,"enabled":true},{"slug":"tirunelveli","cityId":132,"enabled":true},{"slug":"tirupati","cityId":69,"enabled":true},{"slug":"tirupur","cityId":71,"enabled":true},{"slug":"tiruttani","cityId":10653,"enabled":true},{"slug":"tiruvannamalai","cityId":10014,"enabled":true},{"slug":"tohana","cityId":10503,"enabled":true},{"slug":"trichy","cityId":37,"enabled":true},{"slug":"tumakuru","cityId":208,"enabled":true},{"slug":"tuni","cityId":10393,"enabled":true},{"slug":"udaipur","cityId":42,"enabled":true},{"slug":"udgir","cityId":10254,"enabled":true},{"slug":"udhampur","cityId":10576,"enabled":true},{"slug":"ujjain","cityId":84,"enabled":true},{"slug":"uluberia","cityId":10172,"enabled":true},{"slug":"unnao","cityId":10030,"enabled":true},{"slug":"uran-islampur","cityId":10590,"enabled":true},{"slug":"vadodara","cityId":17,"enabled":true},{"slug":"valsad","cityId":158,"enabled":true},{"slug":"vapi","cityId":159,"enabled":true},{"slug":"varanasi","cityId":77,"enabled":true},{"slug":"varkala","cityId":10603,"enabled":true},{"slug":"vellore","cityId":73,"enabled":true},{"slug":"veraval","cityId":10523,"enabled":true},{"slug":"vidisha","cityId":10078,"enabled":true},{"slug":"vijayawada","cityId":38,"enabled":true},{"slug":"viluppuram","cityId":10439,"enabled":true},{"slug":"virudhunagar","cityId":10320,"enabled":true},{"slug":"visnagar","cityId":10588,"enabled":true},{"slug":"vizag","cityId":20,"enabled":true},{"slug":"vizianagaram","cityId":173,"enabled":true},{"slug":"vyara","cityId":10420,"enabled":true},{"slug":"waidhan","cityId":10301,"enabled":true},{"slug":"warangal","cityId":75,"enabled":true},{"slug":"wardha","cityId":10124,"enabled":true},{"slug":"washim","cityId":10619,"enabled":true},{"slug":"wayanad","cityId":10637,"enabled":true},{"slug":"yamuna-nagar","cityId":189,"enabled":true},{"slug":"yavatmal","cityId":10007,"enabled":true}],"misc":{"statusCode":200,"swiggyAssured":{"isOpen":false,"data":null,"dataLocation":null},"pageType":"HOME","isHeaderVisible":true,"isFooterVisible":true,"restaurantOutlet":{"show":false,"data":{},"position":null},"locationSidebar":{"searchLocationFirst":true,"show":false},"auth":{"signupFirst":false,"show":false},"editAddress":{},"track":{},"feedback":{},"footerLinks":{},"homeBG":"Lunch1_vlksgq","isNudgeShown":false,"messages":{"has_messages":false,"data":{}}},"userLocation":{},"cart":{"restaurantId":0,"oldRestaurantId":0,"cartStatusCode":0,"fetchingCart":false,"updatingCart":false,"cartMeta":null,"cartItems":{},"mealItems":{},"subscriptionItems":[],"cartFreebieItems":{},"subscriptionNudge":{},"cartItemsCount":0,"totalItemsCount":0,"orderNote":"","deliveryAddressId":"","cutlerySelection":false},"toast":{"data":{},"status":"hidden","timeoutValue":0},"listing":{"fetching":false,"error":false,"refineInProgress":false,"refineError":false,"data":{"topCarousel":{},"collections":{},"collectionOrder":[],"seeAllRestaurants":{},"restaurants":{"open":[],"closed":[]},"superNudge":{},"nudgeCard":{},"totalRestaurants":0,"extra":{}}},"menu":{"misc":{"isClosed":false,"isUnserviceable":false,"isFavorite":false,"vegOnly":false,"nonVegOnly":false,"restaurantId":"","isMenuDisabled":false},"filters":{"vegFilter":false,"searchText":""},"restaurant":{},"collections":[],"allCollections":[],"items":{},"fetching":false,"showRestaurantCollection":false,"menuRestaurantCollection":{"restaurants":[],"title":""},"timestamp":0,"statusCode":0,"carriedData":{"selectedCategory":""},"menuCarousels":null},"user":{},"swgyOptions":{"dweb_enable_tracking_nudge":"1","restaurant_phone_no":"080-67466725","meal_slots":"{\"breakfast\":{\"start\":\"8:00\",\"end\":\"10:59\"},\"lunch\":{\"start\":\"11:00\",\"end\":\"15:00\"},\"dinner\":{\"start\":\"19:00\",\"end\":\"23:00\"}}","dweb_enable_navigation":"0","dweb_menu_attributes_enabled":"1","dweb_enable_cross_selling":"1","dweb_enable_pop_cross_selling":"0","dweb_enable_amp":"1","dweb_amazonpay_enabled":"1","dweb_menu_carousel":"1","dweb_pop":"1","dweb_pop_data":"{ \"showDeliveryFee\": true, \"listingHeader\":{\"title\": \"Select your meal\",\"subtext\": \"\"}, \"landingData\": [{\"text\":\"Single Serve Meals\",\"imageUrl\":\"intro_tick_piz4xe\"},{\"text\":\"Free Delivery\",\"imageUrl\":\"intro_tick_piz4xe\"},{\"text\":\"No Extra Charges\",\"imageUrl\":\"intro_tick_piz4xe\"}]}","dweb_netbankng_list":"{\"NB_AXIS\":\"Axis Bank\",\"NB_HDFC\":\"HDFC Bank\",\"NB_KOTAK\":\"Kotak Bank\",\"NB_ICICI\":\"ICICI Netbanking\",\"NB_SBI\":\"State Bank of India\",\"NB_BOI\":\"Bank of India\",\"NB_BOM\":\"Bank of Maharashtra\",\"NB_CANR\":\"Canara Bank\",\"NB_CBI\":\"Central Bank Of India\",\"NB_CUB\":\"City Union Bank\",\"NB_CORP\":\"Corporation Bank\",\"NB_DCB\":\"Development Credit Bank\",\"NB_DEUT\":\"Deutsche Bank\",\"NB_DLS\":\"Dhanalaxmi Bank\",\"NB_FED\":\"Federal Bank\",\"NB_IDBI\":\"Industrial Development Bank of India\",\"NB_INDB\":\"Indian Bank\",\"NB_INDUS\":\"IndusInd Bank\",\"NB_IOB\":\"Indian Overseas Bank\",\"NB_ING\":\"ING Vysya Bank\",\"NB_JNK\":\"Jammu and Kashmir Bank\",\"NB_KARN\":\"Karnataka Bank\",\"NB_KVB\":\"Karur Vysya Bank\",\"NB_SBBJ\":\"State Bank of Bikaner and Jaipur\",\"NB_SBH\":\"State Bank of Hyderabad\",\"NB_SBM\":\"State Bank of Mysore\",\"NB_SBP\":\"State Bank of Patiala\",\"NB_SBT\":\"State Bank of Travancore\",\"NB_SOIB\":\"South Indian Bank\",\"NB_UBI\":\"Union Bank of India\",\"NB_UNIB\":\"United Bank Of India\",\"NB_VJYB\":\"Vijaya Bank\",\"NB_YESB\":\"Yes Bank\"}","dweb_we_accept_card_logos":"{\"visa\":{\"id\":\"Visa_lztyeu\",\"enabled\":1,\"small\":1},\"master_card\":{\"id\":\"Mastercard_wqoea2\",\"enabled\":1},\"amex\":{\"id\":\"Amex_ozga1w\",\"enabled\":1},\"zeta\":{\"id\":\"Zeta_zybqrc\",\"enabled\":1,\"small\":1},\"tkt_restaurant\":{\"id\":\"TktRest_pu9nh2\",\"enabled\":1},\"sodexo\":{\"id\":\"Sodexo_tfxihv\",\"enabled\":1},\"rupay\":{\"id\":\"RuPayColoured_oyd73s_soebkd\",\"enabled\":1,\"small\":0}}","dweb_we_accept_non_food_card_logos":"{\"visa\":{\"id\":\"Visa_lztyeu\",\"enabled\":1,\"small\":1},\"master_card\":{\"id\":\"Mastercard_wqoea2\",\"enabled\":1},\"amex\":{\"id\":\"Amex_ozga1w\",\"enabled\":1},\"zeta\":{\"id\":\"Zeta_zybqrc\",\"enabled\":1,\"small\":1},\"rupay\":{\"id\":\"RuPayColoured_oyd73s_soebkd\",\"enabled\":1,\"small\":0}}","dweb_we_accept_food_card_logos":"{\"sodexo\":{\"id\":\"Sodexo_tfxihv\",\"enabled\":1}}","dweb_we_accept_upi_logos":"{\"gpay\":{\"id\":\"GooglePay_lh8a267\",\"enabled\":1,\"small\":0},\"phonepe\":{\"id\":\"PhonePe_x1g54c7\",\"enabled\":1},\"bhim\":{\"id\":\"BHIM_lkkvup7\",\"enabled\":1,\"small\":0},\"pockets\":{\"id\":\"Pockets_vxwejm7\",\"enabled\":1}}","sodexo_low_balance_alert_text":"Low balance. Try another payment method.","dweb_phonepe_enabled":"1","multitd_freebie_subtext":"1 Free Delight for you","default_city_info_text":"Order food & beverages online from restaurants near & around you. We deliver food from your neighborhood local joints, your favorite cafes, luxurious & elite restaurants in your area. Exciting bit? We place no minimum order restrictions! Order in as little (or as much) as you'd like. We'll Swiggy it to you!","upi_polling_interval_in_sec":"3","upi_polling_duration_in_min":"3","dweb_nps_survey_url":"https://www.inmoment.com/websurvey/2/begin?gateway=VOGLive&OC=7777","dweb_nps_enable":"0","dweb_consumer_track_order_poll":"10000","dweb_consumer_track_order_slow_poll":"60000","dweb_pop_sticky_experiment":"1","ios_http_error_messages":"{\"errorMessages\":[{\"codes\":[429],\"messages\":[{\"context\":\"listing\",\"title\":\"We'll be back shortly\",\"message\":\"Our ovens need some maintenance. We'll be up and serving good food in no time.\",\"creative_id\":\"throttle\",\"show_retry\":false},{\"context\":\"common\",\"title\":\"We'll be up & running in a while!\",\"message\":\"Our ovens need some maintenance. We'll be up and serving good food in no time.\",\"creative_id\":\"throttle\",\"show_retry\":true},{\"context\":\"cart\",\"title\":\"We'll be up & running in a while!\",\"message\":\"Our ovens need some maintenance. We'll be up and serving good food in no time.\",\"creative_id\":\"throttle\",\"show_retry\":false}]}]}","dweb_tracking_show_custom_polyline":"0","dweb_tracking_refer_friend":"0","dweb_tracking_custom_polyline_config":"{\"CUSTOM_CURVE_LINE_ANGLE\": 16, \"CUSTOM_CURVE_LINE_SHADOW_ANGLE\": 0, \"CUSTOM_POLYLINE_OPTIONS\": [{\"strokeColor\":\"#138808\",\"strokeOpacity\":1,\"geodesic\":true,\"icons\":[{\"icon\":{\"path\":\"M 0,-1 0,1\",\"scale\":4,\"strokeColor\":\"#138808\",\"strokeOpacity\":1,\"strokeWeight\":4},\"offset\":\"0\",\"repeat\":\"1px\"}]},{\"strokeColor\":\"#fff\",\"strokeOpacity\":1,\"geodesic\":true,\"icons\":[{\"icon\":{\"path\":\"M 0,-1 0,1\",\"scale\":4,\"strokeColor\":\"#fff\",\"strokeOpacity\":1,\"strokeWeight\":4},\"offset\":\"0\",\"repeat\":\"1px\"}]},{\"strokeColor\":\"#ff9021\",\"strokeOpacity\":1,\"geodesic\":true,\"icons\":[{\"icon\":{\"path\":\"M 0,-1 0,1\",\"scale\":4,\"strokeColor\":\"#ff9021\",\"strokeOpacity\":1,\"strokeWeight\":4},\"offset\":\"0\",\"repeat\":\"1px\"}]}], \"CUSTOM_SHADOW_POLYLINE_OPTIONS\": {\"strokeColor\":\"#d4d5d9\", \"strokeOpacity\": 1}}","dweb_analytics_funnel":"'[{\"queue\": \"menu\", \"limit\": 4, \"releasePoint\": \"menu\"}]'","dweb_analytics_funnel_enabled":"1","portal_swiggy_one_app_onboarding_txt":"Get free delivery and extra discounts all across Swiggy.<br />Your Swiggy One benefits can be availed only on the Swiggy App.","portal_swiggy_one_app_dweb_txt":"Unlock access to unlimited convenience and benefits all across Swiggy.<br />Find out how on the Swiggy app!","cutlery_data":"{\r\n  \"isDefaultSelection\": false,\r\n  \"title\": \"Opt in for No-contact Delivery\",\r\n  \"beforeSelectionSubtitle\": \"Unwell, or avoiding contact? Please select no-contact delivery. Partner will safely place the order outside your door (not for COD)\",\r\n  \"afterSelectionSubtitle\": \"Our delivery partner will call to confirm. Please ensure that your address has all the required details.\",\r\n  \"cutleryInstruction\": \"DONT SEND CUTLERY\"\r\n}","portal_account_page_payment_modes":"{\"wallets\":{\"paytm\":{\"logoUrl\":\"PaymentLogos/Wallet/2021_10/Paytm\",\"displayName\":\"Paytm\"},\"mobikwik\":{\"logoUrl\":\"PaymentLogos/Wallet/2021_10/Mobikwik\",\"displayName\":\"MobiKwik\"},\"freecharge\":{\"logoUrl\":\"PaymentLogos/Wallet/2021_10/Freecharge\",\"displayName\":\"Freecharge\"},\"phonepe\":{\"logoUrl\":\"PaymentLogos/Wallet/2021_10/Phonepe\",\"displayName\":\"PhonePe\"}}}","portal_dweb_swiggy_gourmet_img":"/v1644920643/Frame_5226_djuqv6","portal_dweb_swiggy_diners_img":"diners_assets/onboarding_banner","amp_disabled":"true","newRelicCustomEventEnabled":true,"gtmEnabled":true,"sentryEnabled":true,"isTestAgent":false,"dataPlatformHost":"https://analytics.swiggy.com"},"customize":{"item":{},"selectedAddons":{},"selectedVariants":{},"fromCart":false,"currentStep":1,"totalSteps":2,"variantsV2":{"pricingModelHash":{},"variantsHash":{},"addonsHash":{}},"pricingModelKey":"","validVariants":[],"validAddons":[],"shouldShowModal":false,"updatingExistingCustomization":false,"restaurantId":0,"errorAddonGroupId":"","error":{"show":false,"message":""}},"payment":{"data":{},"fetchingMethods":false,"wallet":{},"payLater":{},"upi":{"showTimer":false,"vpaAddress":"","newVpa":false,"maxPollTimeInMin":3,"paasId":null},"splitPayChecked":false},"auth":{},"account":{"addresses":[],"orders":[],"totalOrders":0,"offers":[],"favourites":{},"cards":[],"wallets":[],"vpas":[],"swiggyMoneyHistory":[],"fetching":false,"fetchingFailed":false,"hasMoreTxns":true,"super":{"fetching":false,"failed":false,"data":{}}},"search":{"query":"","dishQuery":"","result":{},"dishFirstResponse":null,"dishFirstTab":null,"searchInProgress":false,"recentSearches":{},"showSuggestions":true,"suggestions":{},"autoSuggestInProgress":false,"preSearchInProgress":false,"preSearchResult":{"statusCode":0,"data":{"statusMessage":"done successfully","firstOffsetRequest":true,"cards":[{"@type":"type.googleapis.com/swiggy.gandalf.widgets.v2.RecentSearches","id":"recentSearchesWidget","title":"Recent Searches","minItemsToDisplay":3,"maxItemsToDisplay":5}]}},"preSearchDoneOnce":false},"support":{"issueTypes":{},"conversations":{},"issueDetails":{}},"meals":{"canCheckout":false,"id":null,"metaData":{},"maxTotal":null,"minTotal":null,"groups":[],"fetching":false,"error":false,"errorMessage":null,"cartMealGroups":{},"openGroupIndex":0,"validation":{"error":false},"finalPriceCalculated":false}};   window.webpackManifest = {"vendor":"vendor.251e7d48cf50bec.js","app":"app.251e7d48cf50bec.js","auth":"auth.251e7d48cf50bec.js","checkout":"checkout.251e7d48cf50bec.js","addCoupon":"addCoupon.251e7d48cf50bec.js","crossselling":"crossselling.251e7d48cf50bec.js","customize":"customize.251e7d48cf50bec.js","swiggyAssured":"swiggyAssured.251e7d48cf50bec.js","checkoutSuper":"checkoutSuper.251e7d48cf50bec.js","collection":"collection.251e7d48cf50bec.js","filtersSidebar":"filtersSidebar.251e7d48cf50bec.js","home":"home.251e7d48cf50bec.js","listing":"listing.251e7d48cf50bec.js","trackingNudge":"trackingNudge.251e7d48cf50bec.js","meals":"meals.251e7d48cf50bec.js","menu":"menu.251e7d48cf50bec.js","myAccount":"myAccount.251e7d48cf50bec.js","myAccountAddresses":"myAccountAddresses.251e7d48cf50bec.js","myAccountFavourites":"myAccountFavourites.251e7d48cf50bec.js","myAccountOrders":"myAccountOrders.251e7d48cf50bec.js","myAccountPayments":"myAccountPayments.251e7d48cf50bec.js","myAccountSettings":"myAccountSettings.251e7d48cf50bec.js","offersPage":"offersPage.251e7d48cf50bec.js","search":"search.251e7d48cf50bec.js","searchLocation":"searchLocation.251e7d48cf50bec.js","seoPages":"seoPages.251e7d48cf50bec.js","support":"support.251e7d48cf50bec.js","supportLayout":"supportLayout.251e7d48cf50bec.js","supportIssues":"supportIssues.251e7d48cf50bec.js","supportOrders":"supportOrders.251e7d48cf50bec.js","swiggyDiners":"swiggyDiners.251e7d48cf50bec.js","swiggyGourmet":"swiggyGourmet.251e7d48cf50bec.js","swiggyMoments":"swiggyMoments.251e7d48cf50bec.js","swiggySocial":"swiggySocial.251e7d48cf50bec.js","swiggySuper":"swiggySuper.251e7d48cf50bec.js","tracking":"tracking.251e7d48cf50bec.js"};  var App = {};  App.tid = "742fa226-4839-4a31-98b5-0e3e7a2c9444";
-    sessionStorage.setItem("tid", "742fa226-4839-4a31-98b5-0e3e7a2c9444");   App.sid = "1c05f7bc-46ac-4c9c-9abc-e223ba2fbe44";   App.deviceId = "79b76efc-4e26-ab83-8e10-f28de4d0f586";   App.userId = 0;    window.showScriptLoadFailureMessage = function(source) {
-    window._SentryCaptureMessage !== undefined && window._SentryCaptureMessage('Failed to load source', source);
-};</script> <script>function _SentryCaptureMessage(msg, url, ln) {
-        if (window.Sentry) {
-            window.Sentry.withScope(scope => {
-                scope.setExtra("source", url);
-                window.Sentry.captureException(msg);
-            });
-        } else {
-            window._swgy_errors.push([msg, url, ln]);
-        }
-    }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+	<meta name="robots" content="" />
+	<meta property="og:image" content="" />
+	<meta name="format-detection" content="telephone=no">
+	
+	<!-- FAVICONS ICON -->
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+	
+	<!-- PAGE TITLE HERE -->
+	<title>Anna University, Chennai</title>
+	
+	<!-- MOBILE SPECIFIC -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!--[if lt IE 9]>
+	<script src="js/html5shiv.min.js"></script>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+	
+		<!-- STYLESHEETS -->
+	<link rel="stylesheet" type="text/css" href="css/plugins.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link class="skin" rel="stylesheet" type="text/css" href="css/skin/skin-1.css">
+	<link rel="stylesheet" type="text/css" href="css/templete.css">
+	<!-- Google Font -->
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+</style>
+	
+	
+	<!-- REVOLUTION SLIDER CSS -->
+	<link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/revolution.min.css">	
+	<!--link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"-->
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<!------ Include the above in your HEAD tag ---------->
+	<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="ripple.min.css">
+	<!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"-->
 
-    (function(w) {
-        if (typeof Sentry == "undefined") {
-            w._swgy_errors = w._swgy_errors || [];
-            w.addEventListener("error", _SentryCaptureMessage, false);
-        }
-    })(window);
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>  
+  
+	<!-- carousel-->
+	<!--<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="all">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet" media="all">
+	<link href="bootstrap-touch-slider.css" rel="stylesheet" media="all"> -->
+        <link href="https://translate.googleapis.com/translate_static/css/translateelement.css" rel="stylesheet" media="all">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" rel="stylesheet">		
+	
+	<!-- Right Side Social Icons-->
+	<link rel="stylesheet" href="css/styleright.css" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
 
-    function loadJS(src, callback) {
-        var script = document.createElement("script"),
-            loaded;
-        script.src = src;
-        script.async = true;
-        if (callback) {
-            script.onreadystatechange = script.onload = function() {
-                if (!loaded) {
-                    callback(window);
-                }
-                loaded = true;
-            };
-        }
-        document.getElementsByTagName("head")[0].appendChild(script);
-    }
+</head>
+<body id="bg">
+<div class="page-wraper">
+<!--div id="loading-area"></div-->
+    <!-- header -->
+    <header class="site-header mo-left header">		
+		<!-- main header -->
+        <div class="sticky-header main-bar-wraper navbar-expand-lg">	
+            <div class="main-bar clearfix">	
+				
+				<div class="top-bar">
+					<!--<div class="container">-->
+					<div class="row d-flex justify-content-between align-items-center">
+						<div class="col-lg-3 dlab-topbar-left text-center">
+							<div id="google_translate_element"></div>
+							<script type="text/javascript">
+								function googleTranslateElementInit() {
+								  /*new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');*/
+								   /*new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,ta,te,kn,ml,hi,bn,fr,es,ja,zh,de', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');*/
+								   new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ta,en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+								}
+							</script>
+							<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>							
+						</div>
+                                                <div class="col-lg-9 dlab-topbar-right text-center">
+							<ul>
+								<li><i class="fa fa-home"></i> <a href="index.php" style="text-decoration:none">Home</a></li>
+								<!--<li><a class="btn btn-success" href="https://www-annauniv-edu.translate.goog/nwsnew/index.php?_x_tr_sl=en&_x_tr_tl=ta&_x_tr_hl=en-US&_x_tr_pto=wapp" target="_blank">தமிழில் அறிய</a></li>-->
+								<!--li><a href="https://www.annauniv.edu/nwsnew/index.php" style="text-decoration:none">View in English</a></li!-->
+								<li><a href="https://www.annauniv.edu/sports" target="_blank">Sports</a></li>
+									
+								<li><a href="https://www.annauniv.edu/IQAC/" target="_blank" style="text-decoration:none">IQAC</a></li>					
+								<li><a href="https://www.annauniv.edu/cai" target="_blank" style="text-decoration:none">Affiliation</a></li>					
+								<li><a href="https://library.annauniv.edu/" target="_blank" style="text-decoration:none">Library</a></li>
+								<li><a href="https://www.annauniv.edu/CUICCentre/" target="_blank" style="text-decoration:none">Placement (CUIC)</a></li>
+								<!--<li><a href="https://mail.annauniv.edu" target="_blank"><img src="images/email.png"></img></a></li>-->
+								<!--li><a href="https://outlook.office365.com/mail/" target="_blank"><img src="images/email.png"></img></a></li-->
+								<li><a href="https://www.annauniv.edu/rcc" target="_blank" style="text-decoration:none">RCC</a></li>
+								<li><a href="email.php" target="_blank"><img src="images/email.png"></img></a></li>
+								<li><a href="contactus.php" style="text-decoration:none">Contact Us</a></li>
+							</ul>				
+						</div>							</div>
+					<!--</div>-->
+				 </div>
+							
+               <div class="container clearfix">
+				<!--<div class="clearfix">-->				
+					
+					<div align="center">
+						<a href="/"><img src="images/ANNAUNIVERSITYLOGO.png" alt=""></a>
+					</div>
 
-    loadJS("https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/libs/sentry.js", function(w) {
-        w.removeEventListener("error", _SentryCaptureMessage, false);
-        w.Sentry.init({
-            dsn: "https://376574dea44b4055b0f0321b554b2d9d@sentry.io/5168579",
-            release: "production_2.30.0",
-            environment: "production",
-            // hardcoded for now
-            whitelistUrls: [/swiggy\.com/, /.*cloudinary\.com.*/],
-            ignoreUrls: [
-                // Facebook flakiness
-                /graph\.facebook\.com/i,
-                // Facebook blocked
-                /connect\.facebook\.net\/en_US\/all\.js/i,
-                // Chrome extensions
-                /extensions\//i,
-                /^chrome:\/\//i,
-            ],
-            ignoreErrors: [
-                // Random plugins/extensions
-                "top.GLOBALS",
-                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
-                "originalCreateNotification",
-                "canvas.contentDocument",
-                "MyApp_RemoveAllHighlights",
-                "atomicFindClose",
-                // Facebook borked
-                "fb_xd_fragment",
-                // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
-                "bmi_SafeAddOnload",
-                "EBCallBackMessageReceived",
-                "failed to fetch",
-                // Happens sometimes
-                /.*Bad Gateway.*/i,
-                // Happens sometimes
-                /.*Blocked a frame with origin.*/i,
-                // Internet connectivity issue
-                /.*failed to fetch.*/i,
-                // Tracking page has this
-                /.*hostname could not.*/i,
-                /.*connect to the server.*/i,
-                // Internet connectivity issue in loading chunks
-                /.*Loading chunk.*failed.*/i,
-                // Internet issue
-                /.*Network request failed.*/i,
-                // offline
-                /.*offline.*/gi,
-                // iOS error caused when webapp goes in background
-                /.*abort.*/i,
-                // API timeouts
-                /.*timeout.*/i,
-                /.*timed out.*/i,
-                // Client lost network connection
-                /.*connection.*lost.*/i,
-                // Tracking cancelled fetch request errors
-                /.*cancelled.*/i,
-            ],
-        });
-        w._swgy_errors = w._swgy_errors || [];
-        for (var i = 0; i < w._swgy_errors.length; i++) {
-            w.Sentry.withScope(scope => {
-                scope.setExtra("source", w._swgy_errors[i][1]);
-                scope.setExtra("line", w._swgy_errors[i][2]);
-                w.Sentry.captureException(w._swgy_errors[i][0]);
-            });
-        }
+					<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+						<span></span>
+						<span></span>
+						<span></span>					
+					</button>
+	
+					                    
+                    <!-- main nav -->
+					
+                  	<div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown" style="display:block">	
+									
+                        <ul class="nav navbar-nav">	
+							<li>
+								<a href="javascript:;">About Us<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu tab-content">
+									<li><a href="https://www.annauniv.edu/Anna%20University%20Profile.pdf" target="_blank">Our History</a></li>
+									<li><a href="https://www.annauniv.edu/vision_mission.pdf" target="_blank">Vision & Mission</a></li>
+									<li><a href="https://www.annauniv.edu/core_values.pdf" target="_blank">Core Values</a></li>
+									<li><a href="https://www.annauniv.edu/organogram.pdf" target="_blank">Organogram</a></li>
+									<li><a href="https://www.annauniv.edu/Strategic_plan_roadmap.pdf" target="_blank">Strategic Plan with Road Map</a></li>
+									<!--li><a href="https://www.annauniv.edu/GrievancesStaff.pdf" target="_blank">Grievance Redressal - Faculty</a></li>
+									<li><a href="https://www.annauniv.edu/GrievancesStudents.pdf" target="_blank">Grievance Redressal - Students</a></li!-->
+									<li><a href="http://10.11.104.170/Annual%20Budget/" target="_blank">Annual Budget (Intranet only)</a></li>
+									<li><a href="javascript:;">Policies<i class="fa fa-angle-right"></i></a>
+									<ul class="sub-menu">
+									<li><a href="https://www.annauniv.edu/pdf/AU_UDs_Green%20Campus%20Policy.pdf" target="_blank">
+									Green Campus Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_UDs_Environment%20and%20Energy%20Policy.pdf" target="_blank">
+									Environment and Energy Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_UDs_e-Governance%20Policy.pdf" target="_blank">e-Governance Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_UDs_lT%20(lnformation%20Technoloey)%20Policy.pdf" target="_blank">
+									IT  (Information Technology) Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_UDs_Gender%20and%20Social%20Non%20Discrimination%20Policy.pdf" target="_blank">
+									Gender and Social Non-Discrimination Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_UDs_Gender%20Empowerment%20and%20Social%20Equity%20Policy.pdf" target="_blank">
+									Gender Empowerment and Social Equity Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_UDs_Scholarships%20and%20Freeships%20Policy.PDF" target="_blank">
+									Scholarship Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_P&D_Code%20of%20Conduct%20Policy.pdf" target="_blank">
+									Code of Conduct Policy</a></li>
+									<li><a href="https://www.annauniv.edu/pdf/AU_P&D_Faculty%20Incentive%20Policy.pdf" target="_blank">
+									Faculty Incentive Policy</a></li>
+									<li>
+									<a href="https://www.annauniv.edu/pdf/AU_P&D_Resource%20Mobilisation%20And%20Funding%20Policy%2020200718.pdf" target="_blank">
+										Resource Mobilisation and Funding Policy</a></li>
+									<li>
+									<a href="https://www.annauniv.edu/pdf/AU_P&D_Grievance%20Redressal%20Policy.pdf" target="_blank">
+										Grievance Redressal Policy</a></li>
+									<li>
+									<a href="https://cfr.annauniv.edu/research/announcements/Research-promotion-policy.pdf" target="_blank">
+										Research Promotion Policy</a></li>											
+									</ul>
+									</li>
+									<!--li><a href="https://www.annauniv.edu/strategic_goals.pdf" target="_blank">Strategic Goals & Objectives</a></li>
+									<li><a href="https://www.annauniv.edu/GrievancesStaff.pdf" target="_blank">Grievance Redressal - Faculty</a></li>
+									<li><a href="https://www.annauniv.edu/GrievancesStudents.pdf" target="_blank">Grievance Redressal - Student</a></li!-->
+								</ul>
+							</li>
+							<li>
+								<a href="#vcmsg">VC's Desk</a>
+								<ul class="sub-menu tab-content">
+									<li><a href="https://www.annauniv.edu/nwsnew/vcprofile.php">VC Profile</a></li>	
+									<!--li><a href="#vcmsg">VC Message</a></li-->
+									<li><a href="https://www.annauniv.edu/nwsnew/vcgallery.php">VC Events/Gallery</a></li>
+								</ul>
+							</li>
+							<li class="has-mega-menu"> <a href="javascript:;">Administration<i class="fa fa-chevron-down"></i></a>
+								<ul class="mega-menu">
+									<li> <a href="javascript:;">Administrators</a>
+										<ul>
+											<li><a href="syndicate.php">Syndicate</a></li>
+											<li><a href="https://www.annauniv.edu/pdf/Minutes of syndicate meeting.pdf" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp; - Syndicate Minutes</a></li>
+											<li><a href="https://10.11.104.170/Annual Budget" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp; - Annual Budget (Intranet Only)</a></li>
+											<li><a href="administration.php">University Administration</a></li>
+											<li><a href="deans.php">Deans (University Departments)</a></li>
+											<!--li><a href="deansofregionalcampus.php">Deans Constituent Colleges & Regional Campus</a></li!-->
+											<li><a href="constituent.php">Deans of Constituent Colleges & Regional Campus</a></li>
+											<li><a href="chairman.php">Chairpersons</a></li>
+											<li><a href="directors.php">Directors</a></li>
+											<li><a href="hod.php">Head of the Departments</a></li>
+											<li><a href="officers.php">Officers</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:;">Administrative Centres</a>
+										<ul>
+											<li><a href="https://www.annauniv.edu/sports/" target="_blank">AU Sports Board</a></li>
+											<li><a href="https://www.annauniv.edu/autvscqm/" target="_blank">AU-TVS Centre for Quality Management</a></li>
+											<li><a href="https://annaincubator.org/" target="_blank">Atal Incubation Centre - AU Incubation Foundation</a></li>
+											<li><a href="https://cac.annauniv.edu/" target="_blank">Centre for Academic Courses</a></li>
+											<li><a href="https://admissions.annauniv.edu/cfa/" target="_blank">Centre for Admissions</a></li>
+											<li><a href="https://www.annauniv.edu/cai/" target="_blank">Centre for Affiliation</a></li>
+											<li><a href="https://cde.annauniv.edu//Default.aspx" target="_blank">Centre for Distance Education</a></li>
+											<li><a href="https://www.auegov.ac.in" target="_blank">Centre for e-Governance</a></li>
+											<li><a href="#" target="_blank">Centre for Entrance Examinations</a></li>
+											<li><a href="http://auced.com/" target="_blank">Centre for Entrepreneurship Development</a></li>
+											<!--li><a href="https://www.aukdc.edu.in/" target="_blank">Centre for e-Governance</a></li-->
+											<li><a href="https://cfd.annauniv.edu/" target="_blank">Centre for Faculty Development</a></li>
+											<!--li><a href="https://www.aukdc.edu.in/" target="_blank">Centre for e-Governance</a></li-->
+											<li><a href="https://annauniv.edu/CHS/index.php" target="_blank">Centre for Human Settlements</a></li>
+											<li><a href="https://annauniv.edu/cir/index.php" target="_blank">Centre for International Relations</a></li>
+											<li><a href="https://annauniv.edu/ipr/" target="_blank">Centre for Intellectual Property Rights</a></li>
+											<li><a href="http://ctdt.annauniv.edu/" target="_blank">Centre for Technology Development and Transfer</a></li>
+											<li><a href="https://www.annauniv.edu/CUICCentre/index.php" target="_blank">Centre for University Industry Collaboration</a></li>
+											<li><a href="https://www.annauniv.edu/WomenEmpCentre/index.php" target="_blank">Centre for Empowerment of Women</a></li>
+											<li><a href="https://estateoffice.annauniv.edu/estateoffice/" target="_blank">Estate Office</a></li>
+											<li><a href="https://www.annauniv.edu/HealthCentre/index.php" target="_blank">Health Centre</a></li>
+											<!--li><a href="https://www.aukdc.edu.in/" target="_blank">Centre for e-Governance</a></li-->
+											<li><a href="https://annauniv.edu/logistics/index.php" target="_blank">Logistic Centre</a></li>
+											<li><a href="http://aucoe.annauniv.edu/" target="_blank">Office of the Controller of Examinations</a></li>
+											<li><a href="https://annauniv.edu/dsa/index.html" target="_blank">Student Affairs</a></li>
+											<li><a href="https://www.annauniv.edu/scstcell/index.html" target="_blank">SC/ST Cell</a></li>
+											<li><a href="https://library.annauniv.edu/" target="_blank">University Library</a></li>	
+										</ul>
+									</li>									
+								</ul>
+								</li>	
+							<li class="has-mega-menu"> <a href="javascript:;">Departments<i class="fa fa-chevron-down"></i></a>
+								<ul class="mega-menu">
+									<li> <a href="javascript:;">CEG Campus</a>
+										<ul>
+											<li><a href="http://civil.annauniv.edu/civil" target="_blank">Civil Engineering</a></li>
+											<!--li><a href="http://chemistryannauniv.com/" target="_blank">Chemistry</a></li-->
+											<li><a href="https://14.139.161.98/chemistry" target="_blank">Chemistry</a></li>
+											<li><a href="https://cs.annauniv.edu/" target="_blank">Computer Science and Engineering</a></li>
+											<!--li><a href="http://aueee.org/" target="_blank">Electrical and Electronics Engineering</a></li-->
+											<li><a href="#" target="_blank">Electrical and Electronics Engineering</a></li>
+											<li><a href="https://www.annauniv.edu/ece/index.php" target="_blank">Electronics and Communication Engineering</a></li>
+											<li><a href="https://www.annauniv.edu/English/index.php" target="_blank">English</a></li>
+											<li><a href="https://www.annauniv.edu/Geology/index.php" target="_blank">Geology</a></li>
+											<li><a href="https://www.annauniv.edu/DIST/" target="_blank">Information Science and Technology</a></li>
+											<li><a href="https://www.annauniv.edu/industrial/" target="_blank">Industrial Engineering</a></li>
+											<li><a href="https://www.annauniv.edu/Maths/index.php" target="_blank">Mathematics</a></li>
+											<li><a href="https://www.annauniv.edu/manufacturing/About%20Us.php" target="_blank">Manufacturing Engineering</a></li>
+											<!--li><a href="https://www.annauniv.edu/MSM/index.php" target="_blank">Manufacturing Systems Management</a></li!-->
+											<li><a href="http://cde.annauniv.edu/doms/" target="_blank">Management Studies</a></li>	
+											<li><a href="https://www.annauniv.edu/dme/" target="_blank">Mechanical Engineering </a></li>
+											<li><a href="https://www.annauniv.edu/MediaScience/index.php" target="_blank">Media Sciences </a></li>
+											<li><a href="https://www.annauniv.edu/MedicalPhysics/index.php" target="_blank">Medical Physics</a></li>
+											<li><a href="https://www.annauniv.edu/Mining/index.php" target="_blank">Mining Engineering</a></li>
+											<li><a href="https://www.annauniv.edu/Physics/index.php" target="_blank">Physics</a></li>
+											<li><a href="https://www.annauniv.edu/PrintingTech/index.html" target="_blank">Printing Technology</a></li>
+											<!--li><a href="https://www.annauniv.edu/Soil/index.php" target="_blank">Soil Mechanics and Foundation Engineering</a></li--> 
+											<!--li><a href="https://www.annauniv.edu/structuralEngg/index.php" target="_blank">Structural Engineering</a></li-->
+											<!--li><a href="https://www.annauniv.edu/Transportation/index.php" target="_blank">Transportation Engineering</a></li-->	
+										</ul>
+									</li>
+									<li> <a href="javascript:;">MIT Campus</a>
+										<ul>
+											<li><a href="https://mitindia.edu/en/aero-home" target="_blank">Aerospace Engineering </a></li>
+											<li><a href="https://mitindia.edu/en/auto-home" target="_blank">Automobile Engineering</a></li>
+											<li><a href="https://mitindia.edu/en/applied-home" target="_blank">Applied Science and Humanities</a></li>
+											<li><a href="http://www.ct.mitindia.edu/" target="_blank">Computer Technology</a></li>
+											<li><a href="https://mitindia.edu/en/ece-home" target="_blank">Electronics Engineering</a></li>
+											<li><a href="http://it.mitindia.edu/" target="_blank">Information Technology</a></li>
+											<li><a href="https://mitindia.edu/en/instrumentation-home" target="_blank">Instrumentation Engineering</a></li>						
+											<li><a href="https://mitindia.edu/en/pt-home" target="_blank">Production Technology </a></li>
+											<li><a href="https://mitindia.edu/en/rpt-home" target="_blank">Rubber and Plastic Technology</a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:;">ACT Campus</a>
+										<ul>
+											<li><a href="https://www.annauniv.edu/appsci/index.html" target="_blank">Applied Science Technology</a></li>	
+                                                                                        <li><a href="http://www.biotechannauniv.com/" target="_blank">Bio-Technology</a></li>	
+											<!--li><a href="#">CECRI</a></li!-->
+											<li><a href="https://www.annauniv.edu/ceramic/index.php" target="_blank">Ceramic Technology</a></li>
+											<li><a href="http://chemactech.edu.in/" target="_blank">Chemical Engineering</a></li>
+											<li><a href="https://www.annauniv.edu/Leather/index.pdf" target="_blank">Leather Technology</a></li>
+											<li><a href="https://www.annauniv.edu/Textile/index.php" target="_blank">Textile Technology </a></li>
+										</ul>
+									</li>
+									<li> <a href="javascript:;">SAP Campus</a>
+										<ul>
+											<li><a href="https://www.annauniv.edu/Architecture/index.php" target="_blank">Architecture</a></li>
+											<li><a href="https://www.annauniv.edu/Planning/index.php" target="_blank">Planning</a></li>
+										</ul>
+									</li>
+									<li>
+										<ul>
+											<li><a href="https://cac.annauniv.edu" target="_blank"><h5><strong>Syllabus & Curriculum</strong></h5></a></li>
+											<br><br><br>
+											<li><a href="https://cde.annauniv.edu" target="_blank"><h5><strong>Centre for Distance Education</strong></h5></a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>			
+							
+							<li> <a href="javascript:;">Research<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="https://cfr.annauniv.edu/research/academics/index.php" target="_blank">Academic Research (Ph.D/MS)</a></li>
+									<li><a href="http://ctdt.annauniv.edu/" target="_blank">Sponsored Research / Consultancy</a></li>
+									<li> <a href="javascript:;">Research Centres<i class="fa fa-angle-right"></i></a>	
+										<ul class="sub-menu">
+											<li><a href="https://www.annauniv.edu/aufrgicc/" target="_blank">AU-FRG Institute for CAD/CAM</a></li>
+											<li><a href="http://www.au-kbc.org/" target="_blank">AU-KBC Research Centre for Emerging Technologies</a></li>
+											<li><a href="https://www.annauniv.edu/uec/index.php" target="_blank">AU-RU Urban Energy Centre</a></li>
+											<!--li><a href="https://www.annauniv.edu/Building/index.php" target="_blank">Building Technology Centre</a></li-->
+											<li><a href="https://www.annauniv.edu/Aerospacecentre/index.php" target="_blank">Centre for Aerospace Research</a></li>
+											<li><a href="https://www.annauniv.edu/CARIT/index.php" target="_blank">Centre for Applied Research in Indic Technologies</a></li>
+											<li><a href="http://www.biotechannauniv.com/" target="_blank">Centre for Biotechnology</a></li>
+											<li><a href="https://www.annauniv.edu/cccdm/index.html" target="_blank">Centre for Climate Change and Disaster Management</a></li>
+											<li><a href="https://www.annauniv.edu/CentreTamil/index.php" target="_blank">Centre for Development of Tamil in Engg.& Technology</a></li>
+											<li><a href="http://civil.annauniv.edu/civil/ces/index.php" target="_blank">Centre for Environmental Studies</a></li>
+											<li><a href="https://www.annauniv.edu/FoodTech/index.html" target="_blank">Centre for Food Technology</a></li>										
+											<li><a href="https://www.au-cme.com/" target="_blank">Centre for Medical Electronics</a></li>
+											<li><a href="https://www.annauniv.edu/CNST/nano_index.php" target="_blank">Centre for Nano Science and Technology</a></li>
+											<li><a href="http://civil.annauniv.edu/civil/cwr/index.php" target="_blank">Centre for Water Resources</a></li>
+											<li><a href="https://www.annauniv.edu/CGC/index.php" target="_blank">Crystal Growth Centre</a></li>
+											<li><a href="https://www.annauniv.edu/emmrc/index.php" target="_blank">Educational Multimedia Research Centre</a></li>
+											<li><a href="https://www.annauniv.edu/ICPT/icpt%20web.pdf" target="_blank">Institute of Catalysis and Petroleum Technology</a></li>
+											<li><a href="https://www.annauniv.edu/EnergyStudies/index.php" target="_blank">Institute for Energy Studies</a></li>
+											<!--li><a href="https://www.annauniv.edu/iom/index.php" target="_blank">Institute of Ocean Management</a></li-->
+											<!--li><a href="https://irs.annauniv.edu/irs/" target="_blank">Institute of Remote Sensing</a></li-->
+											<li><a href="https://www.nhhid.org/" target="_blank">NHHID - National Hub for Healthcare Instrumentation Development</a></li>
+											<li><a href="https://www.annauniv.edu/rcc/index.php" target="_blank">Ramanujan Computing Centre</a></li>
+										</ul>
+									</li>
+									<li><a href="https://www.nhhid.org/" target="_blank">Research Facilities<i class="fa fa-angle-right"></i></a>
+										<ul class="sub-menu">
+											<li><a href="https://www.nhhid.org/" target="_blank">NHHID - National Hub for Healthcare Instrumentation Development</a></li>
+											<li><a href="https://www.annauniv.edu/CGC/index.php" target="_blank">Crystal Growth Centre</a></li>
+											<li><a href="https://irs.annauniv.edu/irs/" target="_blank">Institute of Remote Sensing</a></li>											
+										</ul>
+									</li>
+									<!--<li><a href="#">Thrust Areas</a></li>-->									
+								</ul>
+							</li>												
+							
+							<li>
+							<a href="javascript:;">Innovations<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="http://auced.com/" target="_blank">Centre for Entrepreneurship Development</a></li>
+									<li><a href="https://www.annauniv.edu/ipr/" target="_blank">Centre for Intellectual Property Rights</a></li>
+									<!--li><a href="#" target="_blank">BIRAC</a></li!-->
+									<li><a href="https://www.annauniv.edu/pdf/Call for Proposals - Third Wave.pdf" target="_blank">ANIHESS</a></li>
+									<li><a href="https://www.nhhid.org/" target="_blank">NHHID - National Hub for Healthcare Instrumentation Development</a></li>	
+									<li><a href="https://annaincubator.org/" target="_blank">Atal Incubation Centre - Anna Inncubation Foundation</a></li>		
+									<li><a href="http://ctdt.annauniv.edu/dst_tec_1/" target="_blank">Technology Enabling Centre</a></li>
+									<li><a href="http://www.uicbannauniv.com/" target="_blank">University Innovation Cluster</a></li>									
+								</ul>
+							</li>
+							<li>
+							<a href="javascript:;">Examinations<i class="fa fa-chevron-down"></i></a>
+								<ul class="sub-menu">
+									<li><a href="https://acoe.annauniv.edu/" target="_blank">University Campus</a></li>	
+									<li><a href="https://aucoe.annauniv.edu/" target="_blank">Affiliated Colleges</a></li>																	
+								</ul>
+							</li>
+							<!--<li><a href="https://www.annauniv.edu/IQAC/" target="_blank">IQAC</a></li>-->
+							<li><a href="https://admissions.annauniv.edu/cfa/" target="_blank">Admissions</a></li>								
+							<!--<li class="has-mega-menu"> <a href="https://www.annauniv.edu/sports/" target="_blank">Affiliation</a></li>-->
+						</ul>					
+                    	</div>					
+					
+	</div>
+    </div>
+    </div>
+    </div>
+        <!-- main header END -->
+    <div align="center">
 
-        w.addEventListener("unhandledrejection", function(e) {
-            w.Sentry.captureException(e.reason);
-        });
+      <!--marquee direction="left" behavior="scroll" bgcolor="#ad1e5e" height="40" width="98%" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" style="border-left: 5px solid #2ec4b6;padding-top:10px;">
+       <a href="https://www.annauniv.edu/pdf/AUSB_KHELO_INDIA.pdf" style="color:white;font-size:18px" target="_blank">KHELO INDIA UNIVERSITY GAMES ACHIEVEMENTS</a>
+      </marquee-->
 
-        w.addEventListener("rejectionhandled", function(e) {
-            w.Sentry.captureException(e.reason);
-        });
-    });</script>  <script src="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/js/manifest.251e7d48cf50bec.js" defer="defer" crossorigin="anonymous"></script>  <script src="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/js/vendor.251e7d48cf50bec.js" defer="defer" crossorigin="anonymous"></script>  <script src="https://res.cloudinary.com/swiggy/raw/upload/static-assets/production_ci_dweb/js/app.251e7d48cf50bec.js" defer="defer" crossorigin="anonymous"></script> <script>"serviceWorker"in navigator&&"getRegistrations"in navigator.serviceWorker&&navigator.serviceWorker.getRegistrations().then(function(r){for(var e=0;e<r.length;e++)r[e].unregister()})</script> <script>window.__sendNRCustomEvent=function(e){var t=JSON.stringify(e),n=new XMLHttpRequest;n.withCredentials=!0,n.open("POST","https://insights-collector.newrelic.com/v1/accounts/737486/events"),n.setRequestHeader("X-Insert-Key","CPDMQSXvjxGCdL_E02P9eZ-NJcEg-uGk"),n.setRequestHeader("Content-Type","application/json"),n.send(t)}</script> <script type="text/javascript">var clevertap={event:[],profile:[],region:"in1",account:[],onUserLogin:[],notifications:[],privacy:[]};clevertap.account.push({id:"W86-ZZK-WR6Z"}),clevertap.privacy.push({optOut:!1}),clevertap.privacy.push({useIP:!1}),function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"==document.location.protocol?"https://d2r1yp2w7bby2u.cloudfront.net":"http://static.clevertap.com")+"/js/a.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}()</script></body></html>
+	   <!--marquee direction="left" behavior="scroll" bgcolor="#ad1e5e" height="40" width="98%" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" style="border-left: 5px solid #2ec4b6;padding-top:10px;">
+       <a href="https://youtu.be/37Km2Vco65U" style="color:white;font-size:18px" target="_blank"><img src="images/live.gif"></img> 1<sup>st</sup> Memorial Day of Prof.M.Anandakrishnan, Former Vice Chancellor, Anna University, Chennai - Programme Live from 27.05.2022, 03.00 p.m.(IST) <img src="images/live.gif" width="50" height="20"></img></a>
+      </marquee-->
+
+	  <!--marquee direction="left" behavior="scroll" bgcolor="#ad1e5e" height="40" width="98%" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" style="border-left: 5px solid #2ec4b6;padding-top:10px;">
+       <a href="https://www.annauniv.edu/pdf/fake_msg.pdf" style="color:white;font-size:18px" target="_blank">Beware of fake notifications/e-mails regarding Anna University Admissions</a>
+      </marquee!-->
+
+	 <!--<marquee direction="left" behavior="scroll" bgcolor="#ad1e5e" height="40" width="98%" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" style="border-left: 5px solid #2ec4b6;padding-top:10px;">
+       <img src="https://www.annauniv.edu/nwsnew/live.gif"></img> <a href="https://www.youtube.com/watch?v=8Sr1KgaU0Ts" style="color:white;font-size:18px" target="_blank">Seminar on Rewriting the History of Tamils Imperatives of Scientific and Technological Explorations for Unearthing the Rich Cultural Heritage -</a> <a href="https://www.youtube.com/watch?v=8Sr1KgaU0Ts" style="color:#ffff00;font-size:18px"target="_blank"><b><i>Live on 18.06.2022 6.00 p.m. onwards</i></b></a>
+      </marquee!-->
+
+	<marquee direction="left" behavior="scroll" bgcolor="#ad1e5e" height="40" width="98%" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" style="border-left: 5px solid #2ec4b6;padding-top:10px;">
+       <a href="https://www.annauniv.edu/pdf/TNEA_2017to2021_CSE.pdf" style="color:white;font-size:18px" target="_blank">Order of Preference in the selection of most   preferred branch (Computer Science) of Anna University colleges based on past 5 years data</a> </marquee>
+
+	<!--marquee direction="left" behavior="scroll" bgcolor="#ad1e5e" height="40" width="98%" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" style="border-left: 5px solid #2ec4b6;padding-top:10px;">
+       <a href="https://www.youtube.com/watch?v=ghqHZSDJPm4" style="color:white;font-size:18px" target="_blank">"Inaugural function of  Education Summit, Akhil Bharatiya Shiksha Samagam" at Varanasi, 7-9 July 22</a>
+      </marquee-->
+
+    </div>
+    </header>
+    <!-- header END -->
+
+
+<!-- Content -->
+<header>
+    <div class="page-content bg-white">
+		<nav class="floating-menu">
+			<ul class="main-menu">
+				<li>
+					<a href="#aboutus" class="ripple" title="About Us">
+						<i class="fa fa-info-circle fa-md"></i> News Room
+					</a>
+				</li>
+				<li>
+					<a href="https://www.annauniv.edu/nwsnew/vcgallery.php" class="ripple"  title="University Events" target="_blank">
+						<i class="fa fa-calendar fa-md"></i> VC Events
+					</a>
+				</li>
+				<li>
+					<a href="#events" class="ripple" title="News and Events">
+						<i class="fa fa-newspaper fa-md"></i> Notifications
+					</a>
+				</li>							
+				<li>
+					<a href="#alumni" class="ripple"  title="Notable Alumni">
+						<i class="fa fa-user-graduate fa-md"></i> Alumni
+					</a>
+				</li>
+				<li>
+					<a href="#quicklinks" class="ripple" title="Quick Links">
+						<i class="fa fa-link fa-md"></i> Quick Links
+					</a>
+				</li>							
+			</ul>
+			<div class="menu-bg"></div>
+		</nav>
+		
+		<!-- Main Slider -->       		
+		<div class="carousel slide" data-ride="carousel" id="customCarousel1">
+			
+			<div class="carousel-inner" role="listbox">
+				<div class="item active">
+					<img alt="..." src="images/main-slider/slide1.jpeg">
+					 <!--<video width="100%" height="1200" autoplay muted loop>
+						  <source src="images/videos/mainbuilding.mp4" type="video/mp4">
+					 </video>--> 
+					
+					<div class="slider-caption lightbox-gallery">
+						<div class="carousel-item active">                           
+							<h2>Largest Technological University in the world with over 7.5 lakhs students</h2>                                                    
+						</div>
+						<div class="carousel-item">                     
+                            <h2>Asia's oldest technical institution founded in 1794 and the oldest one established outside Europe</h2>
+						</div>
+						<div class="carousel-item">                    
+                            <h2>Institution of Eminence (IOE) status was recommended by UGC Empowered Expert Committee</h2>                                                               
+						</div>
+						<div class="carousel-item">                     
+                            <h2>University Grants Commission awarded "University with Potential for Excellence (UPE)" status to Anna University in Biomedical Engineering & Instrumentation</h2>
+						</div>				  
+						<div class="carousel-item">                    
+                            <h2>First Institution in India offering undergraduate Program in Mechanical, Electrical and Aerospace Engineering and several other Post Graduate Programs</h2>
+						</div>				  
+						<div class="carousel-item">
+                            <h2>First Microsatellite (ANUSAT) launched by an educational institution in April 2009 by PSLV – CA C12</h2>
+						</div>
+						<div class="carousel-item">
+                            <h2>Housing several Unique National Facilities – IRS, CGC, EMMRC, NHHID, AIC, ANIHEES, NCSCM</h2> 
+						</div>
+						<div class="carousel-item">
+                            <h2>India's first RPTO (Remote Pilot Training Organization) in the small and medium category under UAS Rules 2021 approved by DGCA, GOI</h2>
+						</div>
+						<div class="carousel-item">
+                            <h2>Tamil Nadu Government established Unmanned Aerial Vehicle Corporation (TNUAVC) partnering with MIT, Anna University in 2022</h2>
+						</div>	
+						<div class="carousel-item">
+                            <h2>Anna University bagged Clarivate India Research Citation Excellence Award (2021) for highest citations among the State Universities in India</h2>
+						</div>
+						<div class="carousel-item">
+                            <h2>Received "District Green Champion Award" from Ministry of Edn., GOI (2021-22)</h2>
+						</div>
+						<div class="carousel-item">
+                            <h2>Anna Community Radio (Anna CR) 90.4 MHz – The first community radio in India by an Educational Institution in 2004 and declared as 'lead community radio station' by Ministry of Information & Broadcasting, GOI in 2022</h2>
+						</div>
+						<div class="carousel-item">
+                            <h2>Ranked 8th in the world in the Sustainable Development Goal - Affordable and Clean Energy (SDG8) by Times Higher Education(THE) - impact ranking based on research output and field weightage citation impact in (2021 - 22)</h2>
+						</div>
+					</div>
+					<!--div class="container">
+					  <ol class="carousel-indicators">
+						 <li data-target="#customCarousel1" data-slide-to="0" class="active"></li>
+						 <li data-target="#customCarousel1" data-slide-to="1"></li>
+						 <li data-target="#customCarousel1" data-slide-to="2"></li>
+						 <li data-target="#customCarousel1" data-slide-to="3"></li>
+						 <li data-target="#customCarousel1" data-slide-to="4"></li>
+						 <li data-target="#customCarousel1" data-slide-to="5"></li>
+						 <li data-target="#customCarousel1" data-slide-to="6"></li>
+						 <li data-target="#customCarousel1" data-slide-to="7"></li>
+						 <li data-target="#customCarousel1" data-slide-to="8"></li>
+						 <li data-target="#customCarousel1" data-slide-to="9"></li>
+						 <li data-target="#customCarousel1" data-slide-to="10"></li>
+						 <li data-target="#customCarousel1" data-slide-to="11"></li>
+						 <li data-target="#customCarousel1" data-slide-to="12"></li>
+					  </ol>
+					</div-->
+				</div>					
+			</div>						
+		</div>
+		<!-- Main Slider -->					
+			
+		<ul class="ct-socials">
+			<li>
+				<a href="https://twitter.com/auvcochennai" target="_blank" class="twitter"><i class="fab fa-twitter fa-lg"></i></a>
+			</li>
+			<!--li>
+				<a href="https://www.youtube.com/channel/UCvR0vYmjwNCmVFyTdSAKvMA" target="_blank" class="youtube"><i class="fab fa-youtube fa-lg"></i></a>
+			</li--> 
+			<li>
+				<a href="https://www.youtube.com/channel/UCvR0vYmjwNCmVFyTdSAKvMA/videos" target="_blank" class="youtube"><i class="fab fa-youtube fa-lg"></i></a>
+			</li> 
+			<!-- <li>
+				  <a href="/" target="_blank" class="facebook"><i class="fab fa-facebook fa-lg"></i></a>
+			</li>-->    
+		</ul>
+	</div>
+</header>		
+		
+		<!-- Our Services -->
+			<div class="section-full bg-white" id="aboutus">
+				<div class="container" id="aboutus">
+					<div class="row service-area-one">
+						<div class="col-lg-3 m-b30 hidden-sm">
+                            <div class="rdx-thu"><img src="images/auname.jpg" alt=""></div><br>
+							
+							<div class="card text-center bg-info">
+								<a href="https://admissions.annauniv.edu/cfa/" class="text-white"  target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:3%;padding-bottom:3%">UG Admissions <br> NRI/FN/CIWGC</a>
+							</div>	<br>
+							<div class="card text-center bg-danger">
+								<a href="https://admissions.annauniv.edu/cfa/" class="text-white" target="_blank" style="margin-top:5px;margin-bottom:5px">UG Admissions<br>Consortium of Industries</a>
+							</div><br>
+							<div class="card text-center bg-primary">
+								<a href="https://admissions.annauniv.edu/tanca2122ref/index.php" class="text-white" target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:3%;padding-bottom:3%">TANCA  - 2021 REFUND</a>
+							</div>	<br>
+							<div class="card text-center bg-secondary">
+								<a href="https://admissions.annauniv.edu/cfa/refundall.html" class="text-white" target="_blank" style="margin-top:5px;margin-bottom:5px">REFUND - 2021<br>(University Departments)</a>
+							</div> <br>	
+							
+								
+							
+                        </div>
+						
+						
+                        <div class="col-lg-6">
+                            <div class="section-head">
+								<h2 class="title"> Welcome To University</h2>
+								<p align="justify">Anna University was established on 4th September, 1978 as a unitary type of
+University. This University was named after Late Dr.C.N.Annadurai, former Chief Minister
+of Tamil Nadu. It offers higher education in Engineering, Technology, Architecture and
+Applied Sciences relevant to the current and projected needs of the society. Besides
+promoting research and disseminating knowledge gained therefrom, it fosters cooperation
+between the academic and industrial communities. <!--button type="button" class="btn btn-outline-danger">Read More</button--></p>
+<p align="justify">The University was formed by bringing together and integrating four well known technical institutions in the city of Madras (now Chennai) namely,
+<li>College of Engineering (CEG) (Established in 1794)</li>
+<li>Alagappa College of Technology (ACT) (Established in 1944)</li>
+<li>Madras Institute of Technology (MIT) (Established in 1949)</li>
+<li>School of Architecture & Planning (SAP) (Established in 1957)</li>
+</p>
+
+
+							</div>
+                    	</div>
+						
+					<div class="col-lg-3">
+						<div align="center">			  							
+							<div class="card">
+								<div class="card-header" style="background-color:#FF9900;color:#000000">NEWS ROOM</div>
+					   				<div class="card-body">
+						  			<!--<h3 align="center">Book Exhibition</h3>-->
+				         			<p align="center" style="font-size:14px;font-family:arial;padding-top:10px">
+Anna University Vice Chancellor's speech - "Sustainability in education system" at South Zone VC Meet
+				         			</p>
+						  			<!--a href="https://www.annauniv.edu/pdf/Presidential%20board%20of%20Aviation%20Games.pdf" class="btn btn-primary" 
+						  			style="color:white;font-size:14px;font-family:arial;text-decoration:none" target="_blank">View More</a!-->
+<a href="https://youtu.be/m9dgpOLOjb4" target="_blank"><img src="youtubenewsroom.jpg" width="50" height="50"></img></a>
+									</div>
+									<br>
+					  			</div>
+							</div>
+							<hr>
+								<div class="card text-center" style="background-color:#133cb7">
+								<a href="https://tanca.annauniv.edu/tanca22" class="text-white"  target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:3%;padding-bottom:3%"><!--img src="images/new-icon.jpg" width="50" height="25"></img--> TANCA 2022</a>
+							</div><br>
+							<div class="card text-center bg-danger">
+								<a href="https://tancet.annauniv.edu/tancet/" class="text-white" target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:3%;padding-bottom:3%">TANCET 2022<br>(Results)</a>
+							</div><br>
+							<div class="card text-center" style="background-color:#D2AE1B">
+								<a href="https://admissions.annauniv.edu/cfa/otherstate.html" class="text-white" target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:1%;padding-bottom:1%" target="_blank">Other State Admission to B.E./B.Tech./B.Arch<br> Degree Programmes 2022</a>
+							</div><br>
+							<!--div class="card text-center" style="background-color:#133cb7">
+								<a href="https://admissions.annauniv.edu/cfa/" class="text-white"  target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:3%;padding-bottom:3%"><!--img src="images/new-icon.jpg" width="50" height="25"></img-> University Departments<br> Admissions 2022<br>(Tentative Dates)</a>
+							</div><br-->
+							
+							<div class="card text-center" style="background-color:#0f7768">
+								<a href="https://admissions.annauniv.edu/cfa/" class="text-white" target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:3%;padding-bottom:3%">M.Sc. (2 Year)<br>(Download Scorecard)</a>
+							</div><br>
+							<div class="card text-center" style="background-color:#ff8c1a">
+								<a href="https://admissions.annauniv.edu/cfa/msc55.html" class="text-white" target="_blank" style="margin-top:5px;margin-bottom:5px;padding-top:1%;padding-bottom:1%" target="_blank">M.Sc. (5 Year) Integrated <br>Degree Programme</a>
+							</div><br>
+							
+							
+							<!--div class="card">
+								<button class="btn btn-warning" formaction="https://www.annauniv.edu/Faculty_Recruitment-Subject_wise_Syllabus/Syllabus.pdf">Faculty Recruitment<br>(Written Test-Subject-wise-Syllabus)</button>
+							</div><br-->							
+							<!--div class="card">
+								<button class="btn btn-success" formaction="https://aucoe.annauniv.edu/rank_details.php">42nd Annual Convocation</button>
+							</div><br-->										
+						</div>						
+					</div>						
+			</div>
+		</div>
+			<!-- Our Services End -->
+			<!--Main Campuses-->					
+				<div class="container">
+					<div class="section-head text-center">
+						<p class="title">University Campuses</p>						
+					</div>
+					<div class="row">
+						<div class="col-md-6 col-lg-3 col-sm-6">
+							<div class="dlab-box courses-bx">
+								<div class="dlab-media"> 
+   									<div class="hovereffect">
+        								<img class="img-responsive" src="images/ceg_campus.jpeg" alt="">
+											<div class="overlay">
+												<a href="https://ceg.annauniv.edu/" target="_blank"><h2 style="color:#FFFFFF">College of Engineering Guindy</h2></a>
+												<!--<p><a href="https://ceg.annauniv.edu/">LINK HERE</a></p>-->
+											</div>
+    								</div>
+								</div>
+							</div>
+							<h3 align="center">CEG Campus</h3>
+						</div>
+						<div class="col-md-6 col-lg-3 col-sm-6">
+							<div class="dlab-box courses-bx">
+								<div class="dlab-media"> 
+   									<div class="hovereffect">
+        								<img class="img-responsive" src="images/mit_campus.jpg" alt="">
+											<div class="overlay">
+												<!--<h3>Madras Institute of Technology</h3>-->
+												<a href="https://mitindia.edu/en/" target="_blank"><h2 style="color:#FFFFFF">Madras Institute of Technology</h2></a>
+												<!--<p><a href="https://mitindia.edu/en/">LINK HERE</a></p>-->
+  											</div>
+    								</div>
+								</div>
+							</div>
+							<h3 align="center">MIT Campus</h3>							
+						</div>
+						<div class="col-md-6 col-lg-3 col-sm-6">
+							<div class="dlab-box courses-bx">
+								<div class="dlab-media"> 
+   									<div class="hovereffect">
+        								<img class="img-responsive" src="images/act_campus.jpg" alt="">
+											<div class="overlay">
+												<!--<h3>Alagappa College of Technology</h3>-->
+												<a href="https://www.annauniv.edu/act/" target="_blank"><h2 style="color:#FFFFFF">Alagappa College of Technology</h2></a>
+												<!--<p><a href="https://www.annauniv.edu/act/">LINK HERE</a></p>-->
+											</div>
+    								</div>
+								</div>
+							</div>
+							<h3 align="center">ACT Campus</h3>
+						</div>
+						<div class="col-md-6 col-lg-3 col-sm-6">
+							<div class="dlab-box courses-bx">
+								<div class="dlab-media"> 
+   									<div class="hovereffect">
+        								<img class="img-responsive" src="images/sap_campus.jpg" alt="">
+											<div class="overlay">
+												<!--<h3>School of Architecture and Planning</h3>-->
+												<a href="https://www.sapaa.org.in/" target="_blank"><h2 style="color:#FFFFFF">School of Architecture and Planning</h2></a>
+												<!--<p><a href="https://www.sapaa.org.in/">LINK HERE</a></p>-->
+											</div>
+    								</div>
+								</div>
+							</div>
+							<h3 align="center">SAP Campus</h3>
+						</div>
+					</div>
+				</div>			
+			<!-- Main Campuses End-->
+			<!-- Events-->
+			<div class="section-full bg-white content-inner" id="events">
+				<div class="container">
+					<div class="row service-area-one">
+						
+						 <div class="col-lg-4">
+                            <div class="bot-gal h-blog ho-event">
+                                <h4>News & Events <a href="events.php"><button class="site-button orange m-r5 float-right" type="button">View More</button></a></h4>
+                                    <div class="ho-event">
+                                        <marquee direction="up" height="280" scrollAmount=6 scrollDelay=150 onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>19</span>
+                <span>July</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Lean six sigma green belt course.pdf" target="_blank">Six Sigma Green Belt Course - 81<sup>st</sup> Batch in july 2022</a>
+                <p>AU TVS Centre for Quality Management</p>
+            </div>
+        </li>
+    </ul>
+<ul>
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>10</span>
+                <span>July</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Mega Vaccination Circular.pdf" target="_blank">Covid-19 Mega Vaccination camp</a>
+                <p>Health Centre</p>
+            </div>
+        </li>
+    </ul>
+<ul>
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>29</span>
+                <span>July</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Online Six day FDTP.pdf" target="_blank">Online Six-Day Faculty Development Programme on 'PH3151 - Engineering Physics'</a>
+                <p>Dept. of Physics</p>
+            </div>
+        </li>
+    </ul>
+<ul>
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/jtsep.pdf" target="_blank">Virtual programme of Japan Tech Student Exchange program (JTSEP) organized by the Kanagawa Institute of Technology,Japan</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://aucoe.annauniv.edu/timetable_auc.php" target="_blank">Affiliated Colleges April/May 2022 UG/PG (M.B.A/M.B.A Integrated) Degree University Examinations (I & II Semester) - Regulations 2021 - Time - Table</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+<!--ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>05</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/igstc.pdf" target="_blank">Funding Opportunities organized by the Indo-German Science and Technology Centre (IGSTC), New Delhi - CIR</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->	
+
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>11-16</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Brochure Online FDTP_ML_28-06-2022-final v1.pdf" target="_blank">Six Days FDTP on Machine Learning Techniques (CS8082)</a>
+                <p>Dept. of CT - MIT Campus</p>
+            </div>
+        </li>
+    </ul>	
+
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>18-23</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/ME8595-Thernal Engineering-II.pdf" target="_blank">Online Six Days FDTP on Thermal Engineering - II (ME8595)</a>
+                <p>UCE - Villupuram</p>
+            </div>
+        </li>
+    </ul>	
+
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>18-22</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Pamphlet and Reg Form.pdf" target="_blank">Workshop on Effective Patent Search and Drafting 2022 (PAT DRAFT 2022)</a>
+                <p>CIPR</p>
+            </div>
+        </li>
+    </ul>	
+
+<!--ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>01</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="http://10.11.96.96/Mediclaim Circular 2022-2023/Regular Circular.pdf" target="_blank">Regular Employee's Group Personal Accident and Group Mediclaim Insurance Policy - Last Date of submission of Application is extended upto 08.07.2022</a>
+                <p>Anna University</p>
+            </div>
+        </li>
+    </ul-->	
+<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>18</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Retired circular.pdf" target="_blank">Retired Employee's Group Personal Accident and Group Mediclaim Insurance Policy</a>
+                <p>Anna University</p>
+            </div>
+        </li>
+    </ul>	
+	<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>11</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/FDP CB Broucher and Schedule 22.06.2022.pdf" target="_blank">Online Faculty Development Programme on "Computational Biology"from 13th July – 22nd July, 2022</a>
+                <p>AU BIT campus, Trichy</p>
+            </div>
+        </li>
+    </ul>	
+	<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>26</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/AUFRG ICC Short Term Training Course JULY 2022.pdf" target="_blank">Short Term Training Course on CAD/CAM/CAE from 04.07.2022 to 13.08.2022</a>
+                <p>AU-FRG Institute for CAD/CAM</p>
+            </div>
+        </li>
+    </ul>	
+	<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/CIRCULAR FOR SUMMER VACATION.pdf" target="_blank">CEG HOSTELS - Summer Vacation 2022</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+   <ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/CIRCULAR  CLAIM THE CAUTION DEPOSITE FOR ( UG & PG END SEMESTER.pdf" target="_blank">CEG HOSTELS - Claim of Caution Deposit & Block Deposit</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+
+   <ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>29</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/jcu.pdf" target="_blank">Immersion program offered by James Cook University, Singapore </a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+   
+   <ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Life Certificate 2022.pdf" target="_blank">Life Certificate 2022 </a>
+                <p>Pension Section</p>
+            </div>
+        </li>
+    </ul>
+   
+   <ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/EO - App for campus care.pdf" target="_blank">New app for Campus Care</a>
+                <p>EO Office</p>
+            </div>
+        </li>
+    </ul>
+   
+   <ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://careereducation.smartinternz.com" target="_blank">Naalaiya Train Project 2022</a>
+                <p>CAC</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>25</span>
+                <span>August 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/mccall.pdf" target="_blank">McCall MacBain Scholarship offers funding to start a Master's or Professional degree ar McGill University, Canada</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        
+	<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Summer Vacation Circular.pdf" target="_blank">Summer Vacation - Speciality Clinics</a>
+                <p>Health Centre</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>10</span>
+                <span>August 2022</span>
+             </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/flc22rev.pdf" target="_blank">Certificate courses in foreign languages for higher semester students - German, French and Japanese </a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+	
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://aucoe.annauniv.edu/timetable.php" target="_blank">Affiliated Colleges April / May 2022 UG / PG Degree University Examinations - Time Table </a>
+                <p>COE</p>
+			</div>
+        </li>
+	</ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="#" target="_blank">SWAYAM - Anna University offered MOOCs Courses</a> / <a href="https://onlinecourses.swayam2.ac.in/cec22_hs37/preview" target="_blank">NGO's & Sustainable Development</a> / <a href="https://onlinecourses.swayam2.ac.in/cec22_cs18/preview" target="_blank">Data Structures</a> / <a href="https://onlinecourses.swayam2.ac.in/cec22_cs19/preview" target="_blank">DBMS</a>
+                <p>EMRC</p>
+            </div>
+        </li>
+	</ul>
+	
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/azpdf.pdf" target="_blank">Azrieli International Postdoctoral Fellowship in Istael</a>
+                <p>CIR</p>
+            </div>
+        </li>
+	</ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://cfr.annauniv.edu/research/academics/e-resources.php" target="_blank">Video of Induction Programme on Research Methodology</a>
+                <p>CFR</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.ncfm-india.com/ORE/PGCPFM_Brochure.pdf" target="_blank">Admission to POST GRADUATE CERTIFICATION PROGRAMME IN FINANCIAL MARKETS 2022 </a>
+                <p></p>
+                <!--<span>9:15 am � 5:00 pm</span>       -->
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/NIELIT.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>-->Up-Skilling program in IoT Technologies in collaboration with C-DAC</a>
+                <p> SC/ST Cell</p>
+                <!--<span>9:15 am � 5:00 pm</span>        -->
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://aucoe.annauniv.edu/FIRST_RANK_HOLDERS/42nd Annual Convocation - First Rank Holders List.pdf" target="_new">42<sup>nd</sup> Annual Convocation - First Rank Holders cum Medalists </a>
+                <p>COE</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://aucoe.annauniv.edu/rank_details.php" target="_new">42<sup>nd</sup> Annual Convocation - Rank List April / May 2021 Examinations</a>
+                <p>COE</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/nit21.pdf" target="_new">International Graduate Program for Global Engineers at Nagoya Institute of Technology, Japan</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+	 <ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/G.O 160.pdf" target="_new">New Health Insurance Scheme for Regular Staff members(G.O.Ms.No.160)</a>
+                <p>-</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+             <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Instn2CollegeAICTE.pdf" target="_new">AICTE-Instructions to Institutes/colleges during lockdown / on-going pandemic</a>
+                <p>-</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/usief21.pdf" target="_new">Fulbright fellowships for Masters Degree, Ph.D., Post Doctoral Research, and faculty members</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://idp.annauniv.edu/" target="_new">Remote Access for online Resources</a>
+                <p>University Library</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://ekbharat.gov.in/pages/SentenceList/" target="_new">EK Bharath Shrestha Bharat(EBSB) - 100 commonly used sentences and their translations in 22 languages </a>
+                <p>P & D</p>
+            </div>
+        </li>
+    </ul>
+	<ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.education.gov.in/en/sites/upload files/mhrd/files/cgi 0.pdf" target="_new">Chulabhorn Graduate Institute Post Graduate Scholarship for Non-ASEAN Applicants for AY 2021</a>
+                <p>Centre for Academic Courses</p>
+            </div>
+        </li>
+    </ul> 
+<!--ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>29</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Flyer_Anna University.pdf" target="_blank">One-Day Workshop on MIKE - Connecting Research and Academia </a>
+                <p>CWR</p>
+            </div>
+        </li>
+    </ul-->	
+	<!--ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>27</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Qtrs. circular June, 2022.pdf" target="_blank">Staff Quarters at Kotturpuram and MIT</a>
+                <p>EO Office</p>
+            </div>
+        </li>
+    </ul-->
+	
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>15</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/81 - LSSGB - Brochure.pdf" target="_blank">Lean Six Sigma Green Belt Course</a>
+                <p>AU TVS CQM</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>10</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.ceghostel.in" target="_blank">PG 1<sup>st</sup> Year / Second Semester students - to Pay Hostel Fees by 10<sup>th</sup> June 2022</a>
+                <p>CEG Hostel</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>13</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/rzes.pdf" target="_blank">On-line intensive course offered by Rzezzow University of Technology, Poland at free of charge for Bachelor and Masters students </a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>15</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/FDTP_06062022.pdf" target="_blank">Online - Six Day FDTP on Non-Destructive Testing and Evaluation (ME8097) </a>
+                <p>Dept. of Mech. Engg.</p>
+            </div>
+        </li>
+	</ul-->
+	
+<!--li>
+            <div class="ho-ev-date" width="10%">
+                <span>15</span>
+                <span>July 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/R2S Edition 3.0 Brochure.pdf" target="_blank">OFFLINE - Research to Start-Ups (R2S) Edition 3.0</a>
+                <p>CED</p>
+            </div>
+        </li>
+    </ul-->	
+	
+<!--ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>22</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/MGR Quaif-e-Milleth - Circular & Application.pdf" target="_blank">Dr.MGR & Thiru Quaid-E-Milleth Endowment Scholarship - 2021-2022 </a>
+                <p>A.C.Tech Campus</p>
+            </div>
+        </li>
+    </ul-->	
+	
+<!--ul>
+        <li>
+            <div class="ho-ev-date" width="10%">
+                <span>18</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Tiled document 1.pdf" target="_blank">Seminar on Rewriting the histroy of Tamils</a><img src="new.gif"></img>
+                <p></p>
+            </div>
+        </li>
+    </ul-->	
+
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>08</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/ISEA_FTP_CYBER_SECURITY - Broucher fin.pdf" target="_blank">Five Days Online Faculty Training Programme on Recent Trends in Cyber Security </a>
+                <p>Dept. of CSE</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>05</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Waste Collection Drive -poster.pdf" target="_blank">World Environment Day </a>
+                <p>EMRC</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>2 - 4</span>
+				<span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/icaiea 2022_Industrial.pdf" target="_blank">Fourth International Conference on Advances in Industrial Engineering Applications (ICAIEA)</a>
+                <p>Dept. of Industrial Engg.</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>07</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/EEE- AU- BIT Campus- Symposium-Avesha 22-Brochure.pdf" target="_blank">One day National level Technical Symposium Avesha'22</a>
+                <p>Dept. of EEE - BIT Campus - Tiruchirappalli</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>27</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/circular-YOGA.pdf" target="_blank">Yoga for Therapy</a> / <a href="https://docs.google.com/forms/d/1u6kUcykiQkjCq7vJ6hncEY-m0DxuuY8ITqAtMoZh4lU/edit" target="_blank">Apply Online</a>
+                <p>EMRC</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>27</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/sport day invitation.pdf" target="_blank">Annual Sports Day Invitation2022</a>
+                <p>AUSB - Main Campus </p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>25</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/UVOCCE EEE Symposium Brocher-2022.pdf" target="_blank">National level Technical Symposium Electric Vyuhaah'22 on 31<sup>st</sup> May 2022</a>
+                <p>Dept. of EEE - UVOCCET</p>
+            </div>
+         </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>04</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Mongo DB 2022.pdf" target="_blank">Two days workshop on Data Analytics with MongoDB</a>
+                <p>Dept. of IST</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>27</span>
+                <span>May 2022</span>
+            </div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/SPORTS DAY.pdf" target="_blank">Sports Day Intimation</a>
+				<p>AUSB - Main Campus</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/azpdf.pdf" target="_blank">Azrieli International Postdoctoral Fellowship in Istael</a>
+                <p>CIR</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>21</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/RTRA-2022 BRO - FINAL - 6 - Without Bank Details.pdf" target="_blank">One-day Workshop on Recent Trends in Robotics and Automation-2022 (RTRA-2022)</a>
+                <p>Dept. of Production Tech. - MIT Campus</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>04</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Conference Brochure (1).pdf" target="_blank">National level Conference on Emerging Trends on Chemical and Petrochemical Technology 2022</a>
+                <p>Dept. of Petrochemical Tech. - UCE - BIT Campus</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>24</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/icgp22.pdf" target="_blank">International Cooperative Graduate Program in National Institute of Materials Science (NIMS), Japan</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>16</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Felicitation.pdf" target="_blank">Felicitation Programme</a>
+                <p>Dept. of Mechanical Engineering</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+				<span>23</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/SEAS Brochure.pdf" target="_blank">Online Two-day International Workshop: Exploring the Science of the Earth's Atmosphere & Space</a>
+                <p>Dept. of Medical Physics</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>16</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Workshop Brochure_compressed.pdf" target="_blank">One day Workshop on Recent Trends in Materials Joining Processes</a>
+                <p>Department of Mechanical Engineering</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>28</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/PEMETRIX 22.pdf" target="_blank">One-day National Level Technical Symposium</a>
+                <p>Department of Mechanical Engineering</p>
+            </div>
+        </li>
+    </ul-->
+    <!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>03</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/sutimmer.pdf" target="_blank">Immersion program (Internship) offered by the Swinburne University of Technology, Australia</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>08</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Vaccination Circular08052022.pdf" target="_blank"> Vaccination Circular</a>
+                <p>Health Center</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>21</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Extension of Deadline for submission of project proposal - ANIHEES.pdf" target="_blank">Extension of Deadline for submission of project proposal - ANIHEES </a>
+                <p>ANIHEES</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>21</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Symposium_IGNISTERO_22.pdf" target="_blank">National Level Technical Symposium IGNISTERO'22 </a>
+                <p>Department of Civil Engineering</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>14</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/FDP BAAT 2022 Broucher and Schedule.pdf" target="_blank">Online Faculty Development Programme on Bioinformatics: Algorithms, Applications and Tools </a>
+                <p>Dept. of CSE & IT - UCE - BIT Campus</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>05</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.ceghostel.in" target="_blank">Second Semester Students - UG & PG - to pay Hostel Fees </a>
+                <p>CEG Hostel</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>10</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://cfd.annauniv.edu" target="_blank">ONLINE Six-Day FDTP - Summer 2022-Proposals invited</a>
+                <p>CFD</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>25</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/2_RTIC2022 Brochure 22042022.pdf" target="_blank">6<sup>th</sup> National Conference on Recent Trends in Instrumentation and Control (RTIC 2022)</a>
+                <p>Dept. of Instrumentation Engg. - MIT campus</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22 & 23</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Techknow2022-Invitation.pdf" target="_blank">TechKnow 2022 - Invitation</a>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>28,29 & 30</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Chemfluence22 Brochure.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>->National level Technical Symposium - CHEMFLUENCE'22</a>
+                <p>Dept. of Chemical Engg., A.C.Tech Campus</p>
+                <!--<span>9:15 am � 5:00 pm</span>       ->
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu//nwsnew/pdf/MAIL CONTENT_GOOGLE LINK.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>->One day Awareness workshop on Intellectual Property Rights and Innovation 2022 </a>
+                <p>CIPR</p>
+                <!--<span>9:15 am � 5:00 pm</span>       ->
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>18</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu//nwsnew/pdf/brochure-FDP on Smart Manufacturing_090422.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>->Five Day FDTP on Automation & Smart Manufacturing</a>
+                <p>Dept. of Manufacturing Engg. & Centre for Constituent Colleges</p>
+                <!--<span>9:15 am � 5:00 pm</span>       ->
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu//nwsnew/pdf/merge22.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>->MERGE - How to strengthen Internationalization </a>
+                <p>CIR</p>
+                <!--<span>9:15 am � 5:00 pm</span>        ->
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>11</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu//nwsnew/pdf/131st birthday celebration.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>>131<sup>st</sup> Birthday Anniversary of Dr.Babasaheb Ambedkar </a>
+                <p>SC/ST Cell</p>
+                <!--<span>9:15 am � 5:00 pm</span>        >
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu//nwsnew/pdf/CIPR_Brochure for World IP Day 2022.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>->One day Awareness Workshop on Intellectual Property Rights and Innovation 2022</a>
+                <p>CIPR</p>
+                <!--<span>9:15 am � 5:00 pm</span>        ->
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>6</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Call for Proposals - Third Wave.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>->Call for Project Proposals from Innovators / Start-ups / MSME</a>
+                <p>ANIHEES</p>
+                <!--<span>9:15 am � 5:00 pm</span>        ->
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>7</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/upm.pdf" target="_blank">Faculty exchange for Erasmus+ staff mobility programme at the Universidad Polit�cnica de Madrid, Spain - CIR</a>
+                <p>CIR</p>
+                <!--<span>9:15 am � 5:00 pm</span>        >
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>7</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/acg.pdf" target="_blank"><!--<h4>Latinoo College Expo 2018</h4>>n update to the India Economic Strategy to 2035: Accelerating our Economic Integration organized by the Australian Consul-General for South India</a>
+                <p>CIR</p>
+                <!--<span>9:15 am � 5:00 pm</span>        >
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>3</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/TALENT%20AND%20JOB%20FAIR%20INVITE.pdf" target="_blank">Techknow 2022 - Talent / Job fair</a>
+                <p>-</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>3</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/idea%20Project%20Competation.pdf" target="_blank">Student Exchange Programme at Politecnio Di Milano, Italy</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22-23</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/idea%20Project%20Competation.pdf" target="_blank">Techknow 2022 - Idea / Project Submission </a> - <a href="https://www.annauniv.edu/pdf/VID-20220405-WA0008.mp4" target="_blank">Video</a>
+                <p>-</p>
+            </div>
+         </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22-23</span>
+                <span>April 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/Seminar%20on%20Employability.pdf" target="_blank">Techknow 2022 - Seminar on employability & industry expectations - Registration</a> - <a href="https://www.annauniv.edu/pdf/VID-20220405-WA0009.mp4" target="_blank">Video</a>
+                <p>-</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>03</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/GIAN BROCHURE 16 03 2022 (1).pdf" target="_blank">GIAN course on New Concepts in Tumor Biology: From the Bench to Bedside</a>
+                <p> CTDT</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>11</span>
+                <span>Apr 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/tampautumn.pdf" target="_blank">Student Exchange Programme at the Tampere University, Finland</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>2-4</span>
+                <span>June 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://icaiea2022.org/">Fourth International Conference on Advances in Industrial Engineering Applications (ICAIEA-2022)</a>
+                <p>Dept. of Industrial Engg.</p>
+            </div>
+        </li>
+	</ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22</span>
+                <span>Apr 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/bern22.pdf" target="_blank">Student exchange programme at the University of Bern, Switzerland</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+    <!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>22</span>
+                <span>Apr 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/ecn.pdf" target="_blank">Student Exchange Programme at Ecole Centrale De Nantes, France</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+    <!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>09</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/ut22.pdf" target="_new">Student Exchange programme (Autumn semester) at the University of Tours, France</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>03</span>
+                <span>May 2022</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="https://www.annauniv.edu/pdf/GIAN_BROCHURE.pdf" target="_new">GIAN course on New Concepts in Tumor Biology: From the Bench to Bedside </a>
+                <p>Dept. of Pharmaceutical Technology</p>
+            </div>
+        </li>
+    </ul-->
+	<!--ul>
+        <li>
+            <div class="ho-ev-date">
+                <span>-</span>
+                <span>-</span>
+            </div>
+            <div class="ho-ev-link">
+                <a href="#" target="_new">Anna University offered MOOCs on the following courses on Data Structures </a>/
+                <a href="https://onlinecourses.swayam2.ac.in/cec22_cs08/preview" target="_new">DBMS</a> / <a href="https://onlinecourses.swayam2.ac.in/cec22_cs09/preview" target="_new">Digital Electronics & Microprocessor - EMRC</a>
+                <p>CIR</p>
+            </div>
+        </li>
+    </ul-->
+</marquee>
+                                    </div>
+                                </div>
+                            </div>
+
+							<div class="col-lg-4">
+								<div class="bot-gal h-blog ho-event">
+    							<h4>Recruitments <a href="events.php"><button class="site-button orange m-r5 float-right" type="button">View More</button></a></h4>
+									<div class="ho-event">
+										<marquee direction="up" height="280" scrollAmount=6 scrollDelay=150 onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>15</span>
+				<span>July 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/Notification & Application- RA.pdf" target="_blank">Recruitment of Research Assistant (RA) </a>
+				<p>Dept. of Pharmaceutical Tech. - BIT Campus</p>
+			</div>
+		</li>
+	</ul>
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>27</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/recruitment of jrf-CBT.pdf" target="_blank">Recruitment of JRF </a>
+				<p>Centre for Bio Tech.</p>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>22</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/project associate advertisement.pdf" target="_blank">Advertisement for the Temporary Position of Project Associate</a>
+				<p>Dept. of EEE - UCE Nagercoil</p>
+			</div>
+		</li>
+	</ul-->
+	
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>21</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/ScannerGo_23-05-2022-11.35.16.981.pdf" target="_blank">Recruitment for the post of Part-Time Medical Officer</a>
+				<p>Health Centre - UCE - BIT Campus</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>18</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/Recuitment of project personals.pdf" target="_blank">Recruitment of Project Personals for different Project Positions. </a>
+				<p>AU-KBC Research Centre</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>16</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/Advt-UGC-DAE_JRF-CGC-Ad-June2022.pdf" target="_blank">Recruitment of CRS Project Fellow </a>
+				<p>CGC</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>12</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/Adverstisement RUSA2 P013.pdf" target="_blank">Recruitment of PA,TA and Skilled Assistant in the RUSA 2.0 Funded Project</a>
+				<p>Dept. of Chemical Engg. - A.C.Tech Campus</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>10</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/Dept._of_Instrumentation_Engg.__MIT_-_Call_for_applications_-_SIFSAAI_-_2022-_Summer_internship.pdf" target="_blank">Call for Applications - Summer Internship For Students from Anna University Affiliated Institutions (SIFSAAI 2022)</a>
+				<p>Dept. of Instrumentation Engg. - MIT Campus</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>16</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/JRF Recruitment _10.05.2022.pdf" target="_blank">Recruitment of JRF</a>
+				<p>Dept. of CSE - Last Date Extended</p>
+			</div>
+		</li>
+	</ul-->
+	<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>-</span>
+				<span>-</span>
+			</div>											
+			<div class="ho-ev-link">													
+				<a href="https://www.annauniv.edu/nwsnew/pdf/RCELL FULL PDF_07_04_2022.pdf" target="_blank">CAS Notification</a>
+				<p>Recruitment Cell</p>										
+			</div>
+		</li>
+	</ul>
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>03</span>
+				<span>June 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/SERB_JRF_NOTIFICATION_0001.pdf" target="_blank">Recruitment of JRF</a>
+				<p>CES</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>25</span>
+				<span>May 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/RECRUITMENT OF JRF only _2022 FN _ Final.pdf" target="_blank">Application for the post of JRF-RUSA 2.0/AU</a>
+				<p>Department of Electrical and Electronics Engineering</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>18</span>
+				<span>May 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/PA Advertisement.pdf" target="_blank">Recruitment of Project Assistant I and II</a>
+				<p>AU-FRG Institute for CAD/CAM</p> 
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>16</span>
+				<span>May 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/Advt-UGC-DAE_JRF-post-CGC.pdf" target="_blank">Recruitment of JRF</a>
+				<p>CGC</p> 
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>04</span>
+				<span>May 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/Recruitment Notice-2022.pdf" target="_blank">Recruitment of Field Coordinator</a>
+				<p>IEDP HUB - MIT Campus</p> 
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>30</span>
+				<span>April 2022</span>
+			</div>
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/pdf/advt._UIC_Coordinator.pdf" target="_blank">Recruitment of Business Manager</a>
+				<p>E-Yuva Centre (UIC)</p> 
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>22</span>
+				<span>April 2022</span>
+			</div>											
+			<div class="ho-ev-link">													
+				<a href="https://www.annauniv.edu/nwsnew/pdf/addverisement application.pdf" target="_blank">Recruitment of Project Associate - I</a>
+				<p>Dept. of Production Tech. - MIT Campus</p>										
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>18</span>
+				<span>April 2022</span>
+			</div>											
+			<div class="ho-ev-link">													
+				<a href="https://www.annauniv.edu/nwsnew/pdf/Asst Prof.pdf" target="_blank">Recruitment of Assistant Professor (Management) (Contract)</a>
+				<p>Centre for Distance Education</p>										
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>18</span>
+				<span>April 2022</span>
+			</div>											
+			<div class="ho-ev-link">													
+				<a href="https://www.annauniv.edu/nwsnew/pdf/Application Programmer.pdf" target="_blank">Recruitment of Junior Application Programmer</a>
+				<p>Centre for Distance Education</p>										
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>19</span>
+				<span>April 2022</span>
+			</div>											
+			<div class="ho-ev-link">													
+				<a href="https://www.annauniv.edu/pdf/CCCDM_ADVERTISEMENT.pdf" target="_blank">Recruitment of Project Scientist / Project Associate II</a>
+				<p>CCCDM</p>										
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>07</span>
+				<span>Mar 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="">Recruitment of Professional Assistant-I - Engineering Design Division</a>
+				<p>Dept. of Mechanical Engineering</p>
+			</div>
+		</li>
+	</ul-->		
+</marquee>										
+									
+				
+									</div>
+								</div>							
+							</div>
+							<div class="col-lg-4">							
+							<div class="bot-gal h-blog ho-event">
+    							<h4>Tender <a href="tender.php"><button class="site-button orange m-r5 float-right" type="button">View More</button></a></h4>
+									<div class="ho-event">
+									    <marquee direction="up" height="300" scrollAmount=6 scrollDelay=150 onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()"!>
+
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>13</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3355.pdf" target="_blank">Tender Notice No. 13/3355/DB/Civil/MIT/REG/2022-23</a>
+			</div>
+		</li>
+</ul>
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>13</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3512.pdf" target="_blank">Tender Notice No. 14/3512/DB/Civil/REG/2022-23</a>
+			</div>
+		</li>
+</ul>
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>13</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3525.pdf" target="_blank">Tender Notice No. 15/3525/DB/Elect/REG/2022-23</a>
+			</div>
+		</li>
+</ul>
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>13</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3613.pdf" target="_blank">Tender Notice No. 16/3613/DB/HOS/Civil/REG/2022-23</a>
+			</div>
+		</li>
+</ul>
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>13</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.9_DB_Civil.pdf" target="_blank">Tender Notice No. 9/DB/Civil/MIT/EO/2022-23</a>
+			</div>
+		</li>
+	</ul>
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>13</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.10_db_Elect.pdf" target="_blank">Tender Notice No. 10/DB/Elect/EO/2022-23</a>
+			</div>
+		</li>
+	</ul>
+<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>13</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.11_db_eo.pdf" target="_blank">Tender Notice No. 11/DB/EO/2022-23</a>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>08</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/Tender Notice No.2Electrical work22.06.2022.pdf" target="_blank">Tender Notice No. 02 CEG-CEM/Electrical Work/2022-23</a>
+			</div>
+		</li>
+	</ul>
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>06</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/Tender_Notice_CEM_Cell.pdf" target="_blank">Tender Notice No. 01 CEG-CEM/Civil Work/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>07</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/re-tenderno.3351.pdf" target="_blank">Tender Notice No. 9A/3351/DB/Civil/MIT/REG/2022-23</a>
+			</div>
+		</li>
+</ul-->
+<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>07</span>
+				<span>July 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/re-tenderno.3353.pdf" target="_blank">Tender Notice No. 11A/3353/DB/Civil/MIT/REG/2022-23</a>
+			</div>
+		</li>
+</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>21</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3353.pdf" target="_blank">Tender Notice No. 11/3353/DB/Civil/MIT/REG/2022-23</a>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>21</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3354.pdf" target="_blank">Tender Notice No. 12/3354/DB/Elect/REG/2022-23</a>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>21</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.8_DB_Elect_EO.pdf" target="_blank">Tender Notice No. 8/DB/Elect/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>15</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3351.pdf" target="_blank">Tender Notice No. 9/3351/DB/Civil/MIT/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>15</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3352.pdf" target="_blank">Tender Notice No. 10/3352/DB/Elect/MIT/REG/2022-23</a>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>15</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.7_db_Elect_MIT.pdf" target="_blank">Tender Notice No. 7/DB/Elect/MIT/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>08</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3181.pdf" target="_blank">Tender Notice No. 6/3181/DB/Elect/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>08</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2613.pdf" target="_blank">Tender Notice No. 7/2613/DB/Civil/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>08</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2612.pdf" target="_blank">Tender Notice No. 8/2612/DB/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>08</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.4_db_elect_eo.pdf" target="_blank">Tender Notice No. 4/DB/Elect/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>08</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.5_db_Sraff qrs_elect.pdf" target="_blank">Tender Notice No. 5/DB/Staff Qrs/Elect/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>08</span>
+				<span>June 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.6_db_civil_eo.pdf" target="_blank">Tender Notice No. 6/DB/Civil/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>16</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2345_oh_CCCDM.pdf" target="_blank">Re-Tender Notice No. 3A/2345/OH/CCCDM/CIVILL/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>17</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2416.pdf" target="_blank">Tender Notice No. 4/2416/DB/CIVIL/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>17</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2614.pdf" target="_blank">Tender Notice No. 5/2614/DB/CIVIL/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>17</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.1_oh_dme.pdf" target="_blank">Tender Notice No. 1/OH/DME/Elect/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>17</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2_db_civil_07.pdf" target="_blank">Tender Notice No. 2/DB/CIVIL/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>17</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.3_oh_CCCDM.pdf" target="_blank">Tender Notice No. 3/OH/CCCDM/Elect/EO/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>05</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2112.pdf" target="_blank">Tender Notice No. 2/2112/OH/KDC/ELECT/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>05</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.2345.pdf" target="_blank">Tender Notice No. 3/2345/OH/CCCDM/CIVIL/REG/2022-23</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>11</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/RCCPUBLISH.pdf" target="_blank">Tender Notice No. 25/CPO/AAVP/CDE/2022</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>17</span>
+				<span>May 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/Tender_condemnation.pdf" target="_blank">Tender application - condemnation of redundant vehicles</a>
+				<p>Logistics Centre</p>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>25</span>
+				<span>Apr 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/Tender Notice no.1.pdf" target="_blank">	Tender Notice No.1/2308/OH/CCCDM/CIVIL/REG/2022-2023</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>11</span>
+				<span>Apr 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="https://www.annauniv.edu/tender/pdf/tenderno.72_2051.pdf" target="_blank">	Tender Notice No. 72/7051/DB/Staff Qrs/Civil/REG/2021-2022</a>
+			</div>
+		</li>
+	</ul-->
+	<!--ul>
+		<li>
+			<div class="ho-ev-date">
+				<span>04</span>
+				<span>Mar 2022</span>
+			</div>											
+			<div class="ho-ev-link">
+				<a href="">MIETY Sponsored One Week Joint Online FDP on Android Programming and Applications - March 7th - 12th - 2022</a>
+				<p>Dept. of Computer Applications - UCE - BIT Campus - Tiruchirappalli</p>														
+			</div>
+		</li>
+	</ul-->
+</marquee>
+									</div>
+							 </div>
+							 
+						</div>
+								
+					</div>
+				</div>
+			</div>			
+			<!-- Events End -->
+        
+			<!-- About Company END -->			
+			
+			<!-- Client logo -->
+			<div class="section-full dlab-we-find bg-img-fix p-t20 p-b20 bg-white">
+				<div class="container">
+					<div class="section-content">
+						<div class="client-logo-carousel mfp-gallery gallery owl-btn-center-lr owl-carousel owl-btn-3">
+							<div class="item">
+								<div class="ow-client-logo ow-client-logo-card1">
+									<div class="client-logo"><a href="https://tancet.annauniv.edu/tancet/" target="_blank">TANCET 2022<br>(Results)<br><br></a></div>
+								</div>
+							</div>							
+							<div class="item">
+								<div class="ow-client-logo ow-client-logo-card2">
+									<div class="client-logo"><a href="https://www.annauniv.edu/Faculty_Recruitment-Subject_wise_Syllabus/Syllabus.pdf" target="_blank">Faculty Recruitment<br>(Written Test - Subject-wise-Syllabus)</a></div>
+								</div>
+							</div>	
+							<div class="item">
+								<div class="ow-client-logo ow-client-logo-card3">
+									<div class="client-logo"><a href="https://aucoe.annauniv.edu/rank_details.php" target="_blank">42<sup>nd</sup> Annual Convocation<br>(Rank List)</a></div>
+								</div>
+							</div>	
+							<div class="item">
+								<div class="ow-client-logo ow-client-logo-card6">
+									<div class="client-logo"><a href="http://fbonline.annauniv.edu:8080/fb/fb.jsp" target="_blank">Feedback<br>(Students of CEG/MIT/ACT/SAP)</a></div>
+								</div>
+							</div>															
+							<div class="item">
+								<div class="ow-client-logo ow-client-logo-card4">
+									<div class="client-logo"><a href="https://www.annauniv.edu/pdf/ugc_pn.jpeg" target="_blank"><br>Grievance Redressals<br><br></a></div>
+								</div>
+							</div>	
+							<div class="item">
+								<div class="ow-client-logo ow-client-logo-card5">
+									<div class="client-logo"><a href="https://aucoe.annauniv.edu/pdf/notification/augrivance.pdf" target="_blank"><br>OGRS<br><br></a></div>
+								</div>
+							</div>	
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Client logo END -->
+			
+			
+			<!-- Company staus -->
+			<div class="section-full text-white bg-img-fix content-inner overlay-black-dark counter-staus-box" style="background-image:url(images/background/bg4.jpg);">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.2s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-university fa-lg"></i>
+									<h2 class="dlab-tilte counter">494</h2>
+									<p>Affiliated Colleges</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-university fa-lg"></i>
+									<h2 class="dlab-tilte counter">16</h2>
+									<p>Constituent Colleges</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.4s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-book fa-lg"></i>
+									<h2 class="dlab-tilte counter">84</h2>
+									<p>UG Programmes</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-book fa-lg"></i>
+									<h2 class="dlab-tilte counter">171</h2>
+									<p>PG Programmes</p>
+								</div>
+							</div>
+						</div>
+						</div>
+						<div class="row">
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-book-reader fa-lg"></i>
+									<h2 class="dlab-tilte">4845</h2>
+									<p>UG Subjects</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-book-reader fa-lg"></i>
+									<h2 class="dlab-tilte">9690</h2>
+									<p>PG Subjects</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-book-reader fa-lg"></i>
+									<h2 class="dlab-tilte">2261</h2>
+									<p>Ph.D Onroll in 4 campuses</p>
+								</div>
+							</div>
+						</div>	
+						<div class="col-md-3 col-lg-3 col-sm-6 col-6 m-b30 wow fadeInUp counter-style-5" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="icon-bx-wraper center">
+								<div class="icon-content">
+									<i class="fa fa-book-reader fa-lg"></i>
+									<h2 class="dlab-tilte">13247</h2>
+									<p>Ph.D Onroll in other campuses</p>
+								</div>
+							</div>
+						</div>							
+					</div>
+				</div>
+			</div>
+			<!-- Company staus End -->
+			<!-- Team member -->
+			<div class="section-full bg-gray content-inner" id="vcmsg">
+				<div class="container">					
+					<div class="row">
+							<div class="col-lg-12 col-md-6 col-sm-6">
+								<h3 style="padding-left: 15px;color:#000000;height:45px;border">Message from the Vice-Chancellor</h3><br><br></div>
+							<div class="col-lg-4 col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+							<img width="358" height="460" alt="" src="images/our-team/Dr.R.Velraj.jpg" class="lazy" data-src="images/our-team/Dr.R.Velraj.jpg">
+							</div>
+							<div class="col-lg-8 col-md-6 col-sm-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+							<h3>Greetings to all!</h3><br>
+							<p align="justify">The major vision of Anna University will be towards developing a sustainable higher education system, through <br />
+a) delivery of state of art teaching and learning, b) research and innovation, c) creation of entrepreneurial ecosystem, and d) outreach activities addressing the social, economic, and environmental targets. The core objective of the University is to work for the upliftment of the humanity at large.</p>
+                    
+							<p align="justify">We are receiving increasing recognition and accolades nationally and internationally; we have been scaling greater heights in University rankings and are committed towards attaining even better position in the coming days. We have ambitious plans to demonstrate exponential growth in the coming years. Our academic departments and research centres span the fields of engineering, technology, science, management and architecture working in collaboration with regional and national partners to find pragmatic solutions to a wide range of societal and business challenges
+							</p>
+
+							<p align="justify">Untiring efforts will always be invested in revamping the curriculum with contemporary methods of blended learning, and the focus will be towards attaining academic excellence. Effective strategies will be implemented towards: creating a Multidisciplinary research ecosystem - Translating research into innovation - Product development - Technology Transfer - Business Incubation - Creating Job givers instead of Job seekers. In addition to the above, we are consistently striving towards establishing an efficient and continuous Internal Quality Assurance System - Best practices - Benchmarking - Green initiatives. The university is situated in a serene environment. The serenity along with a multifaceted structure of curricular, co-curricular and extra-curricular activities will shape a holistic - physical, mental and intellectual growth of students.
+							</p>
+
+							<p align="justify">The present governance of Anna University assures a transparent management system with participative organizational structure, motivating the star performers through awards and incentives. The University puts in sustained efforts to create brand equity in all its intellectual pursuits.
+							</p>
+
+							<p align="justify">On behalf of the University family, I wish the students enjoyable learning experience while pursuing their objectives, making the University proud of their attainments. I assure the students that your talent will be honed and you will be exposed to cutting edge and competitive environment through your zealous participation in the corporate life of this great alma mater. Anna University - the exemplary temple of learning has created several eminent personalities in the past and we hope to see more in the near future.
+							</p>
+
+							<h4 align="right">Dr. R. Velraj</h4>
+								<div>							
+								<a href="https://www.annauniv.edu/nwsnew/vcprofile.php"><button class="btn btn-primary">VC Profile</button></a>
+								<a href="https://www.annauniv.edu/nwsnew/vcgallery.php"><button class="btn btn-primary">VC Events/Gallery</button></a>							
+								</div><br>
+							</div>
+					</div>
+				</div>
+			</div>
+			<!-- Team member End -->
+			
+			<!-- Testimonials blog -->
+			<div class="section-full overlay-black-middle bg-secondry content-inner-2 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s" style="background-image:url(images/background/map-bg.png);" id="univevents">
+				<div class="container">
+					<div class="section-head text-white text-center">
+						<h2 class="title">University Events</h2>
+						<!--p>There are many variations of passages of Lorem Ipsum typesetting industry has been the industry's standard dummy text ever since the been when an unknown printer.</p-->
+					</div>
+					<div class="section-content">
+						<div class="testimonial-two-dots owl-carousel owl-none owl-theme owl-dots-primary-full owl-loaded owl-drag">
+						<div class="item">
+								<div class="testimonial-15 quote-right" style="height:250px">
+									<div class="testimonial-text ">
+										<p align="justify">Anna University congratulates all the Medal winners in Khelo India University Games - 2022 for their accomplishments by securing the 13th position at the National level and 1st position in Tamil Nadu.
+Anna University Vice-Chancellor Prof. R.Velraj with the Khelo India Games medalist and AUSB officials.</p>
+									</div>
+									<div class="testimonial-detail clearfix">
+										<div class="testimonial-pic radius">
+										<a href="images/testimonials/Khelo_India_Games.jpg"><img src="images/testimonials/Khelo_India_Games.jpg" width="100" height="100" alt=""></div>
+										<strong class="testimonial-name">Khelo India University Games</strong><span class="testimonial-position text-danger">23<sup>rd</sup> April to 03<sup>rd</sup> May 2022</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimonial-15 quote-right" style="height:250px">
+									<div class="testimonial-text ">
+										<p align="justify">Republic Day Celebrated at Anna University. Vice chancellor Dr.R.Velraj hoisted the tricolor flag Registrar Dr.G.Ravikumar, teachers & Students attended</p>
+									</div>
+									<div class="testimonial-detail clearfix">
+										<div class="testimonial-pic radius">
+										<a href="images/testimonials/republic day.jpg"><img src="images/testimonials/republic day.jpg" width="100" height="100" alt=""></div>
+										<strong class="testimonial-name">Republic Day Celebration</strong><span class="testimonial-position text-danger">26.01.2022</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimonial-15 quote-right" style="height:250px">
+									<div class="testimonial-text">
+										<p align="justify">Thiruvalluvar Day Celebated at Anna University on 15.01.2022. Dr.R.Velraj, Vice Chancellor, garlanded Thiruvalluvar statue at the main campus. All campus Deans, Professors & others attended.</p>
+									</div>
+									<div class="testimonial-detail clearfix">
+										<div class="testimonial-pic radius"><a href="images/testimonials/thiruvalluvar_day_celebration.jpg"><img src="images/testimonials/thiruvalluvar_day_celebration.jpg" width="100" height="100" alt=""></div>
+										<strong class="testimonial-name">Thiruvalluvar Day Celebration</strong> <span class="testimonial-position text-danger">19.01.2022</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimonial-15 quote-right" style="height:250px">
+									<div class="testimonial-text">
+										<p align="justify">Vice-Chancellor, Prof.R.Velraj addressed Faculty to commemorate the birth anniversaries of Veerapandiya Kattabomman and Veeramangai Velunachiyar.</p>
+									</div>									
+									<div class="testimonial-detail clearfix">
+										<div class="testimonial-pic radius">
+										<a href="images/testimonials/tamil_speech.jpg"><img src="images/testimonials/tamil_speech.jpg" width="100" height="100" alt=""></div>
+										<strong class="testimonial-name">Birth Anniversaries of Veerapandiya Kattabomman and Veeramangai Velunachiyar</strong> <span class="testimonial-position text-danger">03.01.2022</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimonial-15 quote-right" style="height:250px">
+									<div class="testimonial-text ">
+										<p align="justify">Dr.R.Velraj, Vice-Chancellor, inaugurated Book Exhibition at CEG, Anna University on 23rd Nov'21. Dr.G.Ravikumar, Registrar, Dr.D.Arivudainambi, Director of University Library and faculty members were attended.</p>
+									</div>
+									<div class="testimonial-detail clearfix">
+										<div class="testimonial-pic radius"><a href="images/testimonials/VC_book_exhibition_inauguration.jpg"><img src="images/testimonials/VC_book_exhibition_inauguration.jpg" width="100" height="100" alt=""></div>
+										<strong class="testimonial-name">Book Exhibition</strong> <span class="testimonial-position text-danger">23-24 Nov'21</span></a> 
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Testimonials blog End -->
+			<!-- Latest blog -->
+			<div class="section-full content-inner bg-gray wow fadeIn" data-wow-duration="1s" data-wow-delay="0.1s" id="alumni">
+				<div class="container">
+					<div class="section-head text-center">
+						<h2 class="title">Notable Alumni</h2>
+						<p></p>
+					</div>
+					<div class="blog-carousel owl-none owl-carousel">
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<a href="blog-single.html"><img src="images/blog/grid/Dr_APJ_Abdul_Kalam.jpg" alt=""></a> 
+								</div>
+								<div class="dlab-info p-a20">
+                                    <div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Dr.A.P.J.Abdul Kalam</li><br>
+											<li class="post-tag">Aerospace Engineering, MIT</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title">
+                                        <p><a href="blog-single.html">Former President of India</a></p>
+                                    </div>
+                                    <!--div class="dlab-post-text">
+                                        <p align="justify">After graduating from the Madras Institute of Technology in 1960, Kalam joined the Aeronautical Development Establishment of the Defence Research and Development Organisation (by Press Information Bureau, Government of India) as a scientist after becoming a member of the Defence Research & Development Service (DRDS).</p>
+										<p align="justify">Dr.A.P.J Abdul Kalam was an Indian aerospace scientist who served as the 11<sup>th</sup> president of India from 2002 to 2007.</p>					
+                                    </div-->
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#apj">Read More</button>
+										</div>
+										<!--<ul class="dlab-social-icon dez-border">
+											<li><a class="site-button facebook circle-sm fa fa-facebook" href="javascript:void(0);"></a></li>
+											<li><a class="site-button twitter circle-sm fa fa-twitter " href="javascript:void(0);"></a></li>
+											<li><a class="site-button linkedin circle-sm fa fa-linkedin " href="javascript:void(0);"></a></li>
+											<li><a class="site-button instagram circle-sm fa fa-instagram  " href="javascript:void(0);"></a></li>
+										</ul>-->
+									</div>
+                                </div>
+                            </div>						
+						</div>
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/Dr_Verghese_Kurien.jpg" alt=""> 
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Dr.Verghese Kurien</li><br>
+											<li class="post-tag">Mechanical Engineering, CEG</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Father of White Revolution</p>
+                                    </div>                                   
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#verghese">Read More</button>
+										</div>										
+									</div>
+                                </div>
+                            </div>
+						</div>
+						
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/Raj_Reddy_CEG_Civil_Engineering_1958.jpg" alt="">
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Mr.Dabbala Rajagopal "Raj" Reddy</li><br>
+											<li class="post-tag">Civil Engineering, CEG</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Indian-American Computer Scientist</p>
+                                    </div>                                   
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#rajreddy">Read More</button>
+										</div>										
+									</div>
+                                </div>
+                            </div>
+						</div>
+						
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/Sujatha_MIT_Electronics_Engineering_1959.jpg" alt="">
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Mr.S.Rangarajan alias Sujatha</li><br>
+											<li class="post-tag">Electronics Engineering, MIT</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Indian Author,Novelist and Screenwriter in Tamil</p>
+                                    </div>                                   
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#sujatha">Read More</button>
+										</div>										
+									</div>
+                                </div>
+                            </div>
+						</div>
+						
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/N_Srinivasan_ACTECH_Chemical_Engineering_1965.jpg" alt="">
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Mr.N.Srinivasan</li><br>
+											<li class="post-tag">Chemical Engineering, ACT</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Indian Industrialist, Managing Director of India Cements Ltd, Former Chairman of the International Cricket Council (ICC) and former President of the BCCI</p>
+                                    </div>                                   
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#nsrinivasan">Read More</button>
+										</div>										
+									</div>
+                                </div>
+                            </div>
+						</div>
+						
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/M_S_Ananth_ACTECH_Chemical_Engineering_1967.jpg" alt="">
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Dr.M.S.Ananth</li><br>
+											<li class="post-tag">Chemical Engineering, ACT</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Former Director of the Indian Institute of Technology, Madras</p>
+                                    </div>                                   
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#msananth">Read More</button>
+										</div>										
+									</div>
+                                </div>
+                            </div>
+						</div>
+						
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/Dr_Ramanathan_Vairavan_ACTECH_Chemical_Engineering_1970.jpg" alt="">
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Dr.Ramanathan Vairavan</li><br>
+											<li class="post-tag">Chemical Engineering, ACT</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Chairman at Alagappa Group of Educational Institutions</p>
+                                    </div>                                   
+									<!--div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-outline-secondary" data-toggle="modal" data-target="#ramanathan">Read More</button>
+										</div>										
+									</div-->
+                                </div>
+                            </div>
+						</div>					
+						
+						<div class="item">
+                            <div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect">
+                                    <img src="images/blog/grid/Sheila_Sri_Prakash_SAP_1973.jpg" alt="">
+                                </div>
+                                <div class="dlab-info p-a20">
+                                    <div class="dlab-post-meta">
+                                        <ul>
+                                            <li class="post-author"><i class="la la-user"></i>Mrs.Sheila Sri Prakash</li><br>
+                                            <li class="post-tag">Bachelors in Architecture, SAP</li>
+                                        </ul>
+                                    </div>
+                                    <div class="dlab-post-title ">
+                                        <p>Founder of Shilpa Arhitects</p>
+                                    </div>
+                                    <div class="post-footer">
+                                        <div class="dlab-post-meta">
+                                            <button class="btn btn-primary" data-toggle="modal" data-target="#sheila">Read More</button>
+                                        </div>
+                                        <ul class="dlab-social-icon dez-border">
+                                            <!--li><a class="site-button facebook circle-sm fa fa-facebook" href="https://www.facebook.com/antisrinivasan/ javascript:void(0);"></a></li-->
+                                           <li><a class="site-button twitter circle-sm fab fa-twitter" href="https://mobile.twitter.com/shilpaarchitect" target="_blank"></a></li>
+                                            <!--li><a class="site-button linkedin circle-sm fa fa-linkedin " href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGS_ZlAGC7h8QAAAX8GJzCQZEtMfgVdNG1YCMt7JwqEBk1CXaDs9BCgG43zUdUplL27Fq1PXe1ZA6XNTT0CrKkPIypgPvZzCgd39_JmzkXqPEBw0Gn9EYWOBEjfy-7WJ3b1RsQ=&originalReferer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fkrishnakumarnatarajan" javascript:void(0);"></a></li-->
+                                            <!--li><a class="site-button instagram circle-sm fa fa-instagram  " href="https://www.instagram.com/accounts/login/?next=/cheekaofficial/"></a></li-->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						
+						<div class="item">
+                            <div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect">
+                                   <img src="images/blog/grid/K_K_Natarajan_CEG_Mechanical_Engineering_1979.jpg" alt="">
+                                </div>
+                                <div class="dlab-info p-a20">
+                                    <div class="dlab-post-meta">
+                                        <ul>
+                                            <li class="post-author"><i class="la la-user"></i>Mr.K K Natarajan</li><br>
+                                            <li class="post-tag">Mechanical Engineering, CEG</li>
+                                        </ul>
+                                    </div>
+                                    <div class="dlab-post-title ">
+                                        <p>Co-founder of IT company Mindtree</p>
+                                    </div>
+                                    <div class="post-footer">
+                                        <div class="dlab-post-meta">
+                                            <button class="btn btn-primary" data-toggle="modal" data-target="#kknatarajan">Read More</button>
+                                        </div>
+                                        <ul class="dlab-social-icon dez-border">
+                                            <!--<li><a class="site-button facebook circle-sm fa fa-facebook" href="javascript:void(0);"></a></li>-->
+                                            <li><a class="site-button twitter circle-sm fab fa-twitter" href="https://mobile.twitter.com/kknatarajan" target="_blank"></a></li>
+                                            <li><a class="site-button linkedin circle-sm fab fa-linkedin" href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGS_ZlAGC7h8QAAAX8GJzCQZEtMfgVdNG1YCMt7JwqEBk1CXaDs9BCgG43zUdUplL27Fq1PXe1ZA6XNTT0CrKkPIypgPvZzCgd39_JmzkXqPEBw0Gn9EYWOBEjfy-7WJ3b1RsQ=&originalReferer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fkrishnakumarnatarajan" target="_blank"></a></li>                                           
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						
+						<div class="item">
+                            <div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect">
+                                    <img src="images/blog/grid/K_Sivan_MIT_AeronauticalEngineering_1980.jpeg" alt="">
+                                </div>
+                                <div class="dlab-info p-a20">
+                                    <div class="dlab-post-meta">
+                                        <ul>
+                                            <li class="post-author"><i class="la la-user"></i>Dr K Sivan</li><br>
+                                            <li class="post-tag">Aeronautical Engineering, MIT</li>
+                                        </ul>
+                                    </div>
+                                    <div class="dlab-post-title ">
+                                        <p>Indian space scientist who served as the Secretary of the Department of Space, Chairman of the ISRO and Space Commission</p>
+                                    </div>
+                                    <div class="post-footer">
+                                        <div class="dlab-post-meta">
+                                            <button class="btn btn-primary" data-toggle="modal" data-target="#ksivan">Read More</button>
+                                        </div>
+                                        <ul class="dlab-social-icon dez-border">
+                                            <li><a class="site-button facebook circle-sm fab fa-facebook" href="https://www.facebook.com/DrVineetIndia/" target="_blank"></a></li>
+                                            <!--li><a class="site-button twitter circle-sm fa fa-twitter " href="https://mobile.twitter.com/kknatarajan" target="_blank"></a></li>
+                                            <li><a class="site-button linkedin circle-sm fa fa-linkedin " href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGS_ZlAGC7h8QAAAX8GJzCQZEtMfgVdNG1YCMt7JwqEBk1CXaDs9BCgG43zUdUplL27Fq1PXe1ZA6XNTT0CrKkPIypgPvZzCgd39_JmzkXqPEBw0Gn9EYWOBEjfy-7WJ3b1RsQ=&originalReferer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fkrishnakumarnatarajan" javascript:void(0);"></a></li-->
+                                            <!--li><a class="site-button instagram circle-sm fa fa-instagram  " href="https://www.instagram.com/accounts/login/?next=/cheekaofficial/"></a></li-->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/M_M_Murugappan.jpg" alt="">
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Mr.M.M Murugappan</li><br>
+											<li class="post-tag">Chemical Engineering, ACT</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Executive Chairman of the Murugappa Groups</p>
+                                    </div>                                    
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#murugappa">Read More</button>
+										</div>
+										<ul class="dlab-social-icon dez-border">
+											<li><a class="site-button facebook circle-sm fab fa-facebook" href="https://www.facebook.com/MurugappaGroup/" target="_blank"></a></li>
+											<li><a class="site-button twitter circle-sm fab fa-twitter " href="https://twitter.com/mm_murugappan" target="_blank"></a></li>
+											<!--<li><a class="site-button linkedin circle-sm fa fa-linkedin " href="javascript:void(0);"></a></li>-->
+											<li><a class="site-button instagram circle-sm fab fa-instagram  " href="https://www.instagram.com/murugappa_group/?hl=en" target="_blank"></a></li>
+										</ul>
+									</div>
+                                </div>
+                            </div>
+						</div>
+						
+												
+						<div class="item">
+							<div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect"> 
+									<img src="images/blog/grid/Krishnamachari_Srikkanth.jpg" alt="">
+								</div>
+								<div class="dlab-info p-a20">
+									<div class="dlab-post-meta">
+										<ul>
+											<li class="post-author"><i class="la la-user"></i>Mr.Krishnamachari Srikkanth</li><br>
+											<li class="post-tag">Electrical Engineering, CEG</li>
+										</ul>
+									</div>
+									<div class="dlab-post-title ">
+                                        <p>Former Captain of the Indian Cricket Team</p>
+                                    </div>                                    
+									<div class="post-footer">
+										<div class="dlab-post-meta">
+											<button class="btn btn-primary" data-toggle="modal" data-target="#srikanth">Read More</button>
+										</div>
+										<ul class="dlab-social-icon dez-border">
+											<!--<li><a class="site-button facebook circle-sm fa fa-facebook" href="javascript:void(0);"></a></li>-->
+											<li><a class="site-button twitter circle-sm fab fa-twitter " href="https://twitter.com/KrisSrikkanth?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"></a></li>
+											<!--<li><a class="site-button linkedin circle-sm fa fa-linkedin " href="javascript:void(0);"></a></li>-->
+											<li><a class="site-button instagram circle-sm fab fa-instagram  " href="https://www.instagram.com/accounts/login/?next=/cheekaofficial/" target="_blank"></a></li>
+										</ul>
+									</div>
+                                </div>
+                            </div>
+						</div>
+						
+						<div class="item">
+                            <div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect">
+                                    <img src="images/blog/grid/Udaya_Kumar_SAP_2001.jpg" alt="">
+                                </div>
+                                <div class="dlab-info p-a20">
+                                    <div class="dlab-post-meta">
+                                        <ul>
+                                            <li class="post-author"><i class="la la-user"></i>Mr.D.Udaya Kumar</li><br>
+                                            <li class="post-tag">Bachelors in Architecture, SAP</li>
+                                        </ul>
+                                    </div>
+                                    <div class="dlab-post-title ">
+                                        <p>The Indian rupee sign</p>
+                                    </div>
+                                    <div class="post-footer">
+                                        <div class="dlab-post-meta">
+                                            <button class="btn btn-primary" data-toggle="modal" data-target="#udayakumar">Read More</button>
+                                        </div>
+                                        <ul class="dlab-social-icon dez-border">
+                                            <li><a class="site-button facebook circle-sm fab fa-facebook" href="https://www.facebook.com/udaya.rupeesymbol/" target="_blank"></a></li>
+                                           <!--li><a class="site-button twitter circle-sm fa fa-twitter " href="https://mobile.twitter.com/shilpaarchitect" ></a></li>
+                                            <!--li><a class="site-button linkedin circle-sm fa fa-linkedin " href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGS_ZlAGC7h8QAAAX8GJzCQZEtMfgVdNG1YCMt7JwqEBk1CXaDs9BCgG43zUdUplL27Fq1PXe1ZA6XNTT0CrKkPIypgPvZzCgd39_JmzkXqPEBw0Gn9EYWOBEjfy-7WJ3b1RsQ=&originalReferer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fkrishnakumarnatarajan" javascript:void(0);"></a></li-->
+                                            <!--li><a class="site-button instagram circle-sm fa fa-instagram  " href="https://www.instagram.com/accounts/login/?next=/cheekaofficial/"></a></li-->
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>			
+
+
+					<!--div class="item">
+                            <div class="blog-post blog-grid blog-rounded blog-effect1 post-style-1">
+                                <div class="dlab-post-media dlab-img-effect">
+                                    <img src="images/blog/grid/ramasami1.jpg" alt="" >
+                                </div>
+                                <div class="dlab-info p-a20">
+                                    <div class="dlab-post-meta">
+                                        <ul>
+                                            <li class="post-author"><i class="la la-user"></i>Dr T Ramasami</li><br>
+                                            <li class="post-tag"></li>
+                                        </ul>
+                                    </div>
+                                    <div class="dlab-post-title ">
+                                        <p>Former Secretary to the Government of India </p>
+                                    </div>
+                                    <div class="post-footer">
+                                        <div class="dlab-post-meta">
+                                            <button class="btn btn-primary" data-toggle="modal" data-target="#ramasami">Read More</button>
+                                        </div>
+                                        <ul class="dlab-social-icon dez-border">
+                                            <li><a class="site-button facebook circle-sm fab fa-facebook" href="https://www.facebook.com/udaya.rupeesymbol/" target="_blank"></a></li>
+                                           <li><a class="site-button twitter circle-sm fa fa-twitter " href="https://mobile.twitter.com/shilpaarchitect" ></a></li>
+                                            <li><a class="site-button linkedin circle-sm fa fa-linkedin " href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGS_ZlAGC7h8QAAAX8GJzCQZEtMfgVdNG1YCMt7JwqEBk1CXaDs9BCgG43zUdUplL27Fq1PXe1ZA6XNTT0CrKkPIypgPvZzCgd39_JmzkXqPEBw0Gn9EYWOBEjfy-7WJ3b1RsQ=&originalReferer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fkrishnakumarnatarajan" javascript:void(0);"></a></li>
+                                            <li><a class="site-button instagram circle-sm fa fa-instagram  " href="https://www.instagram.com/accounts/login/?next=/cheekaofficial/"></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div-->				
+						
+						
+						
+						
+					</div>
+				</div>
+			</div>
+			<!-- Latest blog END -->			
+		</div>
+    </div>
+	
+    <!-- Content END-->
+<!-- Modal Windoes-->	
+<div class="modal" id="apj" style="margin-top:5%;margin-bottom:5%">
+	<div class="modal-dialog modal-dialog-scrollable">
+		<div class="modal-content">      
+        <!-- Modal Header -->
+			<div class="modal-header">
+			  <h1 class="modal-title">Dr.A.P.J.Abdul Kalam</h1>
+			  <button type="button" class="close" data-dismiss="modal">�</button>
+			</div>        
+			<!-- Modal body -->
+			<div class="modal-body">
+				<p align="justify">After graduating from the Madras Institute of Technology in 1960, Kalam joined the Aeronautical Development Establishment of the Defence Research and Development Organisation (by Press Information Bureau, Government of India) as a scientist after becoming a member of the Defence Research & Development Service (DRDS).</p>
+				<p align="justify">Dr.A.P.J Abdul Kalam was an Indian aerospace scientist who served as the 11<sup>th</sup> president of India from 2002 to 2007.</p>		
+			</div>        
+			<!-- Modal footer -->
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+			</div>        
+		</div>
+	</div>
+</div>
+
+<div class="modal" id="verghese" style="margin-top:5%;margin-bottom:5%">
+	<div class="modal-dialog modal-dialog-scrollable">
+		<div class="modal-content">      
+        <!-- Modal Header -->
+			<div class="modal-header">
+			  <h1 class="modal-title">Dr.Verghese Kurien</h1>
+			  <button type="button" class="close" data-dismiss="modal">�</button>
+			</div>        
+			<!-- Modal body -->
+			<div class="modal-body">
+				<p>Verghese Kurien is graduated in Mechanical Engineering from College of Engineering Guindy.</p>
+				<p>Verghese Kurien known as the "Father of the White Revolution" in India.</p>
+				<p>In 1949, Kurien was sent by the government of India to its run-down, experimental creamery at Anand, Bombay province (later Bombay state and now part of Gujarat state since 1960) to serve five years as an officer in the dairy division</p>
+			</div>        
+			<!-- Modal footer -->
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+			</div>        
+		</div>
+	</div>
+</div>
+
+
+<div class="modal" id="srikanth" style="margin-top:5%;margin-bottom:5%">
+	<div class="modal-dialog modal-dialog-scrollable">
+		<div class="modal-content">      
+        <!-- Modal Header -->
+			<div class="modal-header">
+			  <h1 class="modal-title">Mr.Krishnamachari Srikkanth</h1>
+			  <button type="button" class="close" data-dismiss="modal">�</button>
+			</div>        
+			<!-- Modal body -->
+			<div class="modal-body">
+				 <p align="justify">Srikkanth is an Electrical Engineer who graduated from College of Engineering, Guindy in Chennai. He is a former captain of the Indian cricket team and former chairman of the selection committee.</p>
+				<p align="justify">Also, he is a commentator for the TV Network Star Sports Tamil. He is also included to the panel of All India Council of Sports (AICS) as a member in January 2020.</p>
+			</div>        
+			<!-- Modal footer -->
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+			</div>        
+		</div>
+	</div>
+</div>
+
+<div class="modal" id="murugappa" style="margin-top:5%;margin-bottom:5%">
+	<div class="modal-dialog modal-dialog-scrollable">
+		<div class="modal-content">      
+        <!-- Modal Header -->
+			<div class="modal-header">
+			  <h1 class="modal-title">Mr.M.M.Murugappan</h1>
+			  <button type="button" class="close" data-dismiss="modal">�</button>
+			</div>        
+			<!-- Modal body -->
+			<div class="modal-body">
+				 <p align="justify">MM Murugappan is a fourth-generation member of the Murugappa family and the Executive Chairman of the Murugappa Group Corporate Advisory Board since Feb 2018. He is Chairman of Tube Investments of India Ltd, Carborundum Universal Ltd and Coromandel International Ltd. He is a Trustee of the AMM Foundation and the Correspondent of the Murugappa Polytechnic College. </p>
+				<p align="justify">He has a Bachelor�s in Chemical Engineering from the AC College of Technology, University of Madras, and a Master of Science Degree in Chemical Engineering from the University of Michigan, United States.</p>
+			</div>        
+			<!-- Modal footer -->
+			<div class="modal-footer">
+			  <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+			</div>        
+		</div>
+	</div>
+</div>
+
+<div class="modal" id="kknatarajan" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Mr.K.K. Natarajan</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                <p align="justify">Krishnakumar Natarajan is one of the co-founders of IT company Mindtree</p>
+                <p align="justify">KK graduated in 1979 with a degree in Mechanical Engineering from the College of Engineering, Guindy, Chennai, India.</p>
+				<!--<p align="justify">KK started his career in Wipro and held various key positions there from 1982 to 1999. During this time, he started and grew the Ecommerce division as the Chief Executive of the Ecommerce and Financial Solutions Division from 1996 to 1999. He served as Group Vice President of Human Resources and also as Chief Marketing Officer for Wipro's IT business.</p>
+				<p align="justify">He was until recently the Executive Chairman of Mindtree, until its acquisition by L&T Infotech.</p>
+				<p align="justify">KK is an active member of several professional industry organizations, such as the Manufacturer's Association for Information Technology (MAIT) and the Confederation of Indian Industry (CII)</p>
+				<p align="justify">KK was ranked number 28 on the 50 highest rated CEOs list published by Glassdoor, 2013</p>-->
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="ksivan" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Dr.K. Sivan</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">Kailasavadivoo Sivan (born 14 April 1957) is an Indian space scientist who served as the Secretary of the Department of Space and chairman of Indian Space Research Organisation and Space Commission. He has previously served as the Director of the Vikram Sarabhai Space Center and the Liquid Propulsion Systems Centre.</p>
+                <p align="justify">Sivan is son of a mango farmer and studied in a Tamil medium Government school in Mela Sarakkalvilai Village and later in Vallankumaranvilai in Kanyakumari district. He is the first graduate from his family. Later Sivan graduated with a bachelor's degree in engineering from Madras Institute of Technology in 1980. He then got a master's degree in aerospace engineering from Indian Institute of Science, Bangalore in 1982, and started working in ISRO. He earned a doctoral degree in aerospace engineering from Indian Institute of Technology, Bombay in 2006. He is a Fellow of the Indian National Academy of Engineering, the Aeronautical Society of India and the Systems Society of India.</p>
+				<!--<p align="justify">Sivan worked on the design and development of launch vehicles for Indian Space Research Organisation (ISRO). Sivan joined ISRO in 1982 to participate on the Polar Satellite Launch Vehicle (PSLV) Project. He was appointed as the director of ISRO's Liquid Propulsion Systems Centre on 2 July 2014. He was conferred Doctor of Science (Honoris Causa) from Sathyabama University, Chennai in April 2014. On 1 June 2015, he became the Director of Vikram Sarabhai Space Centre.</p>
+				<p align="justify">Sivan was appointed the chief of ISRO in January 2018 and he assumed office on 15 January. Under his chairmanship, ISRO launched Chandrayaan 2, the second mission to the moon on 22 July 2019, of which Vikram lander and Pragyan (rover) crashed; the orbiter was not affected and is still orbiting the moon as of January 2022. </p>-->
+				
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="msananth" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Dr.M S Ananth</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">Madaboosi Santanam Ananth is an Indian academic who served as the director of the Indian Institute of Technology, Madras from 2001 to 2011. He was presented with The Herdillia award for excellence in basic research in chemical engineering.</p>
+                <p align="justify">He did his schooling in Madras Christian College Higher Secondary School. Ananth is an alumnus of Alagappa College of Technology, Chennai, where he completed his bachelor's degree in chemical engineering with a gold medal.</p>
+				<!--<p align="justify">Ananth is the head of NPTEL's Project Implementation committee, and the NPTEL program is often referred to as his 'brainchild'. He also serves on the boards of companies, including Chennai Petroleum Corporation Limited, Neyveli Lignite Corporation and Medlab Asia</p>
+				<p align="justify">Herdillia award for excellence in basic research in chemical engineering (IIChE 1994)</p>
+				<p align="justify">Fellow, Indian Institute of Chemical Engineering</p>
+				<p align="justify">Fellow, Indian National Academy of Engineering</p>-->
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="nsrinivasan" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Mr.N Srinivasan</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">Narayanaswami Srinivasan (born 3 January 1945) is an Indian industrialist. He is a former Chairman of the International Cricket Council (ICC) and former President of the BCCI, the governing body for cricket in India. He is also the managing director of India Cements Limited.</p>
+                <!--<p align="justify">Srinivasan was born at Kallidaikurichi, Tirunelveli district, Tamil Nadu. He is the son of T. S. Narayanaswami, one of the first employees of India Cements. He did his schooling in Madras Christian College Higher Secondary School. He holds a Bachelor of Science from Loyola College, Chennai and Master of Science degree in Chemical Engineering from the Illinois Institute of Technology, Chicago, United States. </p>
+				<p align="justify">Srinivasan took over as vice-chairman and managing director of India Cements in 1989. N. Srinivasan made a hostile takeover bid to Andhra Pradesh-based Raasi Cements in 90's and merged with India Cements</p>-->
+				
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="raj reddy" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Mr.Raj Reddy</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">Dabbala Rajagopal "Raj" Reddy (born 13 June 1937) is an Indian-American computer scientist and a winner of the Turing Award. He is the first person of Asian origin to receive the Turing Award, in 1994, known as the Nobel Prize of Computer Science, for his work in the field of artificial intelligence.</p>
+                <p align="justify">Raj Reddy was born in a Telugu family in Katur village of Chittoor district of present-day Andhra Pradesh, India. He received his bachelor's degree in civil engineering from College of Engineering, Guindy, then affiliated to the University of Madras (now to Anna University, Chennai), India, in 1958, and a MEng degree from the University of New South Wales, Australia, in 1960. He received his PhD degree in Computer Science from Stanford University in 1966. </p>
+				<!--<p align="justify">Reddy is the University Professor of Computer Science and Robotics and Moza Bint Nasser Chair at the School of Computer Science at Carnegie Mellon University. From 1960, he worked for IBM in Australia. He was an Assistant Professor of Computer Science at Stanford University from 1966 to 1969. He joined the Carnegie Mellon faculty as an associate professor of Computer Science in 1969. He became a full professor in 1973 and a university professor, in 1984. He was the founding director of the Robotics Institute from 1979 to 1991 and the Dean of School of Computer Science from 1991 to 1999. As a dean of SCS, he helped create the Language Technologies Institute, Human Computer Interaction Institute, Center for Automated Learning and Discovery (since renamed as the Machine Learning Department), and the Institute for Software Research. He is the chairman of Governing Council of IIIT Hyderabad. </p>
+				<p align="justify">He is a fellow of the AAAI, ACM, Acoustical Society of America, IEEE and Computer History Museum. Reddy is a member of the United States National Academy of Engineering, American Academy of Arts and Sciences, Chinese Academy of Engineering, Indian National Science Academy, and Indian National Academy of Engineering</p>-->
+				<p align="justify"></p>
+				<p align="justify"></p>
+				<p align="justify"></p>
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="sheila" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Mrs.Sheila Sri Prakash</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">Sheila Sri Prakash (born 6 July 1955) is an architect and urban designer of Indian origin. She is the founder of Shilpa Architects and is the first woman in India to have started and operated her own architectural practice. </p>
+                <p align="justify">She attended the Rosary Matriculation School in Chennai and attained a pre-university degree from Stella Maris College, Chennai. She enrolled in the Bachelors in Architecture from the Anna University School of Architecture and Planning in 1973, at a time when there was a strong bias against women entering the field, and attended the Harvard Graduate School of Design's Executive Education Program. </p>
+				<!--<p align="justify">She is the founder of Shilpa Architects and is the first woman in India to have started and operated her own architectural practice. </p>-->
+				
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="sujatha" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Mr.Sujatha</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">S. Rangarajan (3 May 1935 � 27 February 2008), better known by his allonym Sujatha, was an Indian author, novelist and screenwriter who wrote in Tamil. He authored over 100 novels, 250 short stories, ten books on science, ten stage plays, and a slim volume of poems. He was one of the most popular authors in Tamil literature, and a regular contributor to topical columns in Tamil periodicals such as Ananda Vikatan, Kumudam and Kalki. He had a wide readership, and served for a brief period as the editor of Kumudam, and has also written screenplays and dialogues for several Tamil films.</p>
+               
+				
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="udayakumar" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Mr.Udaya Kumar Dharmalingam</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">Udaya Kumar Dharmalingam is an Indian academic and designer noted for his design of the Indian rupee sign. His design was selected from among five short listed symbols. According to Kumar, the design is based on the Indian tricolour</p>
+                <p align="justify">Kumar attended La Chatelaine junior college in Chennai. He obtained a bachelor's degree in architecture (B.Arch) from the School of Architecture and Planning (SAP) at Anna University, Chennai in 2001. Subsequently he received his master's degree, an MDes in Visual Communication, from the Industrial Design Centre (IDC) of IIT Bombay in 2003. He also did his doctoral studies at the IDC, receiving his PhD in 2010.</p>
+				
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal" id="ramasami" style="margin-top:5%;margin-bottom:5%">
+    <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+        <!-- Modal Header -->
+            <div class="modal-header">
+              <h1 class="modal-title">Dr.T.Ramasami</h1>
+              <button type="button" class="close" data-dismiss="modal">�</button>
+            </div>
+            <!-- Modal body -->
+            <div class="modal-body">
+                 <p align="justify">Dr Thirumalachari Ramasami Former Secretary to the Government of India in the Department of Science of Technology, is a technologist-turned-scientist and a scientist-turned-civil servant. He served as the Director of the Central Leather Research Institute, Chennai, India. He is a distinguished researcher and leather scientist. He was awarded India's National Civilian Honour the Padma Shri for excellence in Science and Engineering in 2001 and the Padma Bhushan in 2014.  He was awarded the Shanti Swarup Bhatnagar Award, the highest award for science in India, for notable and outstanding research in Chemical Sciences in 1993. He is an elected Fellow of Indian National Science Academy, Indian Academy of Sciences, National Academy of Sciences of India, Indian National Academy of Engineers and Third World Academy of Sciences.</p>
+                <!--p align="justify">Kumar attended La Chatelaine junior college in Chennai. He obtained a bachelor's degree in architecture (B.Arch) from the School of Architecture and Planning (SAP) at Anna University, Chennai in 2001. Subsequently he received his master's degree, an MDes in Visual Communication, from the Industrial Design Centre (IDC) of IIT Bombay in 2003. He also did his doctoral studies at the IDC, receiving his PhD in 2010.</p-->
+				
+            </div>
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Windows End-->
+	
+	
+	<!-- Newsletter -->
+	<div class="section-full bg-primary text-white" id="aumap">		
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15549.549036460767!2d80.22508622781051!3d13.010993253279583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52679f95f8606b%3A0xe1f0081f73a3c0bc!2sAnna%20University%2C%20Kotturpuram%2C%20Chennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1643765369940!5m2!1sen!2sin" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>				
+	</div>
+	
+ <!-- Footer -->
+    <footer class="site-footer" id="quicklinks">
+        <div class="footer-top" style="background-image:url(images/pattern/pt15.png);">
+            <div class="container">
+                <div class="row">					
+					<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 footer-col-4 col-12">
+                        <div class="widget widget_services border-0">
+							<h5 class="footer-title">Quick Links</h5>
+							<ul class="mm-t10">
+								<li><a href="https://www.annauniv.edu/pdf/Acts%20&%20Statues-New.pdf" target="_blank">Act & Statutes</a></li>
+								<li><a href="https://www.annauniv.edu/IQAC" target="_blank">Mandatory Disclosure</a></li>
+								<li><a href="https://onlinetranscript.annauniv.edu/verify/" target="_blank">CoE - Genuineness Verification</a></li>
+								<li><a href="http://cde.annauniv.edu/Default.aspx" target="_blank">Distance Education</a></li>
+								<li><a href="http://www.mhrdnats.gov.in/" target="_blank">National Apprenticeship Schemes</a></li>
+								<li><a href="https://www.annauniv.edu/nirf.php" target="_blank">NIRF</a></li>
+								<li><a href="https://www.annauniv.edu/POSH/index.php" target="_blank">Prevention of Sexual Harassement Cell (POSH)</a></li>
+							</ul>
+						</div>
+                    </div>					
+					<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 footer-col-4 col-12">
+                        <div class="widget widget_services border-0">
+							<h5 class="footer-title">Quick Links</h5>
+							<ul class="mm-t10">
+								<li><a href="https://www.annauniv.edu/RTI2005.html" target="_blank">RTI Mandatory Disclosure</a></li>								
+								<li><a href="https://onlineservices.annauniv.edu/" target="_blank">Student Online Services (AUSOS)</a></li>
+								<li><a href="https://www.annauniv.edu/campustour/index.php" target="_blank">Students' Activities </a></li>
+								<li><a href="https://www.annauniv.edu/nwsnew/tender.php" target="_blank">Tender </a></li>
+								<li><a href="https://www.annauniv.edu/univdept.php" target="_blank">University Departments</a></li>
+								<li><a href="https://www.annauniv.edu/nwsnew/constituent.php" target="_blank">Constituent Colleges & Regional Offices</a></li>
+							</ul>
+						</div>
+                    </div>
+					<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 footer-col-4 col-12">
+                        <div class="widget widget_services border-0">
+							<h5 class="footer-title">Downloads</h5>
+							<ul class="mm-t10">								
+								<li><a href="https://www.annauniv.edu/pdf/WiFi_Registration_Form.pdf" target="_blank">WiFi Registration Form</a></li>
+								<li><a href="https://www.annauniv.edu/rcc/pdf/form creating MS teams.pdf" target="_blank">MS Teams ID Requisition Form</a></li>
+								<li><a href="http://fbonline.annauniv.edu:8080/fb/fb.jsp" target="_blank">Feedback Form for Students</a></li>
+							</ul>
+						</div>
+                    </div>
+					<div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 footer-col-4 col-12">
+                        <div class="widget widget_services border-0">
+							<h5 class="footer-title">Intranet Services</h5>
+							<ul class="mm-t10">
+								<li><a href="http://10.11.80.135/onlinepayslip/" target="_blank">PAYSLIP (Intranet Only)</a></li>
+								<li><a href="https://fb.annauniv.edu/fbreport/index.php" target="_blank">Feedback Portal (Intranet Only)</a></li>
+								<li><a href="https://vrl.annauniv.edu/" target="_blank">Computing</a></li>
+								<li><a href="http://ict.annauniv.edu/ICT-Comreg/" target="_blank">ICT Support Systems (Intranet Only)</a></li>
+								<li><a href="http://campuscare.annauniv.edu/campuscare" target="_blank">Campus Care (Intranet Only)</a></li>								
+							</ul>
+						</div>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+        <!-- footer bottom part -->
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 text-left "> <span>Copyright @ 2022 Ramanujan Computing Centre | Anna University, Chennai.</span> </div>
+                    <div class="col-md-6 col-sm-6 text-right "> 
+						<div class="widget-link "> 
+							<ul>
+								<li><a href="javascript:void(0);"> About</a></li> 
+								<li><a href="javascript:void(0);"> Help Desk</a></li> 
+								<li><a href="javascript:void(0);"> Privacy Policy</a></li> 
+							</ul>
+						</div>
+					</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer END-->
+    <button class="scroltop icon-up" type="button"><i class="fa fa-arrow-up"></i></button>
+</div>
+
+
+
+
+
+
+
+<!-- JAVASCRIPT FILES ========================================= -->
+<script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
+<script src="plugins/wow/wow.js"></script><!-- WOW JS -->
+<script src="plugins/bootstrap/js/popper.min.js"></script><!-- BOOTSTRAP.MIN JS -->
+<script src="plugins/bootstrap/js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
+<script src="plugins/bootstrap-select/bootstrap-select.min.js"></script><!-- FORM JS -->
+<script src="plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
+<script src="plugins/magnific-popup/magnific-popup.js"></script><!-- MAGNIFIC POPUP JS -->
+<script src="plugins/counter/waypoints-min.js"></script><!-- WAYPOINTS JS -->
+<script src="plugins/counter/counterup.min.js"></script><!-- COUNTERUP JS -->
+<script src="plugins/imagesloaded/imagesloaded.js"></script><!-- IMAGESLOADED -->
+<script src="plugins/masonry/masonry-3.1.4.js"></script><!-- MASONRY -->
+<script src="plugins/masonry/masonry.filter.js"></script><!-- MASONRY -->
+<script src="plugins/owl-carousel/owl.carousel.js"></script><!-- OWL SLIDER -->
+<script src="plugins/lightgallery/js/lightgallery-all.min.js"></script><!-- Lightgallery -->
+<script src="js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
+<script src="js/dz.carousel.js"></script><!-- SORTCODE FUCTIONS  -->
+<script src="plugins/countdown/jquery.countdown.js"></script><!-- COUNTDOWN FUCTIONS  -->
+<script src="js/dz.ajax.js"></script><!-- CONTACT JS  -->
+<script src="plugins/rangeslider/rangeslider.js" ></script><!-- Rangeslider -->
+
+<script src="js/jquery.lazy.min.js"></script>
+
+<!-- REVOLUTION JS FILES -->
+<script src="plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<!-- Slider revolution 5.0 Extensions  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="plugins/revolution/revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+<script src="js/rev.slider.js"></script>
+<script>
+jQuery(document).ready(function() {
+	'use strict';
+	dz_rev_slider_1();	
+	$('.lazy').Lazy();
+});	/*ready*/
+</script>
+</body>
+</html>
